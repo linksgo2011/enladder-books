@@ -4,20 +4,20 @@
       "title": "A Tale of Two Cities",
       "cnTitle": "双城记",
       "author": "Charles Dickens",
-      "cover": "/books/A Tale of Two Cities/cover.jpg",
+      "cover": "./books/A Tale of Two Cities/cover.jpg",
       "difficulty": "Intermediate",
       "description": "A Tale of Two Cities is an 1859 historical novel by English author Charles Dickens.",
-      "epubUrl": "/books/A Tale of Two Cities/book.epub"
+      "epubUrl": "./books/A Tale of Two Cities/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174001",
       "title": "Alice's Adventures in Wonderland",
       "cnTitle": "爱丽丝梦游仙境",
       "author": "Lewis Carroll",
-      "cover": "/books/Alice's Adventures in Wonderland/cover.jpg",
+      "cover": "./books/Alice's Adventures in Wonderland/cover.jpg",
       "difficulty": "Beginner",
       "description": "Alice's Adventures in Wonderland is an 1865 novel written by English author Lewis Carroll.",
-      "epubUrl": "/books/Alice's Adventures in Wonderland/book.epub"
+      "epubUrl": "./books/Alice's Adventures in Wonderland/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174008",
@@ -26,7 +26,7 @@
       "author": "Adam Smith",
       "difficulty": "Intermediate",
       "description": "An Inquiry into the Nature and Causes of the Wealth of Nations is a 1776 book by Scottish economist Adam Smith.",
-      "epubUrl": "/books/An Inquiry into the Nature and Causes of the Wealth of Nations/book.epub"
+      "epubUrl": "./books/An Inquiry into the Nature and Causes of the Wealth of Nations/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174004",
@@ -35,7 +35,7 @@
       "author": "Friedrich Wilhelm Nietzsche",
       "difficulty": "Difficult",
       "description": "Beyond Good and Evil is a 1886 book by German philosopher Friedrich Nietzsche.",
-      "epubUrl": "/books/Beyond Good and Evil/book.epub"
+      "epubUrl": "./books/Beyond Good and Evil/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174009",
@@ -44,58 +44,58 @@
       "author": "René Descartes",
       "difficulty": "Advanced",
       "description": "Discourse on the Method is a 1637 book by French philosopher René Descartes.",
-      "epubUrl": "/books/Discourse on the Method/book.epub"
+      "epubUrl": "./books/Discourse on the Method/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174006",
       "title": "How It Works",
       "cnTitle": "如何工作",
       "author": "Ray Dalio",
-      "cover": "/books/How It Works/cover.jpg",
+      "cover": "./books/How It Works/cover.jpg",
       "difficulty": "Intermediate",
       "description": "How It Works is a 2011 book by Ray Dalio, the founder of Bridgewater Associates.",
-      "epubUrl": "/books/How It Works/book.epub"
+      "epubUrl": "./books/How It Works/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174003",
       "title": "Jane Eyre_ An Autobiography",
       "cnTitle": "简爱",
       "author": "Charlotte Brontë",
-      "cover": "/books/Jane Eyre_ An Autobiography/cover.jpg",
+      "cover": "./books/Jane Eyre_ An Autobiography/cover.jpg",
       "difficulty": "Advanced",
       "description": "Jane Eyre is an 1847 novel by English author Charlotte Brontë.",
-      "epubUrl": "/books/Jane Eyre_ An Autobiography/book.epub"
+      "epubUrl": "./books/Jane Eyre_ An Autobiography/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174005",
       "title": "Little Women",
       "cnTitle": "小妇人",
       "author": "Louisa May Alcott",
-      "cover": "/books/Little Women/cover.jpg",
+      "cover": "./books/Little Women/cover.jpg",
       "difficulty": "Beginner",
       "description": "Little Women is a 1868 novel by American author Louisa May Alcott.",
-      "epubUrl": "/books/Little Women/book.epub"
+      "epubUrl": "./books/Little Women/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174000",
       "title": "The Life and Adventures of Robinson Crusoe",
       "cnTitle": "鲁滨逊漂流记",
       "author": "Daniel Defoe",
-      "cover": "/books/The Life and Adventures of Robinson Crusoe/cover.jpg",
+      "cover": "./books/The Life and Adventures of Robinson Crusoe/cover.jpg",
       "difficulty": "Intermediate",
       "description": "The Life and Adventures of Robinson Crusoe is the story of the title character, Robinson Crusoe, an Englishman who goes on a long sea voyage to the Caribbean and then to the South Pacific. He is shipwrecked on a deserted island and survives there for many years, until he is rescued by a passing ship.",
-      "epubUrl": "/books/The Life and Adventures of Robinson Crusoe/book.epub",
-      "wordsUrl": "/books/The Life and Adventures of Robinson Crusoe/words.json"
+      "epubUrl": "./books/The Life and Adventures of Robinson Crusoe/book.epub",
+      "wordsUrl": "./books/The Life and Adventures of Robinson Crusoe/words.json"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174007",
       "title": "The Prince",
       "cnTitle": "君主论",
       "author": "Niccolo Machiavelli",
-      "cover": "/books/The Prince/cover.jpg",
+      "cover": "./books/The Prince/cover.jpg",
       "difficulty": "Advanced",
       "description": "The Prince is a 1532 political treatise by the Italian diplomat and political theorist Niccolo Machiavelli.",
-      "epubUrl": "/books/The Prince/book.epub"
+      "epubUrl": "./books/The Prince/book.epub"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174010",
@@ -104,6 +104,6 @@
       "author": "Charles Darwin",
       "difficulty": "Intermediate",
       "description": "On the Origin of Species By Means of Natural Selection is a 1859 book by English naturalist Charles Darwin.",
-      "epubUrl": "/books/On the Origin of Species By Means of Natural Selection/book.epub"
+      "epubUrl": "./books/On the Origin of Species By Means of Natural Selection/book.epub"
     }
 ]
