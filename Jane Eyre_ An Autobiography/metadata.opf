@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6be688aa-c0ae-40d7-ad9f-6638cfcf3b99</dc:identifier>
+        <dc:title>Jane Eyre: An Autobiography</dc:title>
+        <dc:creator opf:file-as="Brontë, Charlotte" opf:role="aut">Charlotte Brontë</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-02T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Governesses -- Fiction</dc:subject>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Mentally ill women -- Fiction</dc:subject>
+        <dc:subject>Charity-schools -- Fiction</dc:subject>
+        <dc:subject>Married people -- Fiction</dc:subject>
+        <dc:subject>Country homes -- Fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-01T07:41:54.193565+00:00"/>
+        <meta name="calibre:title_sort" content="Jane Eyre: An Autobiography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
