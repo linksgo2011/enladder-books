@@ -54,7 +54,8 @@
       "cover": "./books/How It Works/cover.jpg",
       "difficulty": "Intermediate",
       "description": "How It Works is a 2011 book by Ray Dalio, the founder of Bridgewater Associates.",
-      "epubUrl": "./books/How It Works/book.epub"
+      "epubUrl": "./books/How It Works/book.epub",
+      "wordsUrl": "./books/How It Works/words.json"
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174003",
