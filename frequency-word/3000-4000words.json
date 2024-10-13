@@ -1,0 +1,6972 @@
+[
+	{
+		"word" : "related",
+		"phonetic" : "ri'leitid",
+		"definition" : "a. 讲述的, 叙述的；有关系的, 有关联的"
+	},
+	{
+		"word" : "reward",
+		"phonetic" : "ri'wɒ:d",
+		"definition" : "n. 报酬, 酬谢, 赏金nvt. 奖赏, 酬谢, 给...应有报应"
+	},
+	{
+		"word" : "gentle",
+		"phonetic" : "'dʒentl",
+		"definition" : "a. 温和的, 文雅的"
+	},
+	{
+		"word" : "organ",
+		"phonetic" : "'ɒ:gәn",
+		"definition" : "n. 风琴, 器官, 元件, 机构, 机关n[电] 风琴"
+	},
+	{
+		"word" : "concerning",
+		"phonetic" : "kәn'sә:niŋ",
+		"definition" : "prep. 关于n[法] 关于"
+	},
+	{
+		"word" : "lightly",
+		"phonetic" : "'laitli",
+		"definition" : "adv. 轻轻地, 少许, 不费力地"
+	},
+	{
+		"word" : "laughter",
+		"phonetic" : "'lɑ:ftә",
+		"definition" : "n. 笑, 笑声n[医] 笑, 大笑"
+	},
+	{
+		"word" : "invent",
+		"phonetic" : "in'vent",
+		"definition" : "vt. 发明, 创作, 虚构n[机] 发明"
+	},
+	{
+		"word" : "counseling",
+		"phonetic" : "'kaunsәliŋ",
+		"definition" : "n. 咨询服务"
+	},
+	{
+		"word" : "receiver",
+		"phonetic" : "ri'si:vә",
+		"definition" : "n. 接收器；接受者；收信机；收款员, 接待者"
+	},
+	{
+		"word" : "northwest",
+		"phonetic" : ".nɒ:θ'west",
+		"definition" : "n. 西北, 西北方na. 西北的, 在西北的, 来自西北的nadv. 向西北"
+	},
+	{
+		"word" : "ritual",
+		"phonetic" : "'ritʃuәl",
+		"definition" : "n. 仪式, 典礼, 宗教仪式na. 仪式的, 依仪式进行的"
+	},
+	{
+		"word" : "insect",
+		"phonetic" : "'insekt",
+		"definition" : "n. 昆虫, 卑鄙的人n[医] 昆虫"
+	},
+	{
+		"word" : "salmon",
+		"phonetic" : "'sæmәn",
+		"definition" : "n. 鲑鱼, 大麻哈鱼n[医] 鲑"
+	},
+	{
+		"word" : "interrupt",
+		"phonetic" : ".intә'rʌpt",
+		"definition" : "vt. 中断, 妨碍, 插嘴nvi. 打断nn. 中断n[计] 中断"
+	},
+	{
+		"word" : "trading",
+		"phonetic" : "'treidiŋ",
+		"definition" : "[经] 交易"
+	},
+	{
+		"word" : "superior",
+		"phonetic" : "sju:'piәriә",
+		"definition" : "n. 长者, 占优势的人, 上级na. 上级的, 出众的, 高傲的"
+	},
+	{
+		"word" : "magic",
+		"phonetic" : "'mædʒik",
+		"definition" : "n. 魔术, 魔法na. 魔术的, 有魔力的, 不可思议的"
+	},
+	{
+		"word" : "combat",
+		"phonetic" : "'kɒmbæt",
+		"definition" : "n. 争斗, 战斗nvi. 战斗, 争斗nvt. 与...战斗, 与...斗争"
+	},
+	{
+		"word" : "surgeon",
+		"phonetic" : "'sә:dʒәn",
+		"definition" : "n. 外科医生, 军医, 船医n[医] 外科医师"
+	},
+	{
+		"word" : "stem",
+		"phonetic" : "stem",
+		"definition" : "n. 茎, 干, 柄, 船首, 血统, 堵塞物nvt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行nvi. 堵住, 逆行"
+	},
+	{
+		"word" : "acceptable",
+		"phonetic" : "әk'septәbl",
+		"definition" : "a. 可接受的, 合意的, 可忍受的"
+	},
+	{
+		"word" : "rape",
+		"phonetic" : "reip",
+		"definition" : "n. 抢夺, 掠夺, 强奸, 葡萄渣, 芸苔nvt. 掠夺, 抢夺, 强奸"
+	},
+	{
+		"word" : "physics",
+		"phonetic" : "'fiziks",
+		"definition" : "n. 物理学, 物理过程, 物理现象n[化] 物理; 物理学"
+	},
+	{
+		"word" : "counsel",
+		"phonetic" : "'kaunsәl",
+		"definition" : "n. 商议, 忠告, 法律顾问nv. 商议, 劝告"
+	},
+	{
+		"word" : "hunt",
+		"phonetic" : "hʌnt",
+		"definition" : "n. 狩猎, 追捕, 搜寻, 猎区nvt. 狩猎, 打猎, 搜索nvi. 打猎, 猎食, 搜寻"
+	},
+	{
+		"word" : "jeans",
+		"phonetic" : "dʒi:nz",
+		"definition" : "n. 工装裤, 牛仔裤"
+	},
+	{
+		"word" : "continuous",
+		"phonetic" : "kәn'tinjuәs",
+		"definition" : "a. 连续的, 继续的, 连续不断的n[计] 连续的"
+	},
+	{
+		"word" : "log",
+		"phonetic" : "lɒg",
+		"definition" : "n. 记录, 圆木, 日志, 计程仪nvt. 伐木, 切, 航行nvi. 伐木n[计] 日志"
+	},
+	{
+		"word" : "echo",
+		"phonetic" : "'ekәu",
+		"definition" : "n. 回声, 回音, 回波nvi. 发回声, 随声附和nvt. 摹仿, 重复, 反射n[计] 回显; DOS批处理命令:控制MS-DOS命令是否在屏幕上显示"
+	},
+	{
+		"word" : "pill",
+		"phonetic" : "pil",
+		"definition" : "n. 药丸, 弹丸, 屈辱, 胡说nv. 做成药丸, 形成丸状, 服药丸, 挫败, 抢劫"
+	},
+	{
+		"word" : "excited",
+		"phonetic" : "ik'saitid",
+		"definition" : "a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的"
+	},
+	{
+		"word" : "sculpture",
+		"phonetic" : "'skʌlptʃә",
+		"definition" : "n. 雕刻, 雕塑nvt. 雕刻, 雕塑nvi. 当雕刻师"
+	},
+	{
+		"word" : "compound",
+		"phonetic" : "kәm'paund",
+		"definition" : "n. 混合物, 复合词, 化合物, 院子na. 复合的, 混合的, 化合的nvi. 化合, 和解, 妥协nvt. 使复合, 使化合"
+	},
+	{
+		"word" : "flour",
+		"phonetic" : "'flauә",
+		"definition" : "n. 面粉, 粉沫, 碎粉n[医] 面粉, 麦粉"
+	},
+	{
+		"word" : "bare",
+		"phonetic" : "bєә",
+		"definition" : "a. 赤裸的, 缺少的, 无遮蔽的, 坦率的nvt. 使赤裸, 露出"
+	},
+	{
+		"word" : "integrate",
+		"phonetic" : "'intigreit",
+		"definition" : "vt. 综合, 使完整, 使成整体nvi. 成一体na. 完整的, 完全的"
+	},
+	{
+		"word" : "presidency",
+		"phonetic" : "'prezidәnsi",
+		"definition" : "n. 总统职权, 总裁职位"
+	},
+	{
+		"word" : "rent",
+		"phonetic" : "rent",
+		"definition" : "n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂nvt. 租用, 租出nvi. 出租na. 分裂的, 破裂的nrend的过去式和过去分词"
+	},
+	{
+		"word" : "slope",
+		"phonetic" : "slәup",
+		"definition" : "n. 倾斜, 斜坡, 斜率, 扛枪姿势nvt. 使倾斜, 弄斜, 扛nvi. 倾斜, 走, 逃走"
+	},
+	{
+		"word" : "subtle",
+		"phonetic" : "'sʌtl",
+		"definition" : "a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的n[医] 锐敏的; 精细的"
+	},
+	{
+		"word" : "greatly",
+		"phonetic" : "'greitli",
+		"definition" : "adv. 很, 非常"
+	},
+	{
+		"word" : "bishop",
+		"phonetic" : "'biʃәp",
+		"definition" : "n. 主教, (国际象棋中的)象, 热果子酒"
+	},
+	{
+		"word" : "serving",
+		"phonetic" : "'sә:viŋ",
+		"definition" : "n. 服务, 招待, 上菜, 一份食物"
+	},
+	{
+		"word" : "drinking",
+		"phonetic" : "'driŋkiŋ",
+		"definition" : "n. 喝, 喝酒"
+	},
+	{
+		"word" : "acceptance",
+		"phonetic" : "әk'septәns",
+		"definition" : "n. 接受, 接纳, 承认, 同意, 赞同, 容忍, 相信n[经] 承兑, 认付, (工程)验收"
+	},
+	{
+		"word" : "pump",
+		"phonetic" : "pʌmp",
+		"definition" : "n. 抽水机, 打气筒, 泵, 抽吸nvt. 用唧筒抽水, 打气, 盘问, 倾注, 使疲惫nvi. 抽水, 上下(或往复)运动"
+	},
+	{
+		"word" : "candy",
+		"phonetic" : "'kændi",
+		"definition" : "n. 糖果, 冰糖nvt. 用糖煮, 使结晶为砂糖nvi. 结晶为砂糖"
+	},
+	{
+		"word" : "evil",
+		"phonetic" : "'i:vl",
+		"definition" : "n. 邪恶, 不幸, 罪恶na. 邪恶的, 不幸的, 有害的, 讨厌的"
+	},
+	{
+		"word" : "pleased",
+		"phonetic" : "pli:zd",
+		"definition" : "a. 高兴的, 喜欢的, 满足的"
+	},
+	{
+		"word" : "medal",
+		"phonetic" : "'medl",
+		"definition" : "n. 奖牌, 勋章nvt. 授勋予"
+	},
+	{
+		"word" : "beg",
+		"phonetic" : "beg",
+		"definition" : "v. 乞求, 乞讨, 请求"
+	},
+	{
+		"word" : "sponsor",
+		"phonetic" : "'spɒnsә",
+		"definition" : "n. 保证人, 赞助者, 发起者, 倡议者, 教父nvt. 发起, 赞助, 倡议"
+	},
+	{
+		"word" : "ethical",
+		"phonetic" : "'eθikәl",
+		"definition" : "a. 伦理的, 民族的, 民族特有的n[医] 伦理的, 道德的"
+	},
+	{
+		"word" : "secondary",
+		"phonetic" : "'sekәndәri",
+		"definition" : "a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的n[化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
+	},
+	{
+		"word" : "export",
+		"phonetic" : "ik'spɒ:t",
+		"definition" : "n. 输出品, 输出nvt. 输出, 出口nvi. 输出物资n[计] 导出"
+	},
+	{
+		"word" : "experimental",
+		"phonetic" : "ik.speri'mentәl",
+		"definition" : "a. 实验的, 根据实验的n[医] 实验的"
+	},
+	{
+		"word" : "slam",
+		"phonetic" : "slæm",
+		"definition" : "n. 砰然声, 猛然, 猛烈的抨击nvt. 猛然关上, 砰地关上, 猛烈抨击nvi. 砰地关上, 猛攻"
+	},
+	{
+		"word" : "civilization",
+		"phonetic" : "si.vilai'zeiʃәn",
+		"definition" : "n. 文明, 教化n[法] 文明, 文化, 文明国家的总称"
+	},
+	{
+		"word" : "melt",
+		"phonetic" : "melt",
+		"definition" : "n. 熔化, 熔化物, 溶解nv. (使)熔化, (使)溶解, (使)消散, (使)变软"
+	},
+	{
+		"word" : "midnight",
+		"phonetic" : "'midnait",
+		"definition" : "n. 午夜, 子夜, 半夜na. 午夜的, 半夜的"
+	},
+	{
+		"word" : "curve",
+		"phonetic" : "kә:v",
+		"definition" : "n. 曲线, 弯曲, 曲线球nvt. 弯, 使弯曲nvi. 成曲形"
+	},
+	{
+		"word" : "integrity",
+		"phonetic" : "in'tegriti",
+		"definition" : "n. 正直, 廉正, 完整n[计] 完整性"
+	},
+	{
+		"word" : "entitle",
+		"phonetic" : "in'taitl",
+		"definition" : "vt. 给...权利, 取名为, 给予名称, 叫做n[法] 给...权利, 使有资格, 称呼"
+	},
+	{
+		"word" : "evident",
+		"phonetic" : "'evidәnt",
+		"definition" : "a. 显然的, 明显的"
+	},
+	{
+		"word" : "park",
+		"phonetic" : "pɑ:k",
+		"definition" : "n. 公园, 停车处nvt. 停车, 置于nvi. 停车"
+	},
+	{
+		"word" : "essence",
+		"phonetic" : "'esns",
+		"definition" : "n. 实质, 本质, 香精n[化] 香精"
+	},
+	{
+		"word" : "logic",
+		"phonetic" : "'lɒdʒik",
+		"definition" : "n. 逻辑, 逻辑学, 推理的方法, 推理, 逻辑性n[计] 逻辑"
+	},
+	{
+		"word" : "exclude",
+		"phonetic" : "iks'klu:d",
+		"definition" : "vt. 除外, 排除, 排斥n[医] 除外(诊断)"
+	},
+	{
+		"word" : "harsh",
+		"phonetic" : "hɑ:ʃ",
+		"definition" : "a. 粗糙的, 刺耳的, 严厉的n[法] 粗糙的, 严厉的, 苛刻的"
+	},
+	{
+		"word" : "suburban",
+		"phonetic" : "sә'bә:bәn",
+		"definition" : "a. 郊外的, 郊区的, (贬)偏狭的, 土气的, 见识不广的nn. 郊区居民"
+	},
+	{
+		"word" : "closet",
+		"phonetic" : "'klɒzit",
+		"definition" : "n. 壁橱, 小室na. 秘密的, 空谈的nvt. 把...关入小室"
+	},
+	{
+		"word" : "corridor",
+		"phonetic" : "'kɒridɒ:",
+		"definition" : "n. 走廊, 回廊, 人口密集地带"
+	},
+	{
+		"word" : "greet",
+		"phonetic" : "gri:t",
+		"definition" : "vt. 问候, 致敬, 欢迎, 映入眼帘"
+	},
+	{
+		"word" : "interior",
+		"phonetic" : "in'tiәriә",
+		"definition" : "n. 内部, 内政na. 内部的, 心灵的, 内地的, 内政的"
+	},
+	{
+		"word" : "pitcher",
+		"phonetic" : "'pitʃә",
+		"definition" : "n. 有把的大罐, 瓶状体, 投手, 摊贩"
+	},
+	{
+		"word" : "retail",
+		"phonetic" : "'ri:teil",
+		"definition" : "n. 零售na. 零售的nvt. 零售, 详述, 传播nvi. 零售"
+	},
+	{
+		"word" : "snake",
+		"phonetic" : "sneik",
+		"definition" : "n. 蛇, 阴险的人nvi. 曲折行进nvt. 迂回, 拉, 急抽"
+	},
+	{
+		"word" : "march",
+		"phonetic" : "mɑ:tʃ",
+		"definition" : "n. 三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界nvi. 进军, 前进, 交界nvt. 使行军, 使行进"
+	},
+	{
+		"word" : "excuse",
+		"phonetic" : "ik'skju:z",
+		"definition" : "vt. 原谅, 申辩, 做为...的托辞nn. 致歉, 理由, 饶恕, 借口"
+	},
+	{
+		"word" : "weakness",
+		"phonetic" : "'wi:knis",
+		"definition" : "n. 虚弱, 薄弱, 弱点n[经] 欲振乏力"
+	},
+	{
+		"word" : "pig",
+		"phonetic" : "pig",
+		"definition" : "n. 猪, 猪肉, 贪婪的人, 猪一样的人nv. 生小猪, 象猪般地生活"
+	},
+	{
+		"word" : "classical",
+		"phonetic" : "'klæsikl",
+		"definition" : "a. 古典的, 正统派的, 经典的n[医] 古典的; 标准的, 典型的"
+	},
+	{
+		"word" : "estimated",
+		"phonetic" : "",
+		"definition" : "a. 估算的；估计的；预计的"
+	},
+	{
+		"word" : "unemployment",
+		"phonetic" : ".ʌnim'plɒimәnt",
+		"definition" : "n. 失业, 失业人数n[经] 失业"
+	},
+	{
+		"word" : "fold",
+		"phonetic" : "fәuld",
+		"definition" : "n. 折层, 折, 羊栏, 折痕, 信徒nvt. 折叠, 包, 合拢, 交迭nvi. 折叠起来, 彻底失败n[计] 折叠; 合并"
+	},
+	{
+		"word" : "reverse",
+		"phonetic" : "ri'vә:s",
+		"definition" : "n. 相反, 背面, 倒退, 挫折, 失败na. 反面的, 相反的, 反向的, 颠倒的nvt. 使颠倒, 使逆转, 使倒退, 使反向nvi. 倒退, 反向, 倒转, 反转n[计] 反转"
+	},
+	{
+		"word" : "rumor",
+		"phonetic" : "'ru:mә",
+		"definition" : "n. 谣言, 传闻nvt. 谣传"
+	},
+	{
+		"word" : "missing",
+		"phonetic" : "'misiŋ",
+		"definition" : "a. 不见的, 缺少的n[法] 行踪不明的, 失踪的, 遗失的"
+	},
+	{
+		"word" : "flash",
+		"phonetic" : "flæʃ",
+		"definition" : "n. 闪光, 闪现, 一瞬间nvi. 闪光, 闪现, 反射nvt. 使闪光, 反射"
+	},
+	{
+		"word" : "humanity",
+		"phonetic" : "hju:'mæniti",
+		"definition" : "n. 人性, 人类, 博爱"
+	},
+	{
+		"word" : "correlation",
+		"phonetic" : ".kɒrә'leiʃәn",
+		"definition" : "n. 相互关系, 相关, 关联n[医] 相关, 联系"
+	},
+	{
+		"word" : "developer",
+		"phonetic" : "di'velәpә",
+		"definition" : "n. 开发者n[计] 显影器"
+	},
+	{
+		"word" : "reliable",
+		"phonetic" : "ri'laiәbl",
+		"definition" : "a. 可靠的, 可信赖的n[法] 可靠的, 可信赖的, 确实的"
+	},
+	{
+		"word" : "beef",
+		"phonetic" : "bi:f",
+		"definition" : "n. 牛肉, 肌肉nvt. 养(牛), 宰(牛)nvi. 抱怨, 告发"
+	},
+	{
+		"word" : "excitement",
+		"phonetic" : "ik'saitmәnt",
+		"definition" : "n. 刺激, 兴奋n[医] 兴奋, 激动"
+	},
+	{
+		"word" : "Roman",
+		"phonetic" : "'rәumәn",
+		"definition" : "n. 罗马人na. 罗马人的, 罗马的"
+	},
+	{
+		"word" : "architecture",
+		"phonetic" : "'ɑ:kitektʃә",
+		"definition" : "n. 建筑学, 建筑式样n[计] 体系结构"
+	},
+	{
+		"word" : "administrative",
+		"phonetic" : "әd'ministrәtiv",
+		"definition" : "a. 管理的, 行政的n[法] 行政的, 管理的, 遗产管理的"
+	},
+	{
+		"word" : "occasional",
+		"phonetic" : "ә'keiʒәnl",
+		"definition" : "a. 偶然的, 临时的n[法] 偶然的, 特殊场合的"
+	},
+	{
+		"word" : "elbow",
+		"phonetic" : "'elbәu",
+		"definition" : "n. 手肘, 弯头, 扶手nv. 用手肘推开, 推挤"
+	},
+	{
+		"word" : "deadly",
+		"phonetic" : "'dedli",
+		"definition" : "a. 致命的, 致死的nadv. 非常, 如死一般地"
+	},
+	{
+		"word" : "Hispanic",
+		"phonetic" : "his'pænik",
+		"definition" : "a. 西班牙的"
+	},
+	{
+		"word" : "allegation",
+		"phonetic" : ".æli'geiʃәn",
+		"definition" : "n. 断言, 主张, 申辩n[法] 声明, 事实陈述, 断言"
+	},
+	{
+		"word" : "confuse",
+		"phonetic" : "kәn'fju:z",
+		"definition" : "vt. 使混乱, 使狼狈, 使困惑n[法] 混淆"
+	},
+	{
+		"word" : "airplane",
+		"phonetic" : "'єәplein",
+		"definition" : "n. 飞机n[机] 飞机"
+	},
+	{
+		"word" : "monthly",
+		"phonetic" : "'mʌnθli",
+		"definition" : "n. 月刊na. 每月的, 每月一次的"
+	},
+	{
+		"word" : "duck",
+		"phonetic" : "dʌk",
+		"definition" : "n. 鸭子nvi. 没入水中, 闪避nvt. 猛按...入水, 躲避"
+	},
+	{
+		"word" : "Korean",
+		"phonetic" : "kә'riәn",
+		"definition" : "n. 朝鲜人, 朝鲜语na. 朝鲜人的, 朝鲜语的"
+	},
+	{
+		"word" : "dose",
+		"phonetic" : "dәus",
+		"definition" : "n. 剂量, 服用量nvt. 给药, (用药)医治nvi. 服药"
+	},
+	{
+		"word" : "initiate",
+		"phonetic" : "i'niʃieit",
+		"definition" : "n. 入会, 开始na. 新加入的nvt. 开始, 传授基本知识给"
+	},
+	{
+		"word" : "plead",
+		"phonetic" : "pli:d",
+		"definition" : "vi. 辩护, 恳求nvt. 为...辩护, 提出...借口, 托称, 恳求"
+	},
+	{
+		"word" : "lecture",
+		"phonetic" : "'lektʃә",
+		"definition" : "n. 演讲, 谴责, 讲稿nvt. 演讲, 训诫, 说教nvi. 讲演"
+	},
+	{
+		"word" : "sixth",
+		"phonetic" : "siksθ",
+		"definition" : "num. 第六, 六分之一"
+	},
+	{
+		"word" : "mainstream",
+		"phonetic" : "'meinstri:m",
+		"definition" : "n. 主流"
+	},
+	{
+		"word" : "sandwich",
+		"phonetic" : "'sændwitʃ",
+		"definition" : "n. 三明治, 夹心面包, 夹层板nvt. 插入, 夹入, 把...制成三明治"
+	},
+	{
+		"word" : "implementation",
+		"phonetic" : ".implimen'teiʃәn",
+		"definition" : "n. 安装启用, 实行, 履行n[计] 实施; 实现"
+	},
+	{
+		"word" : "suburb",
+		"phonetic" : "'sʌbә:b",
+		"definition" : "n. 市郊住宅区, 郊区, 边缘"
+	},
+	{
+		"word" : "trunk",
+		"phonetic" : "trʌŋk",
+		"definition" : "n. 树干, 干线, 躯干, 主干, 象鼻, 箱子nvt. 把...放入旅行箱内na. 树干的, 躯干的, 干线的, 箱形的n[计] 中继线; 母线"
+	},
+	{
+		"word" : "motivate",
+		"phonetic" : "'mәutiveit",
+		"definition" : "vt. 给与动机, 刺激, 提高...的学习欲望, 促动n[经] 促动, 激发, 激励"
+	},
+	{
+		"word" : "swallow",
+		"phonetic" : "'swɒlәu",
+		"definition" : "n. 燕子, 吞咽, 喉nvt. 咽, 淹没, 吞没, 耗尽, 轻信, 忍受, 抑制nvi. 吞下, 咽下"
+	},
+	{
+		"word" : "longtime",
+		"phonetic" : "'lɔŋtaim;'lɔ:ŋ-",
+		"definition" : "a. (已持续)长时间的,为时甚久的nadv. 长久"
+	},
+	{
+		"word" : "render",
+		"phonetic" : "'rendә",
+		"definition" : "vt. 回报, 给于, 付给, 汇报, 提出, 舍弃, 反映, 表示, 表演, 致使, 执行, 实施nvi. 给予补偿nn. 交纳, 打底"
+	},
+	{
+		"word" : "trap",
+		"phonetic" : "træp",
+		"definition" : "n. 圈套, 陷阱, 诡计, 存水弯nvi. 设圈套, 设陷阱nvt. 诱捕, 诱骗, 抓住, 使受限制n[计] 俘获; 陷井"
+	},
+	{
+		"word" : "restrict",
+		"phonetic" : "ri'strikt",
+		"definition" : "vt. 限制, 限定, 约束n[医] 限制"
+	},
+	{
+		"word" : "cloth",
+		"phonetic" : "klɒ:θ. klɒθ",
+		"definition" : "n. 布料, 织品, 布n[建] 布"
+	},
+	{
+		"word" : "seemingly",
+		"phonetic" : "'si:miŋli",
+		"definition" : "adv. 看来似乎, 表面上看来"
+	},
+	{
+		"word" : "legislative",
+		"phonetic" : "'ledʒislәtiv",
+		"definition" : "n. 立法机构na. 立法的, 有立法权的"
+	},
+	{
+		"word" : "effectiveness",
+		"phonetic" : "i'fektivnis",
+		"definition" : "n. 效力n[经] 有效性, 能行性"
+	},
+	{
+		"word" : "lens",
+		"phonetic" : "lenz",
+		"definition" : "n. 透镜, 镜头, 镜片, 晶状体nvt. 给...摄影"
+	},
+	{
+		"word" : "enforce",
+		"phonetic" : "in'fɒ:s",
+		"definition" : "vt. 强迫, 执行, 坚持n[经] 予以强制执行"
+	},
+	{
+		"word" : "companion",
+		"phonetic" : "kәm'pænjәn",
+		"definition" : "n. 朋友, 陪伴, 指南, 升降口围罩nvt. 陪伴"
+	},
+	{
+		"word" : "lend",
+		"phonetic" : "lend",
+		"definition" : "vt. 借, 贷款给, 增添, 提供, 出租nvi. 贷款"
+	},
+	{
+		"word" : "plain",
+		"phonetic" : "plein",
+		"definition" : "n. 平原, 草原, 朴实无华的东西, 无格式na. 简单的, 明白的, 平常的, 不好看的, 朴素的, 清晰的, 普通的, 平坦的, 十足的nadv. 清楚地, 显然地n[计] 无格式"
+	},
+	{
+		"word" : "inspector",
+		"phonetic" : "in'spektә",
+		"definition" : "n. 检查员, 巡视员n[化] 检查员"
+	},
+	{
+		"word" : "fraud",
+		"phonetic" : "frɒ:d",
+		"definition" : "n. 欺骗, 欺诈, 诡计, 骗子n[经] 欺诈, 舞弊, 骗子"
+	},
+	{
+		"word" : "contend",
+		"phonetic" : "kәn'tend",
+		"definition" : "vi. 奋斗, 斗争, 竞争nvt. 为...斗争"
+	},
+	{
+		"word" : "strict",
+		"phonetic" : "strikt",
+		"definition" : "a. 严厉的, 绝对的, 详尽的, 严格的, 精确的n[法] 严格的, 精确的, 绝对的"
+	},
+	{
+		"word" : "array",
+		"phonetic" : "ә'rei",
+		"definition" : "n. 排列, 衣服, 大批, 军队nvt. 布署, 打扮, 排列n[计] 数组; 阵列"
+	},
+	{
+		"word" : "frankly",
+		"phonetic" : "'fræŋkli",
+		"definition" : "adv. 坦白地"
+	},
+	{
+		"word" : "nail",
+		"phonetic" : "neil",
+		"definition" : "n. 钉子, 指甲nvt. 用钉钉牢, 使固定, 截住, 揭露"
+	},
+	{
+		"word" : "assemble",
+		"phonetic" : "ә'sembl",
+		"definition" : "vt. 集合, 收集, 装配nvi. 集合n[计] 汇编"
+	},
+	{
+		"word" : "rat",
+		"phonetic" : "ræt",
+		"definition" : "n. 鼠, 卑鄙的人, 破坏者, 变节者nvi. 捕鼠, 变节nvt. 弄蓬松"
+	},
+	{
+		"word" : "hallway",
+		"phonetic" : "'hɔ:lwei",
+		"definition" : "n. 门厅；玄关；走廊"
+	},
+	{
+		"word" : "burst",
+		"phonetic" : "bә:st",
+		"definition" : "n. 破裂, 突发, 爆发nv. 爆裂, 突发, 充满n[计] 二进制位组; 字符组; 脉冲串"
+	},
+	{
+		"word" : "inevitable",
+		"phonetic" : "in'evitәbl",
+		"definition" : "a. 不可避免的, 必然的n[法] 不可避免的, 无法规避的, 必然的"
+	},
+	{
+		"word" : "cave",
+		"phonetic" : "keiv",
+		"definition" : "n. 洞, 穴nvi. 凹陷, 塌落nvt. 挖洞, 使凹陷, 损坏...的基础"
+	},
+	{
+		"word" : "southwest",
+		"phonetic" : "sauθ'west",
+		"definition" : "n. 西南, 西南方, 西南地区na. 西南的, 来自西南方的nadv. 往西南, 来自西南"
+	},
+	{
+		"word" : "monster",
+		"phonetic" : "'mɒnstә",
+		"definition" : "n. 怪物, 恶人, 巨物n[医] 畸胎"
+	},
+	{
+		"word" : "unexpected",
+		"phonetic" : ".ʌnik'spektid",
+		"definition" : "a. 料想不到的, 突然的, 意外的n[法] 不能预料的, 意外的"
+	},
+	{
+		"word" : "facilitate",
+		"phonetic" : "fә'siliteit",
+		"definition" : "vt. 使容易, 促进, 帮助n[法] 使容易, 使便利, 推进"
+	},
+	{
+		"word" : "obstacle",
+		"phonetic" : "'ɒbstәkl",
+		"definition" : "n. 障碍, 妨害物, 阻碍"
+	},
+	{
+		"word" : "overwhelming",
+		"phonetic" : ".әuvә'hwelmiŋ",
+		"definition" : "a. 压倒性的, 无法抵抗的"
+	},
+	{
+		"word" : "rip",
+		"phonetic" : "rip",
+		"definition" : "n. 裂痕, 破绽, 拉裂, 浪子, 巨浪nvi. 被拉开, 裂开, 猛冲nvt. 撕, 扯, 劈"
+	},
+	{
+		"word" : "herb",
+		"phonetic" : "hә:b",
+		"definition" : "n. 药草, 香草n[医] 草, 草本, 草药"
+	},
+	{
+		"word" : "crystal",
+		"phonetic" : "'kristl",
+		"definition" : "n. 水晶, 水晶装饰品, 结晶na. 水晶的, 水晶一样的, 透明的"
+	},
+	{
+		"word" : "integration",
+		"phonetic" : ".inti'greiʃәn",
+		"definition" : "n. 综合, 与环境协调的行为, 集成n[化] 集成; 整合"
+	},
+	{
+		"word" : "recession",
+		"phonetic" : "ri'seʃәn",
+		"definition" : "n. 后退, 凹处, 衰退, 归还n[医] 退缩"
+	},
+	{
+		"word" : "motive",
+		"phonetic" : "'mәutiv",
+		"definition" : "n. 动机, 目的, 主题, 基调na. 运动的, 成为动机的"
+	},
+	{
+		"word" : "bitter",
+		"phonetic" : "'bitә",
+		"definition" : "a. 苦的, 痛苦的, 怀恨的nadv. 刺骨nv. (使)变苦"
+	},
+	{
+		"word" : "written",
+		"phonetic" : "'ritn",
+		"definition" : "a. 书面的, 写成文字的nwrite的过去分词"
+	},
+	{
+		"word" : "flood",
+		"phonetic" : "flʌd",
+		"definition" : "n. 洪水, 大量之水, 涨潮nvt. 淹没, 使泛滥, 注满nvi. 被淹, 溢出, 涌进"
+	},
+	{
+		"word" : "pen",
+		"phonetic" : "pen",
+		"definition" : "n. 钢笔, 笔, 笔调, 笔杆子, 作家, 围栏, 栅栏, 禽畜nvt. 写, 关入栏中, 囚禁nvi. 动笔, 写作"
+	},
+	{
+		"word" : "ownership",
+		"phonetic" : "'әunәʃip",
+		"definition" : "n. 所有权, 物主身份n[经] 所有权, 所有制"
+	},
+	{
+		"word" : "nightmare",
+		"phonetic" : "'naitmєә",
+		"definition" : "n. 梦魇, 恶梦, 可怕的事物(或情景、人物)n[医] 梦魇, 恶梦"
+	},
+	{
+		"word" : "inspection",
+		"phonetic" : "in'spekʃәn",
+		"definition" : "n. 检验, 检查, 视察n[医] 检查, 视察, 监督, 望诊"
+	},
+	{
+		"word" : "supervisor",
+		"phonetic" : ".sju:pә'vaizә",
+		"definition" : "n. 管理者, 监督者, 指导者, 视导员n[计] 管理程序"
+	},
+	{
+		"word" : "arena",
+		"phonetic" : "ә'ri:nә",
+		"definition" : "n. 角斗场, 舞台, 场地n[医] 尿沉渣, 尿沙; 脑沙"
+	},
+	{
+		"word" : "consult",
+		"phonetic" : "kәn'sʌlt",
+		"definition" : "vi. 商讨, 商量, 协商, 会诊nvt. 向...请教, 查阅, 考虑"
+	},
+	{
+		"word" : "possession",
+		"phonetic" : "pә'zeʃәn",
+		"definition" : "n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷n[经] 占有, 持有"
+	},
+	{
+		"word" : "diagnosis",
+		"phonetic" : ".daiәg'nәusis",
+		"definition" : "n. 诊断n[计] 诊断"
+	},
+	{
+		"word" : "forgive",
+		"phonetic" : "fә'giv",
+		"definition" : "vt. 原谅, 宽恕, 免除n[法] 免除, 宽恕, 原谅"
+	},
+	{
+		"word" : "consistently",
+		"phonetic" : "",
+		"definition" : "adv. 坚固, 坚实, 一致, 始终如一, 连贯n[计] 相容地"
+	},
+	{
+		"word" : "basement",
+		"phonetic" : "'beismәnt",
+		"definition" : "n. 地下室, 墙脚n[化] 地下室"
+	},
+	{
+		"word" : "drift",
+		"phonetic" : "drift",
+		"definition" : "n. 漂流物, 漂流, 动向nv. (使)漂流"
+	},
+	{
+		"word" : "drain",
+		"phonetic" : "drein",
+		"definition" : "n. 排水沟, 消耗, 排水nvt. 排出, 喝光, 耗尽nvi. 排水, 流干"
+	},
+	{
+		"word" : "maximum",
+		"phonetic" : "'mæksimәn",
+		"definition" : "n. 极点, 最大量, 极大na. 最高的, 最大的, 最大极限的n[计] 最大值"
+	},
+	{
+		"word" : "announcement",
+		"phonetic" : "ә'naunsmәnt",
+		"definition" : "n. 公告, 发表, 告知n[经] 通告, 布告, 公告"
+	},
+	{
+		"word" : "prosecution",
+		"phonetic" : ".prɒsi'kju:ʃәn",
+		"definition" : "n. 执行, 经营, 起诉"
+	},
+	{
+		"word" : "questionnaire",
+		"phonetic" : "kwestʃә'nєә",
+		"definition" : "n. 调查表, 问卷n[经] 调查表"
+	},
+	{
+		"word" : "warrior",
+		"phonetic" : "'wɒ:riә",
+		"definition" : "n. 战士, 勇士, 武士, 鼓吹战争的人, 战斗, 尚武"
+	},
+	{
+		"word" : "prediction",
+		"phonetic" : "pri'dikʃәn",
+		"definition" : "n. 预言, 预报n[化] 预测"
+	},
+	{
+		"word" : "hurry",
+		"phonetic" : "'hʌri",
+		"definition" : "n. 匆忙, 急忙, 急促nvt. 急派, 催促nvi. 匆忙, 赶快"
+	},
+	{
+		"word" : "mud",
+		"phonetic" : "mʌd",
+		"definition" : "n. 泥, 诽谤nvt. 弄脏"
+	},
+	{
+		"word" : "bacteria",
+		"phonetic" : "bæk'tiәriә",
+		"definition" : "pl. 细菌n[医] 细菌, [无芽胞]杆菌"
+	},
+	{
+		"word" : "privilege",
+		"phonetic" : "'privilidʒ",
+		"definition" : "n. 特权, 特别恩典, 基本权利, 特免nvt. 给与...特权, 特免"
+	},
+	{
+		"word" : "infrastructure",
+		"phonetic" : "'infrәstrʌktʃә",
+		"definition" : "n. 基础结构, 基础设施n[经] 基础设施"
+	},
+	{
+		"word" : "outdoor",
+		"phonetic" : "'autdɒ:",
+		"definition" : "a. 户外的, 屋外的, 露天的"
+	},
+	{
+		"word" : "temple",
+		"phonetic" : "templ",
+		"definition" : "n. 圣堂, 庙宇, 教堂, 礼拜堂, 太阳穴, 鬓角n[医] 颞颥, 颞部"
+	},
+	{
+		"word" : "broadcast",
+		"phonetic" : "'brɒ:dkæst",
+		"definition" : "n. 广播, 传播na. 广播的nv. 广播nadv. 经广播, 四散地n[计] 广播命令, 广播"
+	},
+	{
+		"word" : "suck",
+		"phonetic" : "sʌk",
+		"definition" : "vt. 吸, 吮, 吸入, 吮吸, 吸收nvi. 吸, 吸奶nn. 吸, 吸入, 吮吸"
+	},
+	{
+		"word" : "random",
+		"phonetic" : "'rændәm",
+		"definition" : "n. 随意, 随机na. 任意的, 随便的, 胡乱的, 随机的nadv. 胡乱地"
+	},
+	{
+		"word" : "leap",
+		"phonetic" : "li:p",
+		"definition" : "n. 跳跃, 剧增, 急变, 被越过之物nvi. 跳跃, 突然经过nvt. 跃过, 使跃过"
+	},
+	{
+		"word" : "curtain",
+		"phonetic" : "'kә:tәn",
+		"definition" : "n. 帐, 幕, 窗帘nvt. 装帘子于, 遮蔽"
+	},
+	{
+		"word" : "wrist",
+		"phonetic" : "rist",
+		"definition" : "n. 手腕, 腕关节n[医] 腕"
+	},
+	{
+		"word" : "re",
+		"phonetic" : "ri:",
+		"definition" : "prep. 关于nn. 不动产, 房地产n[计] 赖斯编码"
+	},
+	{
+		"word" : "pond",
+		"phonetic" : "pɒnd",
+		"definition" : "n. 池塘nv. 筑成池塘"
+	},
+	{
+		"word" : "domain",
+		"phonetic" : "dәu'mein",
+		"definition" : "n. 领域, 领土, 产业, 范围n[计] 域, 区域, 支配命令"
+	},
+	{
+		"word" : "guilt",
+		"phonetic" : "gilt",
+		"definition" : "n. 罪行, 内疚n[法] 罪, 犯罪, 罪行"
+	},
+	{
+		"word" : "cattle",
+		"phonetic" : "kætl",
+		"definition" : "n. 牛, 家畜n[法] 家畜"
+	},
+	{
+		"word" : "playoff",
+		"phonetic" : "'pleiɔ:f",
+		"definition" : "n. 双方得分相等时的最后决赛；复赛；季后赛"
+	},
+	{
+		"word" : "weird",
+		"phonetic" : "wiәd",
+		"definition" : "a. 怪异的, 超自然的, 不可思议的nn. 命运, 预言, 符咒"
+	},
+	{
+		"word" : "minimum",
+		"phonetic" : "'minimәm",
+		"definition" : "a. 最小的, 最低的nn. 最小值n[计] 最小值"
+	},
+	{
+		"word" : "walking",
+		"phonetic" : "'wɒ:kiŋ",
+		"definition" : "n. 步行, 步态na. 步行的, 步行用的"
+	},
+	{
+		"word" : "fiscal",
+		"phonetic" : "'fiskәl",
+		"definition" : "a. 财政的, 国库的n[经] 财政上的, 会计的, 国库的"
+	},
+	{
+		"word" : "dump",
+		"phonetic" : "dʌmp",
+		"definition" : "n. 垃圾场nvt. 倾倒, 倾销nvi. 倒垃圾, 倾销商品n[计] 转出; 转储; 倾卸; 切断电源"
+	},
+	{
+		"word" : "skirt",
+		"phonetic" : "skә:t",
+		"definition" : "n. 裙子, 下摆, 边缘, 郊区nvt. 位于...边缘, 绕过, 回避nvi. 位于边缘"
+	},
+	{
+		"word" : "database",
+		"phonetic" : "'deitәbeis",
+		"definition" : "n. 数据库n[计] 数据库"
+	},
+	{
+		"word" : "hence",
+		"phonetic" : "hens",
+		"definition" : "adv. 因此, 从此"
+	},
+	{
+		"word" : "uncomfortable",
+		"phonetic" : ".ʌn'kʌmfәtәbl",
+		"definition" : "a. 不舒服的, 不自在的, 不安的"
+	},
+	{
+		"word" : "execute",
+		"phonetic" : "'eksikju:t",
+		"definition" : "vt. 执行, 实行, 完成, 处死, 制成n[计] 执行"
+	},
+	{
+		"word" : "limb",
+		"phonetic" : "lim",
+		"definition" : "n. 四肢, 枝干, 翼, 边缘nvt. 切断...之手足"
+	},
+	{
+		"word" : "ideology",
+		"phonetic" : ".aidi'ɒlәdʒi",
+		"definition" : "n. 思想体系, 意识形态, 观念学, 空论n[医] 观念学, 观念形态"
+	},
+	{
+		"word" : "tune",
+		"phonetic" : "tju:n",
+		"definition" : "n. 歌曲, 主旋律, 心情, 声调, 和谐, 一致, 语调, 程度nvt. 为...调音, 调整, 调谐, 使一致nvi. 协调, 调谐"
+	},
+	{
+		"word" : "continuing",
+		"phonetic" : "kәn'tinjuiŋ",
+		"definition" : "a. 继续的, 持续的, 连续的n[法] 继续的, 连续的, 持续的"
+	},
+	{
+		"word" : "railroad",
+		"phonetic" : "'reilrәud",
+		"definition" : "n. 铁路, 铁路公司nvt. 铺设铁路, 用铁路运输nvi. 在铁路工作"
+	},
+	{
+		"word" : "endure",
+		"phonetic" : "in'djuә",
+		"definition" : "vt. 忍受, 忍耐, 容忍, 耐nvi. (正式)持久, 持续n[计] 仍能工作, 继续工作"
+	},
+	{
+		"word" : "harm",
+		"phonetic" : "hɑ:m",
+		"definition" : "n. 伤害, 害处nvt. 伤害, 损害"
+	},
+	{
+		"word" : "radiation",
+		"phonetic" : ".reidi'eiʃәn",
+		"definition" : "n. 辐射n[化] 放射"
+	},
+	{
+		"word" : "horn",
+		"phonetic" : "hɒ:n",
+		"definition" : "n. 角, 角质, 喇叭, 号角na. 角制的nvt. 用角触, 长角于"
+	},
+	{
+		"word" : "chronic",
+		"phonetic" : "'krɒnik",
+		"definition" : "a. 慢性的, 习惯性的nn. 慢性病患者"
+	},
+	{
+		"word" : "peaceful",
+		"phonetic" : "'pi:sful",
+		"definition" : "a. 平静的, 和平的, 和平时期的, 爱好和平的, 喜爱安静的n[法] 和平的, 爱好和平的, 和平时期的"
+	},
+	{
+		"word" : "replacement",
+		"phonetic" : "ri'pleismәnt",
+		"definition" : "n. 归还, 更换, 代替者n[医] 复位, 置换"
+	},
+	{
+		"word" : "innovation",
+		"phonetic" : ".inәu'veiʃәn",
+		"definition" : "n. 改革, 创新n[法] 创新, 改革, 刷新"
+	},
+	{
+		"word" : "guitar",
+		"phonetic" : "gi'tɑ:",
+		"definition" : "n. 吉他"
+	},
+	{
+		"word" : "strain",
+		"phonetic" : "strein",
+		"definition" : "n. 紧张, 拉紧, 张力, 过劳, 扭伤, 血缘, 种, 族, 气质, 曲调, 旋律, 口吻nvt. 使劳累, 拉紧, 过分使用, 扭伤, 滥用, 曲解, 滤nvi. 尽力, 努力, 紧拉, 弯曲, 被滤出"
+	},
+	{
+		"word" : "behave",
+		"phonetic" : "bi'heiv",
+		"definition" : "vi. 举止端正, 行为规矩nvt. 检点(自己的)行为, 使表现好"
+	},
+	{
+		"word" : "administer",
+		"phonetic" : "әd'ministә",
+		"definition" : "vt. 管理, 料理, 执行nvi. 执行遗产管理人的职责, 给予帮助"
+	},
+	{
+		"word" : "simultaneously",
+		"phonetic" : "simәl'teiniәsly; (?@) saim-",
+		"definition" : "adv. 同时发生, 一齐, 同时, 同时存在"
+	},
+	{
+		"word" : "dancer",
+		"phonetic" : "'dɑ:nsә",
+		"definition" : "n. 舞蹈演员, 跳舞者"
+	},
+	{
+		"word" : "pad",
+		"phonetic" : "pæd",
+		"definition" : "n. 填补, 衬垫, 印色盒, 路nvt. 填补, 走, 夸大nvi. 步行n[计] 焊接点; 包装配\/拆卸"
+	},
+	{
+		"word" : "transmission",
+		"phonetic" : "træns'miʃәn",
+		"definition" : "n. 传输, 传送, 变速器n[计] 传输"
+	},
+	{
+		"word" : "trigger",
+		"phonetic" : "'trigә",
+		"definition" : "n. 触发器, 扳机nvt. 触发, 发射, 引起nvi. 松开扳柄n[计] 切换开关"
+	},
+	{
+		"word" : "amendment",
+		"phonetic" : "ә'mendmәnt",
+		"definition" : "n. 修订, 改善, 改良, 改正n[化] 调理剂; 修正"
+	},
+	{
+		"word" : "await",
+		"phonetic" : "ә'weit",
+		"definition" : "vt. 等候nvi. 等待着"
+	},
+	{
+		"word" : "retired",
+		"phonetic" : "ri'taiәd",
+		"definition" : "a. 隐退的, 退休的, 退役的n[经] 退休的, 已收回的"
+	},
+	{
+		"word" : "spill",
+		"phonetic" : "spil",
+		"definition" : "n. 溢出, 溅出, 摔下, 溢出量, 木片, 小塞子nvt. 使溢出, 使散落, 洒, 使流出, 倒出, 使摔下nvi. 溢出, 涌流, 摔下"
+	},
+	{
+		"word" : "grateful",
+		"phonetic" : "'greitful",
+		"definition" : "a. 感谢的, 感激的, 令人快意的, 受欢迎的"
+	},
+	{
+		"word" : "colony",
+		"phonetic" : "'kɒlәni",
+		"definition" : "n. 殖民地, 移民队n[医] 菌(集)落, 菌丛; 移民区"
+	},
+	{
+		"word" : "adoption",
+		"phonetic" : "ә'dɒpʃәn",
+		"definition" : "n. 采用, 采纳, 收养n[法] 收养, 采纳, 采用"
+	},
+	{
+		"word" : "virtual",
+		"phonetic" : "'vә:tʃuәl",
+		"definition" : "a. 实际上起作用的, 虚的, 实质的, 有效的, 事实上生效的n[计] 虚拟"
+	},
+	{
+		"word" : "convict",
+		"phonetic" : "kәn'vikt",
+		"definition" : "n. 囚犯, 罪犯nvt. 宣告有罪, 使知罪"
+	},
+	{
+		"word" : "indigenous",
+		"phonetic" : "in'didʒinәs",
+		"definition" : "a. 本土的, 国产的, 固有的n[医] 原产的, 本土的"
+	},
+	{
+		"word" : "closed",
+		"phonetic" : "klәuzd",
+		"definition" : "a. 关闭的, 限于少数人的n[计] 关闭指令"
+	},
+	{
+		"word" : "towel",
+		"phonetic" : "'tauәl",
+		"definition" : "n. 手巾, 毛巾nv. 擦干身子"
+	},
+	{
+		"word" : "particle",
+		"phonetic" : "'pɑ:tikl",
+		"definition" : "n. 颗粒, 粒子, 质点, 极小量n[化] 粒子; 质点"
+	},
+	{
+		"word" : "modify",
+		"phonetic" : "'mɒdifai",
+		"definition" : "vt. 修正, 变更, 修饰, 缓和, 减轻nvi. 被修改n[计] 修改"
+	},
+	{
+		"word" : "prize",
+		"phonetic" : "praiz",
+		"definition" : "n. 奖赏, 奖金, 奖品, 战利品, 捕获na. 得奖的nvt. 珍视, 估价, 捕获, 撬, 撬动"
+	},
+	{
+		"word" : "landing",
+		"phonetic" : "'lændiŋ",
+		"definition" : "n. 登陆, 码头, 降落n[经] 上岸, 登陆, 降落"
+	},
+	{
+		"word" : "boost",
+		"phonetic" : "bu:st",
+		"definition" : "n. 推进, 吹捧nvt. 推进, 提高, 宣扬, 促进"
+	},
+	{
+		"word" : "bat",
+		"phonetic" : "bæt",
+		"definition" : "n. 蝙蝠, 球棒nv. 用球棒打, 眨眼n[计] 成批"
+	},
+	{
+		"word" : "alarm",
+		"phonetic" : "ә'lɑ:m",
+		"definition" : "n. 惊恐, 警报, 警钟nvt. 使惊恐, 警告n[计] 报警信号"
+	},
+	{
+		"word" : "grip",
+		"phonetic" : "grip",
+		"definition" : "n. 紧握, 柄, 握力, 握手方式, 手提包, 掌握, 支配, 控制nvt. 抓紧, 抱住, 吸住, 掌握nvi. 握牢, 有吸引力"
+	},
+	{
+		"word" : "festival",
+		"phonetic" : "'festәvәl",
+		"definition" : "a. 节日的, 喜庆的, 快乐的nn. 节日, 庆祝, 欢宴"
+	},
+	{
+		"word" : "sweat",
+		"phonetic" : "swet",
+		"definition" : "n. 汗, 汗水, 水珠, 焦急nvi. 出汗, 渗出, 冒出水气, 结水珠, 烦恼, 懊恼nvt. 使出汗, 流出, 榨出, 使汗流浃背"
+	},
+	{
+		"word" : "undermine",
+		"phonetic" : ".ʌndә'main",
+		"definition" : "vt. 在...下面挖, 渐渐破坏, 暗地里破坏n[法] 暗中破坏, 以阴谋中伤伤害"
+	},
+	{
+		"word" : "outer",
+		"phonetic" : "'autә",
+		"definition" : "a. 外部的, 外面的, 在外的, 远离中心的n[机] 外部的, 外面的, 外侧的"
+	},
+	{
+		"word" : "freshman",
+		"phonetic" : "",
+		"definition" : "n. 新手, 生手, 大学一年级学生, (美)中学一年级学生"
+	},
+	{
+		"word" : "drunk",
+		"phonetic" : "drʌŋk",
+		"definition" : "a. 喝醉了的ndrink的过去式"
+	},
+	{
+		"word" : "separation",
+		"phonetic" : ".sepә'reiʃәn",
+		"definition" : "n. 分离, 分居, 缺口, 退职n[化] 分离"
+	},
+	{
+		"word" : "traditionally",
+		"phonetic" : "",
+		"definition" : "adv. 传统上；传说上；习惯上"
+	},
+	{
+		"word" : "ballot",
+		"phonetic" : "'bælәt",
+		"definition" : "n. 投票, 投票用纸, 抽签nvi. 投票, 抽签nvt. 投票选出, 拉选票"
+	},
+	{
+		"word" : "web",
+		"phonetic" : "web",
+		"definition" : "n. 网, 蛛丝, 蹼, 织物, 圈套, 卷筒纸nvi. 结网, 形成网nvt. 织蜘蛛网于, 使落入圈套"
+	},
+	{
+		"word" : "southeast",
+		"phonetic" : "sauθ'i:st",
+		"definition" : "n. 东南, 东南地区na. 东南的, 向东南的, 来自东南的nadv. 往东南, 来自东南"
+	},
+	{
+		"word" : "intelligent",
+		"phonetic" : "in'telidʒәnt",
+		"definition" : "a. 聪明的, 智能的, 了解的"
+	},
+	{
+		"word" : "republic",
+		"phonetic" : "ri'pʌblik",
+		"definition" : "n. 共和国, 共和政体, 团体, 界"
+	},
+	{
+		"word" : "wherever",
+		"phonetic" : "hwєәr'evә",
+		"definition" : "adv. 无论哪里"
+	},
+	{
+		"word" : "govern",
+		"phonetic" : "'gʌvәn",
+		"definition" : "v. 统治, 支配, 管理"
+	},
+	{
+		"word" : "driving",
+		"phonetic" : "'draiviŋ",
+		"definition" : "n. 赶, 操纵, 驾驶na. 推进的, 强劲的, 精力旺盛的"
+	},
+	{
+		"word" : "rhetoric",
+		"phonetic" : "'retәrik",
+		"definition" : "n. 修辞, 修辞学, 雄辩(术)"
+	},
+	{
+		"word" : "convinced",
+		"phonetic" : "kәn'vinst",
+		"definition" : "a. 确信的, 深信的"
+	},
+	{
+		"word" : "vitamin",
+		"phonetic" : "'vaitәmin",
+		"definition" : "n. 维生素n[化] 维生素"
+	},
+	{
+		"word" : "enthusiasm",
+		"phonetic" : "in'θju:ziæzәm",
+		"definition" : "n. 巨大的热情, 热心"
+	},
+	{
+		"word" : "accommodate",
+		"phonetic" : "ә'kɒmәdeit",
+		"definition" : "vt. 使适应, 调和, 通融, 容纳, 向...提供nvi. 适应"
+	},
+	{
+		"word" : "wilderness",
+		"phonetic" : "'wildәnis",
+		"definition" : "n. 荒野, 荒地, 大量"
+	},
+	{
+		"word" : "praise",
+		"phonetic" : "preiz",
+		"definition" : "n. 赞美, 称赞, 崇拜nvt. 称赞, 赞美nvi. 赞扬, 表扬"
+	},
+	{
+		"word" : "injure",
+		"phonetic" : "'indʒә",
+		"definition" : "vt. 伤害, 损害, 使受冤屈n[医] 损伤"
+	},
+	{
+		"word" : "endless",
+		"phonetic" : "'endlis",
+		"definition" : "a. 不停的, 无穷尽的, 无尽的n[机] 无端的, 环状的"
+	},
+	{
+		"word" : "mandate",
+		"phonetic" : "'mændeit",
+		"definition" : "n. 命令, 指令, 要求nvt. 委任统治"
+	},
+	{
+		"word" : "respectively",
+		"phonetic" : "ri'spektivli",
+		"definition" : "adv. 各自地, 独自地, 个别地, 分别地"
+	},
+	{
+		"word" : "chaos",
+		"phonetic" : "'keiɒs",
+		"definition" : "n. 大混乱, 混沌n[化] 混沌; 浑沌"
+	},
+	{
+		"word" : "uncertainty",
+		"phonetic" : ".ʌn'sә:tnti",
+		"definition" : "n. 不确定, 不可靠, 不确定的事物n[化] 不确定度"
+	},
+	{
+		"word" : "mechanical",
+		"phonetic" : "mi'kænikәl",
+		"definition" : "a. 机械的, 机械性的, 力学的n[医] 机械的, 力学的"
+	},
+	{
+		"word" : "format",
+		"phonetic" : "'fɒ:mæt",
+		"definition" : "n. 开本, 版式, 形式, 格式nvt. 格式化n[计] 格式; DOS外部命令:对磁盘进行格式化"
+	},
+	{
+		"word" : "canvas",
+		"phonetic" : "'kænvәs",
+		"definition" : "n. 帆布, 画布, 油画n[化] 帆布"
+	},
+	{
+		"word" : "forty",
+		"phonetic" : "'fɒ:ti",
+		"definition" : "num. 四十, 四十个"
+	},
+	{
+		"word" : "profound",
+		"phonetic" : "prә'faund",
+		"definition" : "a. 极深的, 深厚的, 深刻的, 渊博的"
+	},
+	{
+		"word" : "lobby",
+		"phonetic" : "'lɒbi",
+		"definition" : "n. 大厅, 休息室, 游说议员者nvi. 游说议员, 游说nvt. 游说"
+	},
+	{
+		"word" : "trait",
+		"phonetic" : "treit",
+		"definition" : "n. 特征, 特性, 一笔, 少许"
+	},
+	{
+		"word" : "currency",
+		"phonetic" : "'kʌrәnsi",
+		"definition" : "n. 货币, 通货, 流通, 通用n[计] 货币, 货币型"
+	},
+	{
+		"word" : "apologize",
+		"phonetic" : "ә'pɒlәdʒaiz",
+		"definition" : "vi. 道歉, 辩解"
+	},
+	{
+		"word" : "reserve",
+		"phonetic" : "ri'zә:v",
+		"definition" : "n. 储备品, 贮量, 后备军, 自然保护区, 保留, 拘谨, 节制, 储备金nvt. 保留, 保存, 预订, 延期, 推迟"
+	},
+	{
+		"word" : "beam",
+		"phonetic" : "bi:m",
+		"definition" : "n. 横梁, 杆, 光线, 容光焕发nvi. 用梁支承, 微笑, 射出光线nvt. 照耀, 感到欣喜n[计] 束"
+	},
+	{
+		"word" : "corruption",
+		"phonetic" : "kә'rʌpʃәn",
+		"definition" : "n. 腐败, 堕落, 贪污n[计] 论误"
+	},
+	{
+		"word" : "astronomer",
+		"phonetic" : "ә'strɒnәmә",
+		"definition" : "n. 天文学家"
+	},
+	{
+		"word" : "contractor",
+		"phonetic" : "'kɒntræktә",
+		"definition" : "n. 立契约的人, 承包商n[化] 承包者; 承包工厂"
+	},
+	{
+		"word" : "doctrine",
+		"phonetic" : "'dɒktrin",
+		"definition" : "n. 教条, 学说n[医] 学说"
+	},
+	{
+		"word" : "genuine",
+		"phonetic" : "'dʒenjuin",
+		"definition" : "a. 真正的, 真实的, 诚恳的n[医] 真性的"
+	},
+	{
+		"word" : "thumb",
+		"phonetic" : "θʌm",
+		"definition" : "n. 拇指nvt. 以拇指拨弄, 笨拙地摆弄, 用拇指翻旧, 迅速翻阅, 作搭车手势"
+	},
+	{
+		"word" : "unity",
+		"phonetic" : "'ju:niti",
+		"definition" : "n. 一致, 联合, 单一(性), 个体n[经] 统一"
+	},
+	{
+		"word" : "horrible",
+		"phonetic" : "'hɒrәbl",
+		"definition" : "a. 可怕的, 遭透的, 极讨厌的"
+	},
+	{
+		"word" : "compromise",
+		"phonetic" : "'kɒmprәmaiz",
+		"definition" : "n. 妥协, 折中, 折中方案, 和解nvi. 妥协处理nvt. 危害"
+	},
+	{
+		"word" : "behavioral",
+		"phonetic" : "bi'heivjәrәl",
+		"definition" : "a. 行为的"
+	},
+	{
+		"word" : "bureau",
+		"phonetic" : "'bjuәrәu",
+		"definition" : "n. 局, 办公处n[经] 局, 司, 处"
+	},
+	{
+		"word" : "exclusive",
+		"phonetic" : "ik'sklu:siv",
+		"definition" : "a. 排外的, 独占的, 唯一的n[计] 独占的"
+	},
+	{
+		"word" : "scatter",
+		"phonetic" : "'skætә",
+		"definition" : "n. 消散, 分散, 散播, 散射, 散布, 酒馆nvi. 散布, 散播, 消散nvt. 使消散, 使分散, 撒, 散布, 散播, 散射n[计] 散点图"
+	},
+	{
+		"word" : "commonly",
+		"phonetic" : "'kɒmәnli",
+		"definition" : "adv. 一般, 普通, 通常"
+	},
+	{
+		"word" : "convey",
+		"phonetic" : "kәn'vei",
+		"definition" : "vt. 传达, 运输, 转让n[经] 转让(财产等), 搬运"
+	},
+	{
+		"word" : "complexity",
+		"phonetic" : "kәm'pleksiti",
+		"definition" : "n. 复杂, 复杂性, 复杂的事物"
+	},
+	{
+		"word" : "fork",
+		"phonetic" : "fɒ:k",
+		"definition" : "n. 叉子, 叉状物, 分岔nvi. 分支, 分歧nvt. 做成叉形, 叉起n[计] 派生指令"
+	},
+	{
+		"word" : "twist",
+		"phonetic" : "twist",
+		"definition" : "n. 一扭, 扭曲, 曲折, 歪曲, 螺旋状, 新手法nvt. 拧, 扭, 捻, 编织, 使扭转, 缠绕, 盘绕, 歪曲, 使转动, 使苦恼, 使混乱, 使旋转nvi. 转向, 弯曲, 缠绕, 扭动, 呈螺旋形"
+	},
+	{
+		"word" : "Christianity",
+		"phonetic" : ".kristʃi'æniti",
+		"definition" : "n. 基督教, 基督教精神"
+	},
+	{
+		"word" : "disk",
+		"phonetic" : "disk",
+		"definition" : "n. 圆盘, 磁盘n[计] 磁盘"
+	},
+	{
+		"word" : "suspicion",
+		"phonetic" : "sә'spiʃәn",
+		"definition" : "n. 怀疑, 觉察, 嫌疑n[法] 怀疑, 疑心, 嫌疑"
+	},
+	{
+		"word" : "relieve",
+		"phonetic" : "ri'li:v",
+		"definition" : "vt. 减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著nvi. 救济, 当替补投手, 呈鲜明突出"
+	},
+	{
+		"word" : "residence",
+		"phonetic" : "'rezidәns",
+		"definition" : "n. 住宅, 居留, 驻扎, 居住期间n[医] 住房"
+	},
+	{
+		"word" : "shame",
+		"phonetic" : "ʃeim",
+		"definition" : "n. 羞耻, 羞愧, 耻辱nvt. 使羞愧, 侮辱"
+	},
+	{
+		"word" : "olympics",
+		"phonetic" : "әu'limpiks",
+		"definition" : "n. 奥林匹克运动会"
+	},
+	{
+		"word" : "meaningful",
+		"phonetic" : "'mi:niŋful",
+		"definition" : "a. 意味深长的"
+	},
+	{
+		"word" : "sidewalk",
+		"phonetic" : "'saidwɒ:k",
+		"definition" : "n. 人行道"
+	},
+	{
+		"word" : "technological",
+		"phonetic" : ".teknә'lɒdʒikl",
+		"definition" : "a. 技术的n[经] 工艺的, 技术的"
+	},
+	{
+		"word" : "pleasant",
+		"phonetic" : "'pleznt",
+		"definition" : "a. 愉快的, 可爱的, 活泼的, 亲切的"
+	},
+	{
+		"word" : "signature",
+		"phonetic" : "'signәtʃә",
+		"definition" : "n. 签字, 识别标志, 调号n[计] 签名附件"
+	},
+	{
+		"word" : "wow",
+		"phonetic" : "wau",
+		"definition" : "interj. (非正式)哇nn. 巨大的成功, 轰动一时的成功, 十分有趣的事物n[计] WIn32上的Windows"
+	},
+	{
+		"word" : "suspend",
+		"phonetic" : "sә'spend",
+		"definition" : "vt. 悬, 吊, 使悬浮, 暂停, 中止, 推迟nvi. 暂停, 中止, 悬浮, 停止偿付债务n[计] 暂停"
+	},
+	{
+		"word" : "rebel",
+		"phonetic" : "'rebl",
+		"definition" : "n. 叛徒, 反叛者nvi. 造反, 反抗, 抵抗, 反感na. 造反的, 反抗的"
+	},
+	{
+		"word" : "spouse",
+		"phonetic" : "spauz",
+		"definition" : "n. 配偶"
+	},
+	{
+		"word" : "frozen",
+		"phonetic" : "'frәuzn",
+		"definition" : "a. 冻结的, 冰冷的, 严寒的, 冻伤的, 冷酷的nfreeze的过去分词"
+	},
+	{
+		"word" : "fluid",
+		"phonetic" : "'flu:id",
+		"definition" : "n. 液体, 分泌液, 流体na. 流动的, 可改变的"
+	},
+	{
+		"word" : "resume",
+		"phonetic" : "ri'zju:m",
+		"definition" : "vt. 重新开始, 取回, 恢复nvi. 再开始nn. 摘要, 个人简历n[计] 继续执行"
+	},
+	{
+		"word" : "theoretical",
+		"phonetic" : "θiә'retikәl",
+		"definition" : "a. 理论的, 理论上的, 假设的, 推理的n[计] 理论的"
+	},
+	{
+		"word" : "sodium",
+		"phonetic" : "'sәudiәm",
+		"definition" : "n. 钠n[化] 钠Na"
+	},
+	{
+		"word" : "pension",
+		"phonetic" : "'penʃәn",
+		"definition" : "n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费nvt. 发给退休金, 用津贴拉拢"
+	},
+	{
+		"word" : "promotion",
+		"phonetic" : "prәu'mәuʃәn",
+		"definition" : "n. 晋级, 创建, 增进n[经] 推广, 推销, 促进"
+	},
+	{
+		"word" : "delicate",
+		"phonetic" : "'delikәt",
+		"definition" : "a. 细致优雅的, 微妙的, 美味的n[医] 柔弱的"
+	},
+	{
+		"word" : "forehead",
+		"phonetic" : "'fɒ:rid",
+		"definition" : "n. 额, 前额, 前部n[医] 额"
+	},
+	{
+		"word" : "electrical",
+		"phonetic" : "i'lektrikәl",
+		"definition" : "a. 电的, 有关电的n[医] 电的"
+	},
+	{
+		"word" : "rebuild",
+		"phonetic" : "ri'bild",
+		"definition" : "vt. 改建, 重建, 改造nvi. 重建"
+	},
+	{
+		"word" : "hook",
+		"phonetic" : "huk",
+		"definition" : "n. 钩, 钩状, 镰刀, 陷阱nvt. 挂...于钩上, 钩住, 引上钩, 偷窃nvi. 弯成钩状, 钩紧n[计] 钩"
+	},
+	{
+		"word" : "bounce",
+		"phonetic" : "bauns",
+		"definition" : "n. 跳, 跳跃, 弹力, 撞击nvi. 反跳, 弹跳nvt. 使跳回, 撞击n[计] 打回"
+	},
+	{
+		"word" : "detective",
+		"phonetic" : "di'tektiv",
+		"definition" : "n. 侦探na. 侦探的"
+	},
+	{
+		"word" : "click",
+		"phonetic" : "klik",
+		"definition" : "n. 咔哒声, 啪嗒声nvi. 作咔哒声nvt. 使发咔哒声n[计] 单击"
+	},
+	{
+		"word" : "traveler",
+		"phonetic" : "'trævlә",
+		"definition" : "n. 旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单"
+	},
+	{
+		"word" : "compensation",
+		"phonetic" : ".kɒmpen'seiʃәn",
+		"definition" : "n. 补偿, 赔偿金, 工资n[医] 代偿(机能), 补偿"
+	},
+	{
+		"word" : "exit",
+		"phonetic" : "'eksit",
+		"definition" : "n. 出口, 退场, 离去, 去世nvi. 退出, 脱离, 去世n[计] 退出; DOS内部命令:本命令用于退出当前的命令处理器(COMMAND.COM)n恢复前一个命令处理器"
+	},
+	{
+		"word" : "dedicate",
+		"phonetic" : "'dedikeit",
+		"definition" : "vt. 献出, 贡献"
+	},
+	{
+		"word" : "attraction",
+		"phonetic" : "ә'trækʃәn",
+		"definition" : "n. 吸引, 吸引人的事物, 吸引力n[医] 吸引"
+	},
+	{
+		"word" : "altogether",
+		"phonetic" : ".ɒ:ltә'geðә",
+		"definition" : "adv. 完全地, 总而言之"
+	},
+	{
+		"word" : "pickup",
+		"phonetic" : "'pikʌp",
+		"definition" : "n. 拾起, 加速, 刺激, 猎物的收集, 好转, 恢复健康, 搭车者, 兴奋剂, 电视摄像n[电] 拾音器"
+	},
+	{
+		"word" : "carve",
+		"phonetic" : "kɑ:v",
+		"definition" : "v. 雕刻, 切开"
+	},
+	{
+		"word" : "needle",
+		"phonetic" : "'ni:dl",
+		"definition" : "n. 针, 尖nvt. 用针缝nvi. 缝纫n[计] 探针"
+	},
+	{
+		"word" : "belly",
+		"phonetic" : "'beli",
+		"definition" : "n. 腹部, 食欲nvt. 使鼓起nvi. 鼓起, 匍匐前进"
+	},
+	{
+		"word" : "scare",
+		"phonetic" : "skєә",
+		"definition" : "n. 惊吓, 恐慌nvt. 惊吓, 使恐慌nvi. 受惊"
+	},
+	{
+		"word" : "timing",
+		"phonetic" : "'taimiŋ",
+		"definition" : "n. 时间选择, 时间测定, 定时, 调速n[计] 定时器时钟"
+	},
+	{
+		"word" : "portfolio",
+		"phonetic" : "pɒ:t'fәuliәu",
+		"definition" : "n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑n[法] 公文包, 文件夹, 阁员职务"
+	},
+	{
+		"word" : "shuttle",
+		"phonetic" : "'ʃʌtl",
+		"definition" : "n. 穿梭, 梭子, 往返移动之物nv. (使)穿梭移动, 往返运送"
+	},
+	{
+		"word" : "invisible",
+		"phonetic" : "in'vizәbl",
+		"definition" : "a. 看不见的, 无形的n[经] 无形的, 表面上看不见的, 未列在公开帐目的"
+	},
+	{
+		"word" : "engagement",
+		"phonetic" : "in'geidʒdmәnt",
+		"definition" : "n. 诺言, 约会, 婚约, 交战n[医] 衔接"
+	},
+	{
+		"word" : "transaction",
+		"phonetic" : "træn'sækʃәn",
+		"definition" : "n. 交易, 办理, 学报, 和解协议n[计] 事务处理"
+	},
+	{
+		"word" : "ankle",
+		"phonetic" : "'æŋkl",
+		"definition" : "n. 踝n[医] 踝, 踝关节"
+	},
+	{
+		"word" : "rescue",
+		"phonetic" : "'reskju:",
+		"definition" : "n. 援救, 解救, 营救nvt. 援救, 救出, 营救"
+	},
+	{
+		"word" : "counterpart",
+		"phonetic" : "'kauntәpɑ:t",
+		"definition" : "n. 副本, 复本, 配对物, 相应物n[经] 副本, 正副二份中之一"
+	},
+	{
+		"word" : "historically",
+		"phonetic" : "his'tɔrikәli",
+		"definition" : "adv. 历史上地；从历史观点上说"
+	},
+	{
+		"word" : "firmly",
+		"phonetic" : "'fә:mli",
+		"definition" : "adv. 坚固, 坚定, 断然"
+	},
+	{
+		"word" : "mild",
+		"phonetic" : "maild",
+		"definition" : "a. 温和的, 温柔的, 淡味的, 适度的, 轻微的, (肥皂等)软性的n[医] 轻的, 缓和的"
+	},
+	{
+		"word" : "noon",
+		"phonetic" : "nu:n",
+		"definition" : "n. 正午, 中午, 全盛期"
+	},
+	{
+		"word" : "identical",
+		"phonetic" : "ai'dentikәl",
+		"definition" : "a. 同一的, 恒等的, 完全相同的n[医] 同一的, 同等的"
+	},
+	{
+		"word" : "doll",
+		"phonetic" : "dɒl",
+		"definition" : "n. 洋娃娃, 无头脑的美丽女人"
+	},
+	{
+		"word" : "rider",
+		"phonetic" : "'raidә",
+		"definition" : "n. 骑手, (文件后的)附件, 扶手n[化] 游码"
+	},
+	{
+		"word" : "amid",
+		"phonetic" : "ә'mid",
+		"definition" : "prep. 在其间, 在其中n[经] 在...中"
+	},
+	{
+		"word" : "precise",
+		"phonetic" : "pri'sais",
+		"definition" : "a. 精确的, 严谨的, 明确的n[机] 精密的, 正确的"
+	},
+	{
+		"word" : "anxious",
+		"phonetic" : "'æŋʃәs",
+		"definition" : "a. 忧虑的, 发愁的, 渴望的"
+	},
+	{
+		"word" : "residential",
+		"phonetic" : ".rezi'denʃәl",
+		"definition" : "a. 住宅的, 与居住有关的n[法] 有关居住的, 房产的:居所的, 适于居住的"
+	},
+	{
+		"word" : "structural",
+		"phonetic" : "'strʌktʃәrәl",
+		"definition" : "a. 结构的, 建筑的n[医] 结构的"
+	},
+	{
+		"word" : "carbohydrate",
+		"phonetic" : ".kɑ:bәu'haidreit",
+		"definition" : "n. 碳水化合物, 糖类n[化] 糖类; 碳水化合物"
+	},
+	{
+		"word" : "diagnose",
+		"phonetic" : "'daiәgnәuz",
+		"definition" : "v. 诊断"
+	},
+	{
+		"word" : "theology",
+		"phonetic" : "θi'ɒlәdʒi",
+		"definition" : "n. 神学"
+	},
+	{
+		"word" : "poster",
+		"phonetic" : "'pәustә",
+		"definition" : "n. 海报, 招贴, 驿马"
+	},
+	{
+		"word" : "liberty",
+		"phonetic" : "'libәli",
+		"definition" : "n. 自由, 特权, 许可, 冒失n[法] 自由, 自由权, 自由区域"
+	},
+	{
+		"word" : "crawl",
+		"phonetic" : "krɒ:l",
+		"definition" : "n. 爬行, 匍匐而行, 养鱼池nv. 爬行"
+	},
+	{
+		"word" : "nonprofit",
+		"phonetic" : "nɒn'prɒfit",
+		"definition" : "a. 非赢利的, 无利可图的n[法] 非营利的, 无利可图的"
+	},
+	{
+		"word" : "handsome",
+		"phonetic" : "'hænsәm",
+		"definition" : "a. 英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的"
+	},
+	{
+		"word" : "oxygen",
+		"phonetic" : "'ɒksәdʒәn",
+		"definition" : "n. 氧n[化] 氧O-2"
+	},
+	{
+		"word" : "businessman",
+		"phonetic" : "'biznismæn",
+		"definition" : "n. 商人, 实业家, 工商业家"
+	},
+	{
+		"word" : "provided",
+		"phonetic" : "prә'vaidid",
+		"definition" : "conj. 倘若, 以...为条件"
+	},
+	{
+		"word" : "sum",
+		"phonetic" : "sʌm",
+		"definition" : "n. 总数, 总和, 金额, 概要, 顶点nvt. 总计, 概括nvi. 合计n[计] 系统实用程序和维护"
+	},
+	{
+		"word" : "promising",
+		"phonetic" : "'prɒmisiŋ",
+		"definition" : "a. 有希望的, 前途有望的n[经] 有希望的"
+	},
+	{
+		"word" : "conscious",
+		"phonetic" : "'kɒnʃәs",
+		"definition" : "a. 有意识的, 知觉的, 觉察的n[医] 有意识的, 清醒的"
+	},
+	{
+		"word" : "determination",
+		"phonetic" : "di.tә:mi'neiʃәn",
+		"definition" : "n. 决心, 果断n[化] 判定; 测定"
+	},
+	{
+		"word" : "donor",
+		"phonetic" : "'dәunә",
+		"definition" : "n. 捐赠人n[化] 给体; 供体"
+	},
+	{
+		"word" : "jazz",
+		"phonetic" : "dʒæz",
+		"definition" : "n. 爵士乐, 喧闹na. 爵士乐的, 喧吵的nvi. 演奏爵士乐, 跳爵士舞, 游荡nvt. 奏爵士乐, 使活泼"
+	},
+	{
+		"word" : "hers",
+		"phonetic" : "hә:z",
+		"definition" : "pron. 她的"
+	},
+	{
+		"word" : "pastor",
+		"phonetic" : "'pæstә",
+		"definition" : "n. 牧师"
+	},
+	{
+		"word" : "opera",
+		"phonetic" : "'ɒpәrә",
+		"definition" : "n. 歌剧"
+	},
+	{
+		"word" : "acquisition",
+		"phonetic" : ".ækwi'ziʃәn",
+		"definition" : "n. 获得, 获得物n[经] 收购, 招揽, 取得"
+	},
+	{
+		"word" : "pit",
+		"phonetic" : "pit",
+		"definition" : "n. 深坑, 矿井, 果核, 地窖, 深渊, 绝境, 陷阱nvt. 窖藏, 使凹下, 使有麻点, 去...之核, 使留疤痕, 使相斗, 使竞争nvi. 起凹点, 凹陷"
+	},
+	{
+		"word" : "hug",
+		"phonetic" : "hʌg",
+		"definition" : "n. 紧抱, 拥抱nvt. 紧抱, 坚持, 使沾沾自喜"
+	},
+	{
+		"word" : "wildlife",
+		"phonetic" : "'waildlaif",
+		"definition" : "n. 野生动植物"
+	},
+	{
+		"word" : "punish",
+		"phonetic" : "'pʌniʃ",
+		"definition" : "vt. 处罚, 惩罚, 严厉对待nvi. 惩罚"
+	},
+	{
+		"word" : "equity",
+		"phonetic" : "'ekwiti",
+		"definition" : "n. 公平, 公正n[经] 权益, 产权"
+	},
+	{
+		"word" : "doorway",
+		"phonetic" : "'dɒ:wei",
+		"definition" : "n. 门口, 途径"
+	},
+	{
+		"word" : "departure",
+		"phonetic" : "di'pɑ:tʃә",
+		"definition" : "n. 离开, 出发, 违背, 偏离n[经] 启运"
+	},
+	{
+		"word" : "teenage",
+		"phonetic" : "'ti:nidʒ",
+		"definition" : "a. 十三岁到十九岁的"
+	},
+	{
+		"word" : "guidance",
+		"phonetic" : "'gaidns",
+		"definition" : "n. 指导, 领导n[医] 导"
+	},
+	{
+		"word" : "happiness",
+		"phonetic" : "'hæpinis",
+		"definition" : "n. 快乐, 幸运, 适当"
+	},
+	{
+		"word" : "elevator",
+		"phonetic" : "'eliveitә",
+		"definition" : "n. 电梯, 升降机n[化] 提升机"
+	},
+	{
+		"word" : "statue",
+		"phonetic" : "'stætju",
+		"definition" : "vt. 以雕像装饰nn. 雕像"
+	},
+	{
+		"word" : "pursuit",
+		"phonetic" : "pә'sju:t",
+		"definition" : "n. 追踪, 追求, 追赶, 娱乐, 职业n[法] 追捕, 追求"
+	},
+	{
+		"word" : "repair",
+		"phonetic" : "ri'pєә",
+		"definition" : "n. 修理, 补救, 修复nvt. 修理, 修补, 补救, 恢复, 补偿nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合"
+	},
+	{
+		"word" : "oral",
+		"phonetic" : "'ɒ:rәl",
+		"definition" : "n. 口试na. 口头的, 口述的, 口部的"
+	},
+	{
+		"word" : "gym",
+		"phonetic" : "dʒim",
+		"definition" : "n. +体育馆, 体育训练, 体育课, 体操"
+	},
+	{
+		"word" : "clerk",
+		"phonetic" : "klә:k",
+		"definition" : "n. 办事员, 职员, 文书nvi. 当店员"
+	},
+	{
+		"word" : "decent",
+		"phonetic" : "'di:sәnt",
+		"definition" : "a. 有分寸的, 得体的, 大方的"
+	},
+	{
+		"word" : "envelope",
+		"phonetic" : "'envәlәup",
+		"definition" : "n. 信封, 封套, 封袋n[医] 膜, 包袋"
+	},
+	{
+		"word" : "fist",
+		"phonetic" : "fist",
+		"definition" : "n. 拳头, 手nvt. 拳打, 握成拳, 紧握"
+	},
+	{
+		"word" : "reporting",
+		"phonetic" : "ri'pɒ:tiŋ",
+		"definition" : "n. 报道n[经] 报告, 汇报"
+	},
+	{
+		"word" : "destination",
+		"phonetic" : ".desti'neiʃәn",
+		"definition" : "n. 目的地, 目标, 目的n[计] 目的文件, 目的单元"
+	},
+	{
+		"word" : "endorse",
+		"phonetic" : "in'dɒ:s",
+		"definition" : "vt. 支持, 赞同, 背书于, 签署n[经] 赞成, 背书"
+	},
+	{
+		"word" : "exploration",
+		"phonetic" : ".eksplә'reiʃәn",
+		"definition" : "n. 探险, 踏勘, 探测n[医] 探察"
+	},
+	{
+		"word" : "generous",
+		"phonetic" : "'dʒenәrәs",
+		"definition" : "a. 慷慨的, 有雅量的, 大量的, 丰富的"
+	},
+	{
+		"word" : "feedback",
+		"phonetic" : "'fi:dbæk",
+		"definition" : "n. 反馈, 反应n[计] 反馈"
+	},
+	{
+		"word" : "bath",
+		"phonetic" : "bæθ.bɑ:θ",
+		"definition" : "n. 沐浴, 浴室n[医] 浴"
+	},
+	{
+		"word" : "thereby",
+		"phonetic" : "'ðєәbai",
+		"definition" : "adv. 因此"
+	},
+	{
+		"word" : "indicator",
+		"phonetic" : "'indikeitә",
+		"definition" : "n. 指示器, 指示剂, 指标n[计] 指示器"
+	},
+	{
+		"word" : "spectrum",
+		"phonetic" : "'spektrәm",
+		"definition" : "n. 光谱, 范围, 系列n[化] 光谱"
+	},
+	{
+		"word" : "purple",
+		"phonetic" : "'pә:pl",
+		"definition" : "n. 紫色, 帝位na. 紫色的, 帝王的, 华而不实的nv. (使)成紫色"
+	},
+	{
+		"word" : "sunlight",
+		"phonetic" : "'sʌnlait",
+		"definition" : "n. 日光n[医] 日光, 太阳光"
+	},
+	{
+		"word" : "laser",
+		"phonetic" : "'leizә",
+		"definition" : "n. 激光n[计] 激光器"
+	},
+	{
+		"word" : "bold",
+		"phonetic" : "bәuld",
+		"definition" : "a. 大胆的nn. 粗体n[计] 粗体"
+	},
+	{
+		"word" : "expertise",
+		"phonetic" : ".ekspә:'ti:z",
+		"definition" : "n. 专家意见, 专门技术n[法] 专门知识, 专家意见"
+	},
+	{
+		"word" : "starting",
+		"phonetic" : "'stɑ:tiŋ",
+		"definition" : "n. 开端, 开始, 出发, 起动, 开动n[机] 开动, 起动"
+	},
+	{
+		"word" : "reluctant",
+		"phonetic" : "ri'lʌktәnt",
+		"definition" : "a. 不情愿的, 勉强的n[法] 不愿的, 勉强的, 难以处理的"
+	},
+	{
+		"word" : "practically",
+		"phonetic" : "'præktikli",
+		"definition" : "adv. 几乎, 差不多, 事实上"
+	},
+	{
+		"word" : "eating",
+		"phonetic" : "'i:tiŋ",
+		"definition" : "n. 吃, 食物na. 侵蚀的, 腐蚀性的"
+	},
+	{
+		"word" : "parade",
+		"phonetic" : "pә'reid",
+		"definition" : "n. 游行, 炫耀, 阅兵nv. 游行, 炫耀, (使)列队行进"
+	},
+	{
+		"word" : "sharply",
+		"phonetic" : "'ʃɑ:pli",
+		"definition" : "adv. 锐利地, 严厉地, 厉害地n[经] 剧烈地"
+	},
+	{
+		"word" : "hint",
+		"phonetic" : "hint",
+		"definition" : "n. 暗示, 提示nv. 暗示, 示意"
+	},
+	{
+		"word" : "realm",
+		"phonetic" : "relm",
+		"definition" : "n. 王国, 领土, 领域n[计] 领域"
+	},
+	{
+		"word" : "blend",
+		"phonetic" : "blend",
+		"definition" : "vt. 混合nn. 混合"
+	},
+	{
+		"word" : "cancel",
+		"phonetic" : "'kænsәl",
+		"definition" : "n. 取消, 撤消, 盖销(邮票)nvt. 取消, 删去, 抵销, 盖销nvi. 相互抵销n[计] 作废"
+	},
+	{
+		"word" : "therapist",
+		"phonetic" : "'θerәpist",
+		"definition" : "n. 治疗学家n[医] 治疗学家"
+	},
+	{
+		"word" : "constitution",
+		"phonetic" : ".kɒnsti'tju:ʃәn",
+		"definition" : "n. 构成, 宪法, 体格n[医] 体质; 结构, 组织"
+	},
+	{
+		"word" : "pizza",
+		"phonetic" : "'pi:tsә",
+		"definition" : "n. 比萨饼"
+	},
+	{
+		"word" : "recipient",
+		"phonetic" : "ri'sipiәnt",
+		"definition" : "a. 领受的, 容易接受的, 感受性强的nn. 领受者, 容纳者, 容器"
+	},
+	{
+		"word" : "peel",
+		"phonetic" : "pi:l",
+		"definition" : "n. 皮, 外壳nvt. 削...皮, 剥去...的壳nvi. 蜕皮, 剥落, 脱皮, 脱去衣服"
+	},
+	{
+		"word" : "accounting",
+		"phonetic" : "ә'kauntiŋ",
+		"definition" : "n. 会计学, 帐单, 清帐n[计] 帐户处理, 记帐"
+	},
+	{
+		"word" : "flip",
+		"phonetic" : "flip",
+		"definition" : "vt. 掷, 弹, 轻击, 空翻nvi. 用指轻弹, 抽打, 蹦跳nn. 抛, 弹, 筋斗na. 无礼的n[计] 翻转"
+	},
+	{
+		"word" : "hesitate",
+		"phonetic" : "'heziteit",
+		"definition" : "vi. 犹豫, 迟疑, 踌躇, 支吾, 停顿"
+	},
+	{
+		"word" : "bias",
+		"phonetic" : "'baiәs",
+		"definition" : "n. 偏见, 斜纹na. 偏斜的nadv. 偏斜nvt. 使有偏见n[计] 偏流; 偏压; 偏磁; 偏离"
+	},
+	{
+		"word" : "huh",
+		"phonetic" : "hʌ",
+		"definition" : "interj. 哼, 哈"
+	},
+	{
+		"word" : "metaphor",
+		"phonetic" : "'metәfә",
+		"definition" : "n. 隐喻"
+	},
+	{
+		"word" : "candle",
+		"phonetic" : "'kændl",
+		"definition" : "n. 蜡烛nvt. 对着光检查"
+	},
+	{
+		"word" : "judicial",
+		"phonetic" : "dʒu:'diʃәl",
+		"definition" : "a. 法庭的, 公正的, 审判上的, 司法的n[法] 司法的, 审判上的, 法官的"
+	},
+	{
+		"word" : "entity",
+		"phonetic" : "'entiti",
+		"definition" : "n. 实体, 实存物, 存在n[计] 实体"
+	},
+	{
+		"word" : "suffering",
+		"phonetic" : "'sʌfәriŋ",
+		"definition" : "n. 苦难, 受苦"
+	},
+	{
+		"word" : "garbage",
+		"phonetic" : "'gɑ:bidʒ",
+		"definition" : "n. 垃圾, 废物n[计] 无用信息"
+	},
+	{
+		"word" : "lamp",
+		"phonetic" : "læmp",
+		"definition" : "n. 灯nvt. 照亮n[计] 逻辑模拟分析系统"
+	},
+	{
+		"word" : "servant",
+		"phonetic" : "'sә:vәnt",
+		"definition" : "n. 仆人, 有用物, 公务员, 雇员n[法] 受雇人, 服务者, 公务员"
+	},
+	{
+		"word" : "regulatory",
+		"phonetic" : "'regjulәtәri",
+		"definition" : "a. 受控制的, 统制的, 调整的n[经] 规则的"
+	},
+	{
+		"word" : "diplomatic",
+		"phonetic" : ".diplә'mætik",
+		"definition" : "a. 外交的, 老练的n[法] 外交的, 外交上的, 文献上的"
+	},
+	{
+		"word" : "minimize",
+		"phonetic" : "'minimaiz",
+		"definition" : "vt. 将...减到最少nvt. 最小化nvi. 最小化n[计] 最小化"
+	},
+	{
+		"word" : "elegant",
+		"phonetic" : "'eligәnt",
+		"definition" : "a. 优雅的, 端庄的, 高雅的"
+	},
+	{
+		"word" : "reception",
+		"phonetic" : "ri'sepʃәn",
+		"definition" : "n. 接待, 接受, 招待会n[医] 接受, 感受"
+	},
+	{
+		"word" : "automatically",
+		"phonetic" : ".ɒ:tә'mætikli",
+		"definition" : "adv. 自动地, 机械地"
+	},
+	{
+		"word" : "chin",
+		"phonetic" : "tʃin",
+		"definition" : "n. 下巴, 颏n[医] 颏"
+	},
+	{
+		"word" : "racism",
+		"phonetic" : "'reisizm",
+		"definition" : "n. 种族主义, 种族偏见n[法] 种族主义, 种族歧视, 种族歧视主张"
+	},
+	{
+		"word" : "vanish",
+		"phonetic" : "'væniʃ",
+		"definition" : "vi. 消失, 不见, 成为零"
+	},
+	{
+		"word" : "confess",
+		"phonetic" : "kәn'fes",
+		"definition" : "v. 承认, 坦白, 忏悔, 供认"
+	},
+	{
+		"word" : "necessity",
+		"phonetic" : "ni'sesәti",
+		"definition" : "n. 需要, 必需品, 必然n[法] 必要性, 必然性, 必要"
+	},
+	{
+		"word" : "starter",
+		"phonetic" : "'stɑ:tә",
+		"definition" : "n. 开端者, 在起跑线上的人, 参加赛跑的人, 调度员, 起动机, 酵母n[计] 启动程序, 启动器"
+	},
+	{
+		"word" : "banking",
+		"phonetic" : "'bæŋkiŋ",
+		"definition" : "n. 银行业务n[经] 银行业, 银行事务"
+	},
+	{
+		"word" : "casual",
+		"phonetic" : "'kæʒjuәl",
+		"definition" : "a. 偶然的, 不经意的, 便装的nn. 临时工, 待命士兵"
+	},
+	{
+		"word" : "gravity",
+		"phonetic" : "'græviti",
+		"definition" : "n. 地心引力, 重力n[化] 重力"
+	},
+	{
+		"word" : "diminish",
+		"phonetic" : "di'miniʃ",
+		"definition" : "v. (使)减少, (使)变小"
+	},
+	{
+		"word" : "prevention",
+		"phonetic" : "pri'venʃәn",
+		"definition" : "n. 阻止, 妨碍, 预防n[医] 预防"
+	},
+	{
+		"word" : "intent",
+		"phonetic" : "in'tent",
+		"definition" : "n. 意图, 含义, 故意na. 专心的, 决心的, 热心的"
+	},
+	{
+		"word" : "performer",
+		"phonetic" : "pә'fɒ:mә",
+		"definition" : "n. 表演者, 执行者, 完成者n[法] 执行者, 履行者, 实行者"
+	},
+	{
+		"word" : "isolate",
+		"phonetic" : "'aisәleit",
+		"definition" : "vt. 使隔离, 使孤立, 使绝缘nn. 隔离种群"
+	},
+	{
+		"word" : "chop",
+		"phonetic" : "tʃɒp",
+		"definition" : "n. 肋条肉, 排骨, 砍, 戳记, 商标nvt. 剁碎, 砍, 切击, 割断nvi. 砍, 突然转向"
+	},
+	{
+		"word" : "assembly",
+		"phonetic" : "ә'sembli",
+		"definition" : "n. 与会者, 集会, 装配, 组件n[化] 装配"
+	},
+	{
+		"word" : "productive",
+		"phonetic" : "prә'dʌktiv",
+		"definition" : "a. 能生产的, 有生产价值的, 多产的n[医] 产出性的, 产生性的"
+	},
+	{
+		"word" : "inventory",
+		"phonetic" : "'invәntәri",
+		"definition" : "n. 详细目录, 存货清单nvt. 列入详细目录, 清点存货n[计] 存货清单"
+	},
+	{
+		"word" : "silk",
+		"phonetic" : "silk",
+		"definition" : "n. 丝, 绸, 绸锻类, 丝织品na. 丝的, 丝织的"
+	},
+	{
+		"word" : "civic",
+		"phonetic" : "'sivik",
+		"definition" : "a. 市的, 市民的, 公民的n[法] 公民的, 市民的, 公民资格的"
+	},
+	{
+		"word" : "magnitude",
+		"phonetic" : "'mægnitju:d",
+		"definition" : "n. 巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)n[计] 大小; 值"
+	},
+	{
+		"word" : "hostage",
+		"phonetic" : "'hɒstidʒ",
+		"definition" : "n. 人质, 抵押品n[经] 人质, 抵押品"
+	},
+	{
+		"word" : "steep",
+		"phonetic" : "sti:p",
+		"definition" : "n. 浸渍, 悬崖na. 险峻的, 陡峭的, 急剧升降的, 夸大的nv. 浸, 泡"
+	},
+	{
+		"word" : "popularity",
+		"phonetic" : ".pɒpju'læriti",
+		"definition" : "n. 名声, 受大众欢迎, 流行"
+	},
+	{
+		"word" : "collector",
+		"phonetic" : "kә'lektә",
+		"definition" : "n. 收集家, 收取款项的人n[化] 集电极; 捕收剂"
+	},
+	{
+		"word" : "alien",
+		"phonetic" : "'eiljәn",
+		"definition" : "n. 外国人, 外侨na. 外国的, 相异的"
+	},
+	{
+		"word" : "dynamic",
+		"phonetic" : "dai'næmik",
+		"definition" : "a. 动态的, 有活力的, 有力的, 动力的, 不断变化的nn. 动力, 动态n[计] 动态的"
+	},
+	{
+		"word" : "scary",
+		"phonetic" : "'skєәri",
+		"definition" : "a. 容易受惊的, 胆小的, 提心吊胆的"
+	},
+	{
+		"word" : "angel",
+		"phonetic" : "'eindʒәl",
+		"definition" : "n. 天使, 守护神, 善人"
+	},
+	{
+		"word" : "equation",
+		"phonetic" : "i'kweiʃәn",
+		"definition" : "n. 相等, 等式, 平衡n[化] 方程式; 等式; 反应式; 公式"
+	},
+	{
+		"word" : "toilet",
+		"phonetic" : "'tɒilit",
+		"definition" : "n. 厕所, 梳妆nvi. 梳妆, 打扮, 上厕所nvt. 给...梳妆打扮"
+	},
+	{
+		"word" : "rage",
+		"phonetic" : "reidʒ",
+		"definition" : "n. 愤怒, 情绪激动, 狂暴nvi. 大怒, 狂吹, 流行"
+	},
+	{
+		"word" : "photography",
+		"phonetic" : "fә'tɒgrәfi",
+		"definition" : "n. 摄影, 摄影术n[化] 照相术"
+	},
+	{
+		"word" : "disappointed",
+		"phonetic" : ".disә'pɒintid",
+		"definition" : "a. 失望的"
+	},
+	{
+		"word" : "offering",
+		"phonetic" : "'ɒfәriŋ",
+		"definition" : "n. 提供, 奉献物, 牲礼, 上市的股票(或证券等)n[经] 出售物"
+	},
+	{
+		"word" : "precious",
+		"phonetic" : "'preʃәs",
+		"definition" : "a. 宝贵的, 珍贵的, 过于精致的, 珍爱的"
+	},
+	{
+		"word" : "prohibit",
+		"phonetic" : "prә'hibit",
+		"definition" : "vt. 禁止, 阻止n[经] 禁止"
+	},
+	{
+		"word" : "realistic",
+		"phonetic" : "riә'listik",
+		"definition" : "a. 现实的, 逼真的, 现实主义的, 实在论的"
+	},
+	{
+		"word" : "enroll",
+		"phonetic" : "in'rәul",
+		"definition" : "vt. 登记, 使加入nvi. 参军, 注册"
+	},
+	{
+		"word" : "hidden",
+		"phonetic" : "'hidn",
+		"definition" : "a. 隐藏的nhide的过去分词n[计] 隐藏的"
+	},
+	{
+		"word" : "gathering",
+		"phonetic" : "'gæðәriŋ",
+		"definition" : "n. 聚集, 集中, 采集n[化] 富集"
+	},
+	{
+		"word" : "outstanding",
+		"phonetic" : ".aut'stændiŋ",
+		"definition" : "a. 杰出的, 突出的, 未偿付的, 未决定的n[经] 未解决的, 未偿付"
+	},
+	{
+		"word" : "stumble",
+		"phonetic" : "'stʌmbl",
+		"definition" : "n. 绊倒, 蹒跚而行, 失足nvt. 使绊倒, 使困惑nvi. 绊倒, 失足, 失策, 犯错, 蹒跚, 踌躇"
+	},
+	{
+		"word" : "lonely",
+		"phonetic" : "'lәunli",
+		"definition" : "a. 孤单的, 孤寂的, 荒凉的"
+	},
+	{
+		"word" : "artificial",
+		"phonetic" : ".ɑ:ti'fiʃәl",
+		"definition" : "a. 人造的, 假的, 非原地产的n[医] 人工的, 人造的, 伟牟"
+	},
+	{
+		"word" : "dawn",
+		"phonetic" : "dɒ:n",
+		"definition" : "n. 破晓, 黎明nvi. 破晓"
+	},
+	{
+		"word" : "automobile",
+		"phonetic" : "'ɒ:tәmәbi:l",
+		"definition" : "n. 汽车n[机] 汽车"
+	},
+	{
+		"word" : "descend",
+		"phonetic" : "di'send",
+		"definition" : "vi. 下降, 世代相传, 屈尊, 袭击nvt. 下降"
+	},
+	{
+		"word" : "abstract",
+		"phonetic" : "'æbstrækt",
+		"definition" : "a. 抽象的, 深奥的nn. 摘要, 抽象概念nvt. 摘要, 提炼, 使抽象化n[计] 摘录; 摘要; 抽象"
+	},
+	{
+		"word" : "silly",
+		"phonetic" : "'sili",
+		"definition" : "a. 愚蠢的, 糊涂的"
+	},
+	{
+		"word" : "tide",
+		"phonetic" : "taid",
+		"definition" : "n. 潮, 潮汐, 趋势, 潮流, 涨潮, 高潮nvt. 使随潮漂流nvi. 顺潮行驶"
+	},
+	{
+		"word" : "shared",
+		"phonetic" : "ʃεәd",
+		"definition" : "a. 共享的"
+	},
+	{
+		"word" : "hopefully",
+		"phonetic" : "'hәjpfjli",
+		"definition" : "adv. 有希望地, 如果希望能实现的话"
+	},
+	{
+		"word" : "readily",
+		"phonetic" : "'redili",
+		"definition" : "adv. 迅速地, 轻易地, 乐意地"
+	},
+	{
+		"word" : "revolutionary",
+		"phonetic" : ".revә'lu:ʃәnәri",
+		"definition" : "n. 革命者, 革命党人na. 革命的, 革命性的"
+	},
+	{
+		"word" : "cooperate",
+		"phonetic" : "kәu'ɒpәreit",
+		"definition" : "vi. 合作, 协力, 配合n[化] 合作"
+	},
+	{
+		"word" : "romance",
+		"phonetic" : "rәu'mæns",
+		"definition" : "n. 冒险故事, 浪漫史, 传奇文学nvi. 写传奇, 作空想, 虚构"
+	},
+	{
+		"word" : "pillow",
+		"phonetic" : "'pilәu",
+		"definition" : "n. 枕头, 靠垫, 枕状岩nvt. 作...的枕头, 垫, 枕于nvi. 靠在枕上"
+	},
+	{
+		"word" : "kit",
+		"phonetic" : "kit",
+		"definition" : "n. 装备, 工具箱, 成套工具n[计] 成套部件; 成套零件"
+	},
+	{
+		"word" : "hardware",
+		"phonetic" : "'hɑ:dwєә",
+		"definition" : "n. 硬件, 五金器具, 零件n[计] 硬件"
+	},
+	{
+		"word" : "seal",
+		"phonetic" : "si:l",
+		"definition" : "n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志nvt. 封闭, 盖印, 盖章nvi. 猎海豹"
+	},
+	{
+		"word" : "continent",
+		"phonetic" : "'kɒntinәnt",
+		"definition" : "n. 大陆, 洲na. 自制的"
+	},
+	{
+		"word" : "circuit",
+		"phonetic" : "'sә:kit",
+		"definition" : "n. 电路, 环(行)道, 巡回n[计] 线路; 电路"
+	},
+	{
+		"word" : "annually",
+		"phonetic" : "'ænjuәli",
+		"definition" : "adv. 一年一次, 每年n[经] 年度的, 每年的"
+	},
+	{
+		"word" : "ruling",
+		"phonetic" : "'ru:liŋ",
+		"definition" : "n. 判决, 裁定, 统治na. 统治的, 支配的, 普遍的"
+	},
+	{
+		"word" : "shortage",
+		"phonetic" : "'ʃɒ:tidʒ",
+		"definition" : "n. 不足, 缺乏n[化] 缺额"
+	},
+	{
+		"word" : "lately",
+		"phonetic" : "'leitli",
+		"definition" : "adv. 近来, 最近"
+	},
+	{
+		"word" : "fool",
+		"phonetic" : "fu:l",
+		"definition" : "n. 愚人, 受骗者, 奶油拌水果nvt. 愚弄, 欺骗, 浪费nvi. 干傻事, 开玩笑, 游荡na. 傻的"
+	},
+	{
+		"word" : "scan",
+		"phonetic" : "skæn",
+		"definition" : "n. 审视, 浏览, 扫描, 细查nvt. 细看, 浏览, 扫描, 详细调查, 标出格律nvi. 押韵, 扫描n[计] 网络软件目录, 编码与分析系统"
+	},
+	{
+		"word" : "deadline",
+		"phonetic" : "'dedlain",
+		"definition" : "n. 最后期限, 截止期限n[经] 截止日期"
+	},
+	{
+		"word" : "rear",
+		"phonetic" : "riә",
+		"definition" : "n. 后面, 背后, 后方na. 后面的, 背面的, 后方的nvt. 养育, 培养, 饲养, 举起, 树立, 栽种nvi. 高耸, 暴跳"
+	},
+	{
+		"word" : "processing",
+		"phonetic" : "prәu'sesiŋ",
+		"definition" : "[计] 处理n[化] 加工"
+	},
+	{
+		"word" : "undertake",
+		"phonetic" : ".ʌndә'teik",
+		"definition" : "vt. 试图, 从事, 保证, 承担, 同意, 接受n[化] 承包; 承担"
+	},
+	{
+		"word" : "ranch",
+		"phonetic" : "ræntʃ. rɑ:ntʃ",
+		"definition" : "n. 大牧场nv. 经营牧场"
+	},
+	{
+		"word" : "verbal",
+		"phonetic" : "'vә:bl",
+		"definition" : "a. 用言辞的, 言语的, 口头的, 逐字的, 动词的n[医] 言语的, 口述的"
+	},
+	{
+		"word" : "coastal",
+		"phonetic" : "'kәustәl",
+		"definition" : "a. 海岸的, 沿海的, 沿岸的n[法] 海岸的, 沿海的"
+	},
+	{
+		"word" : "softly",
+		"phonetic" : "'sɒftli",
+		"definition" : "adv. 柔和地, 静静地, 温柔地"
+	},
+	{
+		"word" : "burning",
+		"phonetic" : "'bә:niŋ",
+		"definition" : "a. 燃烧的, 象燃烧一样的nn. 烧, 燃烧"
+	},
+	{
+		"word" : "tribal",
+		"phonetic" : "traibl",
+		"definition" : "a. 部落的, 宗族的"
+	},
+	{
+		"word" : "ridiculous",
+		"phonetic" : "ri'dikjulәs",
+		"definition" : "a. 荒谬的, 可笑的"
+	},
+	{
+		"word" : "diamond",
+		"phonetic" : "'daiәmәnd",
+		"definition" : "n. 钻石, 菱形n[计] 菱形"
+	},
+	{
+		"word" : "automatic",
+		"phonetic" : ".ɒ:tә'mætik",
+		"definition" : "n. 自动手枪, 自动机械na. 自动的, 机械的, 必然的, 无意识的"
+	},
+	{
+		"word" : "sexually",
+		"phonetic" : "",
+		"definition" : "adv. 性别地；两性之间地"
+	},
+	{
+		"word" : "credibility",
+		"phonetic" : ".kredi'biliti",
+		"definition" : "n. 可信用, 确实性, 可靠n[法] 证据能力, 可信程度, 确实性"
+	},
+	{
+		"word" : "import",
+		"phonetic" : "im'pɒ:t",
+		"definition" : "n. 进口货, 进口, 输入, 含义, 重要性nvt. 输入, 引入, 进口, 含...的意思, 重要nvi. 有关系n[计] 引入"
+	},
+	{
+		"word" : "sentiment",
+		"phonetic" : "'sentimәnt",
+		"definition" : "n. 感情, 感伤, 情操, 情绪, 感想, 意见n[医] 情感, 情操"
+	},
+	{
+		"word" : "divine",
+		"phonetic" : "di'vain",
+		"definition" : "a. 神的, 神圣的, 非凡的nn. 神学家"
+	},
+	{
+		"word" : "cart",
+		"phonetic" : "kɑ:t",
+		"definition" : "n. 二轮运货马车nvi. 驾运货马车nvt. 用车装载"
+	},
+	{
+		"word" : "oversee",
+		"phonetic" : ".әuvә'si:",
+		"definition" : "vt. 向下看, 了望, 监督, 偷看到n[法] 监察, 监督, 俯瞰"
+	},
+	{
+		"word" : "elder",
+		"phonetic" : "'eldә",
+		"definition" : "n. 年长者, 老人, 前辈na. 年长的, 资深的"
+	},
+	{
+		"word" : "quantity",
+		"phonetic" : "'kwɒntәti",
+		"definition" : "n. 量, 数量, 总量n[计] 数量; 量"
+	},
+	{
+		"word" : "inspiration",
+		"phonetic" : ".inspә'reiʃәn",
+		"definition" : "n. 灵感, 鼓舞人心的人或物, 妙计, 吸气n[医] 吸[气]"
+	},
+	{
+		"word" : "Dutch",
+		"phonetic" : "dʌtʃ",
+		"definition" : "n. 荷兰人, 荷兰语na. 荷兰的"
+	},
+	{
+		"word" : "pro",
+		"phonetic" : "prәu",
+		"definition" : "adv. 正面地n[计] 可编程远程操作"
+	},
+	{
+		"word" : "mate",
+		"phonetic" : "meit",
+		"definition" : "n. 配偶, 对手, 助手, (象棋)将死nvt. 使配对, 使一致, 结伴, (象棋)将死nvi. 成配偶, 紧密配合"
+	},
+	{
+		"word" : "trailer",
+		"phonetic" : "'treilә",
+		"definition" : "n. 追踪者, 拖车n[电] 拖车"
+	},
+	{
+		"word" : "Greek",
+		"phonetic" : "gri:k",
+		"definition" : "n. 希腊人, 希腊语na. 希腊的, 希腊人的n[计] 希腊"
+	},
+	{
+		"word" : "o'clock",
+		"phonetic" : "ә'klɔk",
+		"definition" : "n. ...点钟, 钟头"
+	},
+	{
+		"word" : "genius",
+		"phonetic" : "'dʒi:njәs",
+		"definition" : "n. 天才, 天赋, 精神, 神魔n[医] 特征"
+	},
+	{
+		"word" : "monument",
+		"phonetic" : "'mɒnjumәnt",
+		"definition" : "n. 纪念碑, 纪念物, 石碑"
+	},
+	{
+		"word" : "quest",
+		"phonetic" : "kwest",
+		"definition" : "n. 探索, 寻求, 调查nv. 寻找, 找, 追寻猎物"
+	},
+	{
+		"word" : "sacrifice",
+		"phonetic" : "'sækrifais",
+		"definition" : "n. 牺牲, 供奉, 祭品nvt. 牺牲, 祭祀, 贱卖nvi. 献祭"
+	},
+	{
+		"word" : "bid",
+		"phonetic" : "bid",
+		"definition" : "n. 出价nv. 命令, 吩咐, 请求, 表示, 宣布, 投标"
+	},
+	{
+		"word" : "juror",
+		"phonetic" : "'dʒuәrә",
+		"definition" : "n. 陪审员, 审查委员n[法] 陪审员, 陪审官, 宣誓者"
+	},
+	{
+		"word" : "dynamics",
+		"phonetic" : "dai'næmiks",
+		"definition" : "n. 动力学n[化] 动力学"
+	},
+	{
+		"word" : "invitation",
+		"phonetic" : ".invi'teiʃәn",
+		"definition" : "n. 邀请, 请柬, 引诱n[经] 邀请, 招待, 吸引"
+	},
+	{
+		"word" : "broker",
+		"phonetic" : "'brәukә",
+		"definition" : "n. 掮客, 经纪人n[经] 经纪人, 掮客"
+	},
+	{
+		"word" : "treasure",
+		"phonetic" : "'treʒә",
+		"definition" : "n. 宝物, 财富nvt. 珍爱, 重视, 秘藏"
+	},
+	{
+		"word" : "officially",
+		"phonetic" : "ә'fiʃәli",
+		"definition" : "adv. 作为公务员, 职务上, 官方地"
+	},
+	{
+		"word" : "accuracy",
+		"phonetic" : "'ækjurәsi",
+		"definition" : "n. 精确, 正确n[计] 准确度"
+	},
+	{
+		"word" : "loyalty",
+		"phonetic" : "'lɒiәlti",
+		"definition" : "n. 忠贞, 忠诚, 忠实n[法] 忠诚, 忠心"
+	},
+	{
+		"word" : "talented",
+		"phonetic" : "'tælәntid",
+		"definition" : "a. 天资高的, 有才能的"
+	},
+	{
+		"word" : "nominee",
+		"phonetic" : ".nɒmi'ni:",
+		"definition" : "n. 被提名者, 被任命者n[经] 被指定人"
+	},
+	{
+		"word" : "gasoline",
+		"phonetic" : "'gæsәli:n",
+		"definition" : "n. 汽油n[化] 汽油"
+	},
+	{
+		"word" : "extended",
+		"phonetic" : "ik'stendid",
+		"definition" : "a. 延续的, 伸出的, 竭尽全力的, 广大的, 扩大范围的n[法] 展期的, 延期的, 延长的"
+	},
+	{
+		"word" : "stiff",
+		"phonetic" : "stif",
+		"definition" : "a. 坚硬的, 严厉的, 呆板的, 生硬的, 刚强的, 强烈的, 粘的, 稠的, 艰难的nn. 死尸, 醉鬼, 钞票nvt. 不肯付...小费"
+	},
+	{
+		"word" : "output",
+		"phonetic" : "'autput",
+		"definition" : "n. 输出, 产品, 产量n[计] 输出"
+	},
+	{
+		"word" : "slap",
+		"phonetic" : "slæp",
+		"definition" : "n. 掴, 掌击, 侮辱, 拍击声nv. 拍击, 惩罚nadv. 正面地, 直接地, 突然地"
+	},
+	{
+		"word" : "jaw",
+		"phonetic" : "dʒɒ:",
+		"definition" : "n. 颚, 颌nv. 闲谈, 教训, 唠叨"
+	},
+	{
+		"word" : "diabetes",
+		"phonetic" : "daiә'bi:ti:z",
+		"definition" : "n. 糖尿病, 多尿症n[医] 糖尿病; 多尿症"
+	},
+	{
+		"word" : "toxic",
+		"phonetic" : "'tɒksik",
+		"definition" : "a. 有毒的, 中毒的n[医] 中毒的, 毒物的"
+	},
+	{
+		"word" : "alleged",
+		"phonetic" : "ә'ledʒd",
+		"definition" : "a. 被断言的, 所谓的n[法] 提出而尚未证实的, 声称的, 宣称的"
+	},
+	{
+		"word" : "grief",
+		"phonetic" : "gri:f",
+		"definition" : "n. 伤心, 忧愁, 悲痛, 不幸, 灾难"
+	},
+	{
+		"word" : "mysterious",
+		"phonetic" : "mis'tiәriәs",
+		"definition" : "a. 神秘的, 难解的, 不可思议的"
+	},
+	{
+		"word" : "rocket",
+		"phonetic" : "'rɒkit",
+		"definition" : "n. 火箭, 烟火nvi. 急升, 猛涨, 飞驰nvt. 用火箭运载"
+	},
+	{
+		"word" : "donate",
+		"phonetic" : "'dәuneit",
+		"definition" : "v. 捐赠"
+	},
+	{
+		"word" : "tackle",
+		"phonetic" : "'tækl",
+		"definition" : "n. 工具, 复滑车, 滑车, 装备, 扭倒nvt. 固定, 处理, 抓住nvi. 扭倒"
+	},
+	{
+		"word" : "inmate",
+		"phonetic" : "'inmeit",
+		"definition" : "n. 同住者, 被收容者n[法] 内部的, 接近中心的, 内在的"
+	},
+	{
+		"word" : "bow",
+		"phonetic" : "bәu.bau",
+		"definition" : "n. 弓, 眼睛框nv. 用弓拉琴, 弯成弓形nn. 鞠躬, 屈服"
+	},
+	{
+		"word" : "ours",
+		"phonetic" : "'auәz",
+		"definition" : "pron. 我们的"
+	},
+	{
+		"word" : "dignity",
+		"phonetic" : "'digniti",
+		"definition" : "n. 尊严, 高贵n[法] 尊严, 高位, 高贵"
+	},
+	{
+		"word" : "parental",
+		"phonetic" : "pә'rentәl",
+		"definition" : "a. 父母亲的, 做双亲的, 作为渊源的n[医] 父母的, 双亲的"
+	},
+	{
+		"word" : "bubble",
+		"phonetic" : "'bʌbl",
+		"definition" : "n. 泡沫nvi. 冒泡, 沸腾nvt. 使冒泡, 滔滔不绝地说"
+	},
+	{
+		"word" : "sword",
+		"phonetic" : "sɒ:d",
+		"definition" : "n. 刀, 剑, 战争, 武力, 剑状物"
+	},
+	{
+		"word" : "tightly",
+		"phonetic" : "'taitli",
+		"definition" : "adv. 紧紧地, 坚固地"
+	},
+	{
+		"word" : "barn",
+		"phonetic" : "bɑ:n",
+		"definition" : "n. 谷仓n[化] 靶(恩)(核反应截面单位)"
+	},
+	{
+		"word" : "buddy",
+		"phonetic" : "'bʌdi",
+		"definition" : "n. 好朋友, 伙伴"
+	},
+	{
+		"word" : "seventh",
+		"phonetic" : "'sevnθ",
+		"definition" : "num. 第七, 七分之一"
+	},
+	{
+		"word" : "specialize",
+		"phonetic" : "'speʃәlaiz",
+		"definition" : "vt. 使特殊化, 列举, 特别指明, 限定...的范围nvi. 成为专家, 专攻"
+	},
+	{
+		"word" : "carpet",
+		"phonetic" : "'kɑ:pit",
+		"definition" : "n. 地毯, 地毯状物nvt. 铺以地毯, 铺盖"
+	},
+	{
+		"word" : "glory",
+		"phonetic" : "'glɒ:ri",
+		"definition" : "n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣nvi. 自豪"
+	},
+	{
+		"word" : "protective",
+		"phonetic" : "prә'tektiv",
+		"definition" : "a. 给予保护的, 保护的n[医] 保护的, 防护的, 保护剂, 保护物, 油绸"
+	},
+	{
+		"word" : "tuck",
+		"phonetic" : "tʌk",
+		"definition" : "n. 缝褶, 活力, 鼓声, 船尾突出部, 食品nvt. 打褶, 卷起, 挤进, 塞, 收藏nvi. 缝褶裥, 缩拢"
+	},
+	{
+		"word" : "drum",
+		"phonetic" : "drʌm",
+		"definition" : "n. 鼓, 鼓声nvi. 击鼓, 作鼓声nvt. 打鼓奏出n[计] 磁鼓"
+	},
+	{
+		"word" : "faint",
+		"phonetic" : "feint",
+		"definition" : "n. 昏厥, 昏倒na. 模糊的, 微弱的, 无力的nvi. 昏倒, 变得微弱"
+	},
+	{
+		"word" : "dilemma",
+		"phonetic" : "di'lemә",
+		"definition" : "n. 困境, (进退两难的)窘境"
+	},
+	{
+		"word" : "input",
+		"phonetic" : "'input",
+		"definition" : "n. 输入, 输入电路nvt. 输入n[计] 输入"
+	},
+	{
+		"word" : "liability",
+		"phonetic" : "laiә'biliti",
+		"definition" : "n. 责任, 债务, 倾向n[经] 责任, 义务, 负债"
+	},
+	{
+		"word" : "northeast",
+		"phonetic" : ".nɒ:θ'i:st",
+		"definition" : "n. 东北na. 东北的, 向东北的, 来自东北的nadv. 向东北, 来自东北"
+	},
+	{
+		"word" : "shallow",
+		"phonetic" : "'ʃælәu",
+		"definition" : "n. 水浅的地方, 浅滩na. 浅的, 肤浅的nv. (使)变浅"
+	},
+	{
+		"word" : "sail",
+		"phonetic" : "seil",
+		"definition" : "n. 帆, 篷, 帆船, 航程, 帆状物nvi. 航行, 启航, 张帆而行nvt. 航行于, 驾船"
+	},
+	{
+		"word" : "improved",
+		"phonetic" : "im'pru:vd",
+		"definition" : "a. 改良的"
+	},
+	{
+		"word" : "merchant",
+		"phonetic" : "'mә:tʃәnt",
+		"definition" : "n. 商人, 店主na. 商业的, 商人的"
+	},
+	{
+		"word" : "bloody",
+		"phonetic" : "'blʌdi",
+		"definition" : "a. 血腥的, 嗜杀的, 有血的"
+	},
+	{
+		"word" : "stadium",
+		"phonetic" : "'steidiәm",
+		"definition" : "n. 露天大型运动场n[医] 期, 病期"
+	},
+	{
+		"word" : "withdrawal",
+		"phonetic" : "wið'drɒ:l",
+		"definition" : "n. 提款, 撤退, 退回, 撤消, 退隐, 戒毒过程n[医] 戒除, 脱瘾"
+	},
+	{
+		"word" : "nest",
+		"phonetic" : "nest",
+		"definition" : "n. 巢, 窝, 休息所, 隐匿处nvi. 筑巢, 找鸟巢nvt. 为...设窝, 使套叠n[计] 嵌套"
+	},
+	{
+		"word" : "associated",
+		"phonetic" : "",
+		"definition" : "a. 联合的n[计] 关联的; 结合的"
+	},
+	{
+		"word" : "refrigerator",
+		"phonetic" : "ri'fridʒәreitә",
+		"definition" : "n. 电冰箱, 冷藏库n[计] 冷冻机; 致冷器"
+	},
+	{
+		"word" : "thoroughly",
+		"phonetic" : "'θʌrәli",
+		"definition" : "adv. 彻底地, 绝对地, 透彻地, 详尽地, 周到地, 完全地, 完善地, 全面地"
+	},
+	{
+		"word" : "lane",
+		"phonetic" : "lein",
+		"definition" : "n. 小路, 巷, 弄, 单行道"
+	},
+	{
+		"word" : "ancestor",
+		"phonetic" : "'ænsestә",
+		"definition" : "n. 祖先, 祖宗"
+	},
+	{
+		"word" : "condemn",
+		"phonetic" : "kәn'dem",
+		"definition" : "vt. 判刑, 责备, 谴责n[法] 定罪, 判刑, 宣告有罪"
+	},
+	{
+		"word" : "steam",
+		"phonetic" : "sti:m",
+		"definition" : "n. 蒸汽, 精力na. 蒸汽的nvi. 蒸发, 行驶, 发怒nvt. 蒸, 煮, 散发"
+	},
+	{
+		"word" : "accent",
+		"phonetic" : "'æksәnt",
+		"definition" : "n. 重音, 口音, 特点, 注重点nvt. 重读, 加重音号于, 强调"
+	},
+	{
+		"word" : "optimistic",
+		"phonetic" : ".ɒpti'mistik",
+		"definition" : "a. 乐观的, 乐观主义的, 乐天的"
+	},
+	{
+		"word" : "cage",
+		"phonetic" : "keidʒ",
+		"definition" : "n. 笼, 牢房, 战俘营nvt. 关进笼内"
+	},
+	{
+		"word" : "shrimp",
+		"phonetic" : "ʃrimp",
+		"definition" : "n. 虾, 小虾, 矮子nvi. 捕小虾"
+	},
+	{
+		"word" : "equip",
+		"phonetic" : "i'kwip",
+		"definition" : "vt. 装备, 配备n[机] 设备, 装置"
+	},
+	{
+		"word" : "unite",
+		"phonetic" : "ju:'nait",
+		"definition" : "vi. 联合, 接合, 混合nvt. 使联合, 统一, 使粘合, 使结合"
+	},
+	{
+		"word" : "courtroom",
+		"phonetic" : "'kɒ:trum",
+		"definition" : "n. 法庭, 审判室n[法] 法庭, 审判室"
+	},
+	{
+		"word" : "homeland",
+		"phonetic" : "'hәumlænd",
+		"definition" : "n. 本国, 故国"
+	},
+	{
+		"word" : "wolf",
+		"phonetic" : "wulf",
+		"definition" : "n. 狼, 残忍贪婪之人, 极度穷困nvt. 狼吞虎咽, 大吃"
+	},
+	{
+		"word" : "rack",
+		"phonetic" : "ræk",
+		"definition" : "n. 架, 行李架, 饲草架, 搁物架, 痛苦, 折磨, 齿条, 行云团nvt. 把...放在架上, 在架上制作, 折磨, 使痛苦, 压榨, 榨取, 猛烈撕拉, 拷问nvi. 变形, 倾斜, (云)随风飘, (马)小步跑n[计] 机架"
+	},
+	{
+		"word" : "costume",
+		"phonetic" : "'kɒstju:m",
+		"definition" : "n. 装束, 服装"
+	},
+	{
+		"word" : "statute",
+		"phonetic" : "'stætju:t",
+		"definition" : "n. 法令, 成文法律, 法规, 章程, 条例n[法] 法令, 法规, 成文法"
+	},
+	{
+		"word" : "grin",
+		"phonetic" : "grin",
+		"definition" : "n. 露齿笑nv. 露齿而笑"
+	},
+	{
+		"word" : "cartoon",
+		"phonetic" : "kɑ:'tu:n",
+		"definition" : "n. 卡通画, 漫画nv. 画漫画"
+	},
+	{
+		"word" : "productivity",
+		"phonetic" : ".prәudʌk'tiviti",
+		"definition" : "n. 生产力n[经] 生产率, 生产能力"
+	},
+	{
+		"word" : "bug",
+		"phonetic" : "bʌg",
+		"definition" : "n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人nvt. 装防盗报警器, 装窃听器, 激怒nvi. 捉虫, 暴突n[计] 缺点, 错误"
+	},
+	{
+		"word" : "symbolic",
+		"phonetic" : "sim'bɒlik",
+		"definition" : "a. 象征的, 符号的n[电] 符号化"
+	},
+	{
+		"word" : "bless",
+		"phonetic" : "bles",
+		"definition" : "vt. 祝福, 祈佑, 使神圣化"
+	},
+	{
+		"word" : "tumor",
+		"phonetic" : "'tju:mә",
+		"definition" : "n. 肿大, 肿块, 瘤, 赘生物, 肿瘤n[医] 瘤; 肿胀, 肿块"
+	},
+	{
+		"word" : "hostile",
+		"phonetic" : "'hɒstail",
+		"definition" : "a. 敌人的, 怀敌意的, 敌对的nn. 敌对分子"
+	},
+	{
+		"word" : "agriculture",
+		"phonetic" : "'ægrikʌltʃә",
+		"definition" : "n. 农业n[机] 农业, 农学"
+	},
+	{
+		"word" : "aunt",
+		"phonetic" : "ɑ:nt",
+		"definition" : "n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母"
+	},
+	{
+		"word" : "combined",
+		"phonetic" : "kәm'baind",
+		"definition" : "a. 结合的；组合的"
+	},
+	{
+		"word" : "conceive",
+		"phonetic" : "kәn'si:v",
+		"definition" : "vt. 构思, 认为nvi. 怀孕"
+	},
+	{
+		"word" : "instantly",
+		"phonetic" : "'instәntli",
+		"definition" : "adv. 立即地, 即刻地"
+	},
+	{
+		"word" : "bankruptcy",
+		"phonetic" : "'bæŋkrәptsi",
+		"definition" : "n. 破产者n[经] 破产, 倒闭"
+	},
+	{
+		"word" : "bonus",
+		"phonetic" : "'bәunәs",
+		"definition" : "n. 奖金, 红利n[经] 奖金, 红利, 额外补贴"
+	},
+	{
+		"word" : "vaccine",
+		"phonetic" : "'væksi:n",
+		"definition" : "n. 牛痘苗, 疫苗na. 疫苗的, 牛痘的"
+	},
+	{
+		"word" : "mixed",
+		"phonetic" : "mikst",
+		"definition" : "a. 混合的, 形形色色的, 弄糊涂的n[计] 混合的"
+	},
+	{
+		"word" : "opposed",
+		"phonetic" : "ә'pәuzd",
+		"definition" : "a. 反对的, 敌对的, 对抗的, 相对的n[机] 反对的, 相反的, 对立的"
+	},
+	{
+		"word" : "collaboration",
+		"phonetic" : "kә.læbә'ræʃәn",
+		"definition" : "n. 合作, 勾结n[法] 通敌卖国者, 奸细"
+	},
+	{
+		"word" : "patience",
+		"phonetic" : "'peiʃәns",
+		"definition" : "n. 耐性, 忍耐"
+	},
+	{
+		"word" : "orbit",
+		"phonetic" : "'ɒ:bit",
+		"definition" : "n. 轨道, 常轨, 眼眶nvt. 绕...轨道而行nvi. 进入轨道, 盘旋"
+	},
+	{
+		"word" : "spite",
+		"phonetic" : "spait",
+		"definition" : "n. 恶意, 怨恨, 使人烦恼的事物nvt. 故意刁难, 欺侮"
+	},
+	{
+		"word" : "voting",
+		"phonetic" : "'vәutiŋ",
+		"definition" : "n. 投票, 选举na. 投票的, 选举的"
+	},
+	{
+		"word" : "grasp",
+		"phonetic" : "græsp",
+		"definition" : "n. 把握, 抓紧, 理解, 抓, 柄, 控制nvt. 抓住, 紧握, 领会nvi. 抓"
+	},
+	{
+		"word" : "tropical",
+		"phonetic" : "'trɒpikl",
+		"definition" : "a. 热带的, 热情的n[医] 热带的"
+	},
+	{
+		"word" : "patrol",
+		"phonetic" : "pә'trәul",
+		"definition" : "n. 巡逻, 巡逻员, 侦察队nv. 巡逻, 巡视"
+	},
+	{
+		"word" : "revelation",
+		"phonetic" : ".revi'leiʃәn",
+		"definition" : "n. 揭露, 泄露, 发觉, 默示, 启示"
+	},
+	{
+		"word" : "willingness",
+		"phonetic" : "",
+		"definition" : "n. 乐意, 心甘情愿, 愿意"
+	},
+	{
+		"word" : "jewelry",
+		"phonetic" : "'dʒu:әlri",
+		"definition" : "n. 珠宝, 珠宝类"
+	},
+	{
+		"word" : "calm",
+		"phonetic" : "kɑ:m",
+		"definition" : "n. 平稳, 风平浪静na. 平静的, 冷静的nvi. 平静下来, 镇静nvt. 使平静"
+	},
+	{
+		"word" : "Cuban",
+		"phonetic" : "'kju:bәn",
+		"definition" : "a. 古巴的, 古巴人的nn. 古巴人"
+	},
+	{
+		"word" : "haul",
+		"phonetic" : "hɒ:l",
+		"definition" : "n. 用力拖拉, 拖运, 强拉, 捕获量, 拖运距离nvi. 拖, 拉, 改变方向, 改变主意nvt. 拖拉, 拖运"
+	},
+	{
+		"word" : "concede",
+		"phonetic" : "kәn'si:d",
+		"definition" : "vt. 承认, 退让nvi. 让步"
+	},
+	{
+		"word" : "wagon",
+		"phonetic" : "'wægәn",
+		"definition" : "n. 四轮马车, 货车n[法] 囚车, 马车, 运货车"
+	},
+	{
+		"word" : "afterward",
+		"phonetic" : "'ɑ:ftәwәd",
+		"definition" : "adv. 然后, 后来"
+	},
+	{
+		"word" : "spectacular",
+		"phonetic" : "spek'tækjulә",
+		"definition" : "a. 公开展示的, 惊人的, 壮观的nn. 奇观, 惊人之举, 展览物"
+	},
+	{
+		"word" : "ruin",
+		"phonetic" : "ruin",
+		"definition" : "n. 毁灭, 推翻, 废墟nvi. 毁灭, 衰败, 破坏, 破产, 堕落nvt. 使毁灭, 毁坏, 使破产"
+	},
+	{
+		"word" : "sheer",
+		"phonetic" : "ʃiә",
+		"definition" : "a. 绝对的, 全然的, 纯粹的, 透明的, 峻峭的nvi. 偏转, 偏航nvt. 使急转向, 使偏航nadv. 完全, 全然, 峻峭nn. 偏航"
+	},
+	{
+		"word" : "immune",
+		"phonetic" : "i'mju:n",
+		"definition" : "a. 免疫的, 免除的, 不受影响的nn. 免疫者"
+	},
+	{
+		"word" : "ass",
+		"phonetic" : "æs",
+		"definition" : "n. 驴, 傻瓜, 笨蛋, 屁股n[计] 模拟仿真系统"
+	},
+	{
+		"word" : "reliability",
+		"phonetic" : "ri.laiә'biliti",
+		"definition" : "n. 信度, 可靠性n[计] 可靠性"
+	},
+	{
+		"word" : "alongside",
+		"phonetic" : "ә'lɒŋ'said",
+		"definition" : "adv. 在旁边, 靠拢着nprep. 在...旁边, 与...在一起"
+	},
+	{
+		"word" : "fascinating",
+		"phonetic" : "'fæsineitiŋ",
+		"definition" : "a. 迷人的, 吸引人的, 使人神魂颠倒的"
+	},
+	{
+		"word" : "exotic",
+		"phonetic" : "ig'zɒtik",
+		"definition" : "a. 异国的, 外来的nn. 外来人, 外来物, 舶来品"
+	},
+	{
+		"word" : "bull",
+		"phonetic" : "bul",
+		"definition" : "n. 公牛n[法] 买方, 买空者"
+	},
+	{
+		"word" : "clip",
+		"phonetic" : "klip",
+		"definition" : "n. 修剪, 夹子, 回形针, 剪下来的东西nvt. 修剪, 痛打, 夹牢, 剪报nvi. 剪报"
+	},
+	{
+		"word" : "thigh",
+		"phonetic" : "θai",
+		"definition" : "n. 大腿, 股n[医] 股, 大腿"
+	},
+	{
+		"word" : "sheep",
+		"phonetic" : "ʃi:p",
+		"definition" : "n. 羊, 胆小者"
+	},
+	{
+		"word" : "discourage",
+		"phonetic" : "dis'kʌridʒ",
+		"definition" : "vt. 使气馁, 阻碍"
+	},
+	{
+		"word" : "drawer",
+		"phonetic" : "'drɒ:ә",
+		"definition" : "n. 抽屉, 开票人n[计] 抽屉"
+	},
+	{
+		"word" : "runner",
+		"phonetic" : "'rʌnә",
+		"definition" : "n. 跑步者, 赛跑者, 送信人, 走私船, 操作者, 滑槽n[化] 碾碎机; 压碎机"
+	},
+	{
+		"word" : "coordinator",
+		"phonetic" : "kәu'ɒ:dineitә",
+		"definition" : "n. 协调者, 同等的人或物n[化] 协调器"
+	},
+	{
+		"word" : "ideological",
+		"phonetic" : ".aidiә'lɒdʒikәl",
+		"definition" : "a. 意识形态的, 空想的n[法] 思想的, 思想上的, 意识形态的"
+	},
+	{
+		"word" : "intimate",
+		"phonetic" : "'intimәt",
+		"definition" : "a. 亲密的, 私人的, 秘密的nvt. 暗示, 通知, 告诉nn. 至交"
+	},
+	{
+		"word" : "empire",
+		"phonetic" : "'empaiә",
+		"definition" : "n. 帝国, 帝权"
+	},
+	{
+		"word" : "secular",
+		"phonetic" : "'sekjulә",
+		"definition" : "n. 修道院外的教士na. 世俗的, 现世的, 长期的"
+	},
+	{
+		"word" : "cab",
+		"phonetic" : "kæb",
+		"definition" : "n. 出租车, 出租汽车, 出租马车nvi. 乘出租马车(或汽车)"
+	},
+	{
+		"word" : "documentary",
+		"phonetic" : ".dɒkju'mentәri",
+		"definition" : "n. 记录片na. 文件的"
+	},
+	{
+		"word" : "neutral",
+		"phonetic" : "'nju:trәl",
+		"definition" : "n. 中立者, 中立国, 非彩色, 空档na. 中立的, 中性的, 无色的"
+	},
+	{
+		"word" : "exam",
+		"phonetic" : "ig'zæm",
+		"definition" : "n. 考试, 测验"
+	},
+	{
+		"word" : "tender",
+		"phonetic" : "'tendә",
+		"definition" : "a. 嫩的, 柔软的, 脆弱的, 温柔的, 亲切的, 未成熟的, 微妙的, 棘手的, 审慎的nvt. 使变嫩, 提供, 偿还nvi. 变柔软, 投标nn. 照料, 看管人, 供应船, 小船, 提出, 偿付, 投标"
+	},
+	{
+		"word" : "biology",
+		"phonetic" : "bai'ɒlәdʒi",
+		"definition" : "n. 生物学n[化] 生物; 生物学"
+	},
+	{
+		"word" : "flexible",
+		"phonetic" : "'fleksәbl",
+		"definition" : "a. 易曲的, 灵活的, 柔顺的, 能变形的, 可通融的n[医] 能屈的"
+	},
+	{
+		"word" : "progressive",
+		"phonetic" : "prә'gresiv",
+		"definition" : "n. 改革论者, 进步论者na. 前进的, 累进的, 进步的"
+	},
+	{
+		"word" : "conspiracy",
+		"phonetic" : "kәn'spirәsi",
+		"definition" : "n. 同谋, 阴谋, 阴谋集团n[法] 阴谋, 通谋, 共谋"
+	},
+	{
+		"word" : "casualty",
+		"phonetic" : "'kæʒjuәlti",
+		"definition" : "n. 意外事故, 伤亡, 受害者n[化] 事故"
+	},
+	{
+		"word" : "whale",
+		"phonetic" : "hweil",
+		"definition" : "n. 鲸nvi. 捕鲸nvt. 使惨败, 猛揍"
+	},
+	{
+		"word" : "functional",
+		"phonetic" : "'fʌŋkʃәnәl",
+		"definition" : "a. 功能的n[医] 机能的, 功能的, 官能的"
+	},
+	{
+		"word" : "execution",
+		"phonetic" : ".eksi'kju:ʃәn",
+		"definition" : "n. 实行, 完成, 执行, 死刑n[计] 执行"
+	},
+	{
+		"word" : "terrific",
+		"phonetic" : "tә'rifik",
+		"definition" : "a. 非常好的, 极端的, 可怕的"
+	},
+	{
+		"word" : "teammate",
+		"phonetic" : "'ti:mmeit",
+		"definition" : "n. 队友"
+	},
+	{
+		"word" : "instinct",
+		"phonetic" : "'instiŋkt",
+		"definition" : "n. 本能, 直觉na. 充满着的"
+	},
+	{
+		"word" : "whoever",
+		"phonetic" : "hu'evә",
+		"definition" : "pron. 任何人, 无论谁"
+	},
+	{
+		"word" : "aluminum",
+		"phonetic" : "ә'lu:minәm",
+		"definition" : "n. 铝n[化] 铝Al"
+	},
+	{
+		"word" : "ministry",
+		"phonetic" : "'ministri",
+		"definition" : "n. 部, 内阁, 服务n[经] 部"
+	},
+	{
+		"word" : "instruct",
+		"phonetic" : "in'strʌkt",
+		"definition" : "vt. 教, 教育, 命令, 通知n[法] 托办, 指导, 指示"
+	},
+	{
+		"word" : "skull",
+		"phonetic" : "skʌl",
+		"definition" : "n. 头盖骨, 头脑, 好学生n[医] 头颅"
+	},
+	{
+		"word" : "verdict",
+		"phonetic" : "'vә:dikt",
+		"definition" : "n. 裁决, 判决, 判断性意见, 定论, 结论n[法] 定论, 判断, 意见"
+	},
+	{
+		"word" : "bee",
+		"phonetic" : "bi:",
+		"definition" : "n. 蜜蜂, 聚会"
+	},
+	{
+		"word" : "manipulate",
+		"phonetic" : "mә'nipjuleit",
+		"definition" : "vt. 操纵, 利用, 操作, 巧妙地处理, 假造"
+	},
+	{
+		"word" : "cooperative",
+		"phonetic" : "kәu'ɔpәrәtiv",
+		"definition" : "a. 合作的；合作社的"
+	},
+	{
+		"word" : "loop",
+		"phonetic" : "lu:p",
+		"definition" : "n. 环, 圈, 弯曲部分, 循环nvt. 使成环, 以圈结, 以环连结nvi. 打环, 翻筋斗n[计] 循环"
+	},
+	{
+		"word" : "practitioner",
+		"phonetic" : "præk'tiʃәnә",
+		"definition" : "n. 从业者, 开业者n[医] 行医者, 医师"
+	},
+	{
+		"word" : "subsidy",
+		"phonetic" : "'sʌbsidi",
+		"definition" : "n. 补助金, 津贴n[经] 补助金, 津贴, 补贴"
+	},
+	{
+		"word" : "edit",
+		"phonetic" : "'edit",
+		"definition" : "vt. 编辑, 编校, 修订, 剪辑n[计] 编辑; DOS外部命令:该命令是一个用于编辑文本文件的全屏幕编辑程序"
+	},
+	{
+		"word" : "whip",
+		"phonetic" : "hwip",
+		"definition" : "n. 鞭子, 抽打, 车夫, 搅拌器nvt. 鞭打, 搅拌, 煽动, 召集, 仓促制成nvi. 拍击, 急走, 抽打"
+	},
+	{
+		"word" : "puzzle",
+		"phonetic" : "'pʌzl",
+		"definition" : "n. 难题, 迷惑nvt. 使困惑, 使为难nvi. 迷惑, 苦思"
+	},
+	{
+		"word" : "mushroom",
+		"phonetic" : "'mʌʃrum",
+		"definition" : "n. 蘑菇形物, 蘑菇, 暴发户nvi. 迅速生长, 迅速增加, 采蘑菇na. 蘑菇形的, 迅速生长的"
+	},
+	{
+		"word" : "mathematics",
+		"phonetic" : ".mæθә'mætiks",
+		"definition" : "n. 数学n[机] 数学"
+	},
+	{
+		"word" : "boil",
+		"phonetic" : "bɒil",
+		"definition" : "n. 煮沸, 沸腾, 疖nv. 煮沸, 激动"
+	},
+	{
+		"word" : "tragic",
+		"phonetic" : "'trædʒik",
+		"definition" : "a. 悲惨的, 悲剧的"
+	},
+	{
+		"word" : "mechanic",
+		"phonetic" : "mi'kænik",
+		"definition" : "n. 机械工, 技工na. 手工的"
+	},
+	{
+		"word" : "earthquake",
+		"phonetic" : "'ә:θkweik",
+		"definition" : "n. 地震"
+	},
+	{
+		"word" : "jar",
+		"phonetic" : "dʒɑ:",
+		"definition" : "n. 广口瓶, 震动, 刺耳声nvi. 震惊, 冲突, 发刺耳声, 不一致nvt. 震动, 刺激"
+	},
+	{
+		"word" : "utilize",
+		"phonetic" : "'ju:tilaiz",
+		"definition" : "vt. 利用"
+	},
+	{
+		"word" : "underlying",
+		"phonetic" : ".ʌndә'laiiŋ",
+		"definition" : "a. 在下面的n[经] 优先的, 基础的, 放在下面的"
+	},
+	{
+		"word" : "safely",
+		"phonetic" : "'seifli",
+		"definition" : "adv. 安全地, 确实地"
+	},
+	{
+		"word" : "pork",
+		"phonetic" : "pɒ:k",
+		"definition" : "n. 猪肉n[医] 猪肉"
+	},
+	{
+		"word" : "creativity",
+		"phonetic" : ".kri:ei'tiviti",
+		"definition" : "n. 创造力, 创造性"
+	},
+	{
+		"word" : "dessert",
+		"phonetic" : "di'zә:t",
+		"definition" : "n. 餐后甜点"
+	},
+	{
+		"word" : "sympathy",
+		"phonetic" : "'simpәθi",
+		"definition" : "n. 同情, 赞同, 怜悯, 慰问, 吊唁n[医] 交感[作用], 同感[作用], 感应, 同情"
+	},
+	{
+		"word" : "incredibly",
+		"phonetic" : "in'kredәbli",
+		"definition" : "adv. 不能相信地"
+	},
+	{
+		"word" : "fisherman",
+		"phonetic" : "'fiʃәmәn",
+		"definition" : "n. 渔夫, 钓鱼者, 渔船"
+	},
+	{
+		"word" : "eleven",
+		"phonetic" : "i'levn",
+		"definition" : "num. 十一, 十一个"
+	},
+	{
+		"word" : "isolation",
+		"phonetic" : ".aisә'leiʃәn",
+		"definition" : "n. 隔绝, 孤立, 隔离n[化] 分离; 生物分离"
+	},
+	{
+		"word" : "sock",
+		"phonetic" : "sɒk",
+		"definition" : "n. 短袜, 鞋垫, 一击nvt. 重击, 猛投, 给...穿袜nvi. 打击nadv. 正着地, 不偏不倚地na. 非常成功的"
+	},
+	{
+		"word" : "sexy",
+		"phonetic" : "'seksi",
+		"definition" : "a. 有性感的, 色情的"
+	},
+	{
+		"word" : "entrepreneur",
+		"phonetic" : ".ɒntrәprә'nә:",
+		"definition" : "n. 企业家, 主办人n[经] 承包商, 企业家"
+	},
+	{
+		"word" : "syndrome",
+		"phonetic" : "'sindrәum",
+		"definition" : "n. 并发症状, 综合征, 同时存在的事物n[计] 校验子; 并发位"
+	},
+	{
+		"word" : "workplace",
+		"phonetic" : "",
+		"definition" : "n. 工作场所, 工厂, 车间"
+	},
+	{
+		"word" : "ambition",
+		"phonetic" : "æm'biʃәn",
+		"definition" : "n. 野心, 志向"
+	},
+	{
+		"word" : "breeze",
+		"phonetic" : "bri:z",
+		"definition" : "n. 微风, 煤屑, 轻而易举的事nvi. 吹微风, 逃走"
+	},
+	{
+		"word" : "touchdown",
+		"phonetic" : "'tʌtʃdaun",
+		"definition" : "n. 触地, 触地得分, 着地"
+	},
+	{
+		"word" : "costly",
+		"phonetic" : "'kɒstli",
+		"definition" : "a. 昂贵的, 奢华的, 费用大的"
+	},
+	{
+		"word" : "ambitious",
+		"phonetic" : "æm'biʃәs",
+		"definition" : "a. 有野心的, 抱负不凡的, 雄心勃勃的"
+	},
+	{
+		"word" : "presumably",
+		"phonetic" : "pri'zu:mәbli",
+		"definition" : "adv. 推测上, 大概"
+	},
+	{
+		"word" : "influential",
+		"phonetic" : ".infu'enʃәl",
+		"definition" : "a. 有影响的, 有势力的"
+	},
+	{
+		"word" : "translation",
+		"phonetic" : "træns'leiʃәn",
+		"definition" : "n. 翻译, 译文, 转化, 调任, 平移, 转译n[计] 转换"
+	},
+	{
+		"word" : "uncertain",
+		"phonetic" : ".ʌn'sә:tn",
+		"definition" : "a. 不确定的, 无常的, 不确信的, 不可预测的n[法] 不确定的, 未定的, 不确信的"
+	},
+	{
+		"word" : "statistical",
+		"phonetic" : "stә'tistikl",
+		"definition" : "a. 统计的, 统计上的, 统计学的n[经] 统计的, 统计学的"
+	},
+	{
+		"word" : "metropolitan",
+		"phonetic" : ".metrә'pɒlitn",
+		"definition" : "n. 大都市居民, 都主教, 宗主国的公民na. 大都市的, 都主教区的, 宗主国的"
+	},
+	{
+		"word" : "dissolve",
+		"phonetic" : "di'zɒlv",
+		"definition" : "v. 溶解, 解散"
+	},
+	{
+		"word" : "aesthetic",
+		"phonetic" : "i:s'θetik",
+		"definition" : "a. 美学的, 审美的, 有美感的"
+	},
+	{
+		"word" : "gut",
+		"phonetic" : "gʌt",
+		"definition" : "n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气nvt. 取出内脏, 毁坏...的内部"
+	},
+	{
+		"word" : "rolling",
+		"phonetic" : "'rәuliŋ",
+		"definition" : "a. 旋转的, 波动的, 起伏的nn. 旋转, 轰响, 动摇"
+	},
+	{
+		"word" : "spell",
+		"phonetic" : "spel",
+		"definition" : "n. 符咒, 魅力, 轮值, 轮班, 工作时间, 一次发作nvt. 拼写, 拼成, 琢磨, 理解, 招致, 轮换, 迷住nvi. 轮换, 拼字"
+	},
+	{
+		"word" : "booth",
+		"phonetic" : "bu:θ",
+		"definition" : "n. 亭, 摊棚n[经] 货摊, 电话间"
+	},
+	{
+		"word" : "insert",
+		"phonetic" : "in'sә:t",
+		"definition" : "n. 插入物nvt. 插入, 把(人造卫星)射入(轨道), 添写nvi. 附着n[计] 插入"
+	},
+	{
+		"word" : "expected",
+		"phonetic" : "",
+		"definition" : "a. 预期的；预料的"
+	},
+	{
+		"word" : "helmet",
+		"phonetic" : "'helmit",
+		"definition" : "n. 钢盔, 盔, 防护帽nvt. 给...戴头盔"
+	},
+	{
+		"word" : "waist",
+		"phonetic" : "weist",
+		"definition" : "n. 腰部, 腰n[医] 腰"
+	},
+	{
+		"word" : "lion",
+		"phonetic" : "'laiәn",
+		"definition" : "n. 狮子, 狮子(星)座, 国际狮子会会员"
+	},
+	{
+		"word" : "royal",
+		"phonetic" : "'rɒiәl",
+		"definition" : "n. 王室, 皇族na. 王室的, 皇家的, 盛大的, 庄严的"
+	},
+	{
+		"word" : "actively",
+		"phonetic" : "'æktivli",
+		"definition" : "adv. 活跃地, 积极地"
+	},
+	{
+		"word" : "accomplishment",
+		"phonetic" : "ә'kʌmpliʃmәnt",
+		"definition" : "n. 成就, 完成"
+	},
+	{
+		"word" : "panic",
+		"phonetic" : "'pænik",
+		"definition" : "n. 恐慌, 惊慌na. 惊慌的, 没有理由的, 恐慌的nvt. 使惊慌, 使狂热nvi. 惊慌"
+	},
+	{
+		"word" : "crush",
+		"phonetic" : "krʌʃ",
+		"definition" : "n. 压碎, 粉碎, 群众, 迷恋nvt. 压破, 征服, 塞, 弄皱, 榨出nvi. 被压碎, 起皱, 挤"
+	},
+	{
+		"word" : "cliff",
+		"phonetic" : "klif",
+		"definition" : "n. 悬崖, 绝壁"
+	},
+	{
+		"word" : "minimal",
+		"phonetic" : "'miniml",
+		"definition" : "a. 最小的, 极微的, 最小限度的n[医] 最小的, 最低的"
+	},
+	{
+		"word" : "cord",
+		"phonetic" : "kɒ:d",
+		"definition" : "n. 绳索, 束缚n[医] 索, 带"
+	},
+	{
+		"word" : "cocaine",
+		"phonetic" : "kә'kein",
+		"definition" : "n. 可卡因, 古柯碱n[化] 可卡因; 古柯碱"
+	},
+	{
+		"word" : "fortunately",
+		"phonetic" : "'fɒitʃәnitli",
+		"definition" : "adv. 幸运地, 幸亏"
+	},
+	{
+		"word" : "illusion",
+		"phonetic" : "i'lju:ʒәn",
+		"definition" : "n. 幻影, 错觉, 幻想n[医] 错觉"
+	},
+	{
+		"word" : "anonymous",
+		"phonetic" : "ә'nɒnimәs",
+		"definition" : "a. 姓氏不详的, 无名的, 无特色的n[计] 无记录"
+	},
+	{
+		"word" : "tolerate",
+		"phonetic" : "'tɒlәreit",
+		"definition" : "vt. 宽容, 容许, 有耐力"
+	},
+	{
+		"word" : "commissioner",
+		"phonetic" : "kә'miʃәnә",
+		"definition" : "n. 委员, 理事, 行政长官n[法] 委员, 政府的特派员, 地方地官"
+	},
+	{
+		"word" : "appreciation",
+		"phonetic" : "ә.pri:ʃi'eiʃәn",
+		"definition" : "n. 感激, 赏识, 鉴别n[经] 涨价, 增值"
+	},
+	{
+		"word" : "flexibility",
+		"phonetic" : ".fleksi'biliti",
+		"definition" : "n. 弹性, 适应性n[计] 灵活性; 适应性"
+	},
+	{
+		"word" : "instructional",
+		"phonetic" : "in'strʌkʃәnәl",
+		"definition" : "a. 教学的, 教育的"
+	},
+	{
+		"word" : "casino",
+		"phonetic" : "kә'si:nәu",
+		"definition" : "n. 卡西诺赌场, 卡西诺牌戏"
+	},
+	{
+		"word" : "scramble",
+		"phonetic" : "'skræmbl",
+		"definition" : "n. 攀缘, 爬行, 抢夺, 混乱, 紧急起飞nvi. 攀缘, 杂乱蔓延, 争夺, 拼凑, 匆忙nvt. 攀登, 扰乱, 使混杂"
+	},
+	{
+		"word" : "decorate",
+		"phonetic" : "'dekәreit",
+		"definition" : "v. 装饰"
+	},
+	{
+		"word" : "equivalent",
+		"phonetic" : "i'kwivәlәnt",
+		"definition" : "n. 同等物, 等价物, 相等物na. 相等的, 相当的, 同意义的n[计] 等价的"
+	},
+	{
+		"word" : "pulse",
+		"phonetic" : "pʌls",
+		"definition" : "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类nvi. 跳动, 脉跳nvt. 使跳动, 用脉冲调制n[计] 脉冲"
+	},
+	{
+		"word" : "fixed",
+		"phonetic" : "fikst",
+		"definition" : "a. 固定的, 不变的n[法] 固定的, 确定的, 不变的"
+	},
+	{
+		"word" : "experienced",
+		"phonetic" : "ik'spiәriәnst",
+		"definition" : "a. 富有经验的, 老练的, 熟练的"
+	},
+	{
+		"word" : "diary",
+		"phonetic" : "'daiәri",
+		"definition" : "n. 日记n[经] 日记簿"
+	},
+	{
+		"word" : "momentum",
+		"phonetic" : "mәu'mentәm",
+		"definition" : "n. 动力, 动量n[化] 动量"
+	},
+	{
+		"word" : "donation",
+		"phonetic" : "dәu'neiʃәn",
+		"definition" : "n. 捐赠物, 捐款, 捐赠n[经] 赠品, 捐款, 捐赠"
+	},
+	{
+		"word" : "sibling",
+		"phonetic" : "'sibliŋ",
+		"definition" : "n. 兄弟, 同胞n[医] 同胞(兄弟姐妹)"
+	},
+	{
+		"word" : "irony",
+		"phonetic" : "'aiәrәni",
+		"definition" : "n. 反语, 讽刺, 具有讽刺意味的事"
+	},
+	{
+		"word" : "spoon",
+		"phonetic" : "spu:n",
+		"definition" : "n. 匙, 调羹, 匙形工具nvt. 以匙舀起, 调情, 使成匙状"
+	},
+	{
+		"word" : "alley",
+		"phonetic" : "'æli",
+		"definition" : "n. 小路, 巷"
+	},
+	{
+		"word" : "interact",
+		"phonetic" : ".intәr'ækt",
+		"definition" : "vi. 互相影响, 交互作用nn. 幕间剧, 幕间休息"
+	},
+	{
+		"word" : "midst",
+		"phonetic" : "midst",
+		"definition" : "n. 中间nprep. 在...中间"
+	},
+	{
+		"word" : "soap",
+		"phonetic" : "sәup",
+		"definition" : "n. 肥皂, 阿谀nvt. 以肥皂洗, 阿谀n[计] 评语"
+	},
+	{
+		"word" : "cute",
+		"phonetic" : "kju:t",
+		"definition" : "a. 可爱的, 聪明的, 伶俐的n[医] 品他病"
+	},
+	{
+		"word" : "rival",
+		"phonetic" : "'raivl",
+		"definition" : "n. 对手, 竞争者na. 竞争的"
+	},
+	{
+		"word" : "pin",
+		"phonetic" : "pin",
+		"definition" : "n. 大头针, 针, 别针, 栓, 销子, 图钉, 插头, 管脚, 品(液量单位)nvt. 将...用针别住, 钉住, 压住, 牵制, 使不能动, 归罪于na. 针的, 销子的, 闩的"
+	},
+	{
+		"word" : "punch",
+		"phonetic" : "pʌntʃ",
+		"definition" : "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒nvt. 以拳重击, 开洞, 冲压nvi. 用拳猛击"
+	},
+	{
+		"word" : "hockey",
+		"phonetic" : "'hɒki",
+		"definition" : "n. 冰球, 曲棍球"
+	},
+	{
+		"word" : "passing",
+		"phonetic" : "'pæsiŋ",
+		"definition" : "n. 通过, 逝去, 死, 流逝na. 经过的, 流逝的, 目前的, 短暂的, 及格的, 仓促的"
+	},
+	{
+		"word" : "persist",
+		"phonetic" : "pә'sist",
+		"definition" : "vi. 坚持, 固执, 持续, 坚称n[经] 持续"
+	},
+	{
+		"word" : "supplier",
+		"phonetic" : "sә'plaiә",
+		"definition" : "n. 供应者, 供给国, 供应商n[化] 承制厂; 供应厂商"
+	},
+	{
+		"word" : "known",
+		"phonetic" : "nәun",
+		"definition" : "a. 已知的, 有名的nknow的过去分词"
+	},
+	{
+		"word" : "icon",
+		"phonetic" : "'aikɒn",
+		"definition" : "n. 画像, 肖像, 偶像, 图标, 像标n[计] 像标, 图标"
+	},
+	{
+		"word" : "elephant",
+		"phonetic" : "'elifәnt",
+		"definition" : "n. 象"
+	},
+	{
+		"word" : "shed",
+		"phonetic" : "ʃed",
+		"definition" : "n. 车棚, 小屋, 脱落之物, 分水岭nvt. 使流出, 放射, 脱落, 散发, 摆脱nvi. 流出, 散布, 脱落"
+	},
+	{
+		"word" : "franchise",
+		"phonetic" : "'fræntʃaiz",
+		"definition" : "n. 公民权, 特权, 特许经营权, 免赔额nvt. 给以特权, 给以...公民权"
+	},
+	{
+		"word" : "purse",
+		"phonetic" : "pә:s",
+		"definition" : "n. 钱包, 小钱袋, 金钱, 募捐款, 囊状物nv. 缩拢, 皱起"
+	},
+	{
+		"word" : "foster",
+		"phonetic" : "'fɒstә",
+		"definition" : "a. 收养的, 养育的nvt. 养育, 抚育, 培养, 鼓励, 抱(希望)"
+	},
+	{
+		"word" : "liquid",
+		"phonetic" : "'likwid",
+		"definition" : "n. 液体, 流体, 流音na. 液体的, 透明的, 明亮的, 流动的, 易变的"
+	},
+	{
+		"word" : "legislature",
+		"phonetic" : "'ledʒisleitʃә",
+		"definition" : "n. 立法机关, 议会, 立法院n[法] 立法机构, 立法机关"
+	},
+	{
+		"word" : "consequently",
+		"phonetic" : "'kɒnsikwәntli",
+		"definition" : "adv. 所以"
+	},
+	{
+		"word" : "correctly",
+		"phonetic" : "kә'rektli",
+		"definition" : "adv. 对, 正确, 恰当, 符合一般性准则, 符合行为准则, 端正, 符合"
+	},
+	{
+		"word" : "mentally",
+		"phonetic" : "'mentli",
+		"definition" : "adv. 心理上, 精神上, 智力上n[法] 精神上, 智力上"
+	},
+	{
+		"word" : "bicycle",
+		"phonetic" : "'baisikl",
+		"definition" : "n. 自行车"
+	},
+	{
+		"word" : "encouraging",
+		"phonetic" : "in'kʌridʒiŋ",
+		"definition" : "a. 鼓励的, 促进的"
+	},
+	{
+		"word" : "cheat",
+		"phonetic" : "tʃi:t",
+		"definition" : "n. 欺骗, 作弊, 骗子nv. 欺骗, 逃脱, 骗取"
+	},
+	{
+		"word" : "filter",
+		"phonetic" : "'filtә",
+		"definition" : "n. 滤波器, 过滤器, 滤光器, 过滤嘴, 去尘器nvt. 过滤, 渗透, 走漏nvi. 滤过, 渗入n[计] 过滤器, 筛选"
+	},
+	{
+		"word" : "heal",
+		"phonetic" : "hi:l",
+		"definition" : "vi. 痊愈nvt. 使复原, 使和解, 治愈"
+	},
+	{
+		"word" : "fever",
+		"phonetic" : "'fi:vә",
+		"definition" : "n. 发烧, 发热, 热病n[医] 发热, 热"
+	},
+	{
+		"word" : "rabbit",
+		"phonetic" : "'ræbit",
+		"definition" : "n. 兔子nvi. 猎兔nvt. 让...见鬼去"
+	},
+	{
+		"word" : "exploit",
+		"phonetic" : "'eksplɒit",
+		"definition" : "n. 功绩, 勋绩nvt. 开发, 利用, 开拓, 剥削"
+	},
+	{
+		"word" : "organism",
+		"phonetic" : "'ɒ:gәnizm",
+		"definition" : "n. 生物, 有机体, 社会组织n[医] 生物[体],[有]机体"
+	},
+	{
+		"word" : "coin",
+		"phonetic" : "kɒin",
+		"definition" : "n. 硬币, 金钱, 货币nvt. 铸币, 创造, 杜撰"
+	},
+	{
+		"word" : "accessible",
+		"phonetic" : "әk'sesәbl",
+		"definition" : "a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的"
+	},
+	{
+		"word" : "gop",
+		"phonetic" : "",
+		"definition" : "abbr. 大老党（美国共和党的别称）（Grand Old Party）；地面观测站（Ground Observation Post）"
+	},
+	{
+		"word" : "sensation",
+		"phonetic" : "sen'seiʃәn",
+		"definition" : "n. 感觉, 轰动n[医] 感觉"
+	},
+	{
+		"word" : "partially",
+		"phonetic" : "'pɑ:ʃәli",
+		"definition" : "adv. 部分地, 一部分地, 不公平地"
+	},
+	{
+		"word" : "upstairs",
+		"phonetic" : "'ʌp'stєәz",
+		"definition" : "a. 楼上的nadv. 在楼上, 向楼上, 处于更高地位nn. 楼层"
+	},
+	{
+		"word" : "dried",
+		"phonetic" : "draid",
+		"definition" : "a. 弄干了的"
+	},
+	{
+		"word" : "shove",
+		"phonetic" : "ʃʌv",
+		"definition" : "n. 推, 挤nvt. 推挤, 猛推, 强使nvi. 推"
+	},
+	{
+		"word" : "charter",
+		"phonetic" : "'tʃɑ:tә",
+		"definition" : "n. 特许状, 执照, 宪章nvt. 特许, 发给特许执照"
+	},
+	{
+		"word" : "backyard",
+		"phonetic" : "'bæk'jɑ:d",
+		"definition" : "n. 后院, 后庭"
+	},
+	{
+		"word" : "stove",
+		"phonetic" : "stәuv",
+		"definition" : "n. 火炉, 窑nvt. 用火炉烤nstave的过去式和过去分词"
+	},
+	{
+		"word" : "alike",
+		"phonetic" : "ә'laik",
+		"definition" : "a. 相似的, 同样的nadv. 一样, 以同样的方式"
+	},
+	{
+		"word" : "reminder",
+		"phonetic" : "ri'maindә",
+		"definition" : "n. 提醒的人, 暗示n[经] 催单"
+	},
+	{
+		"word" : "consent",
+		"phonetic" : "kәn'sent",
+		"definition" : "n. 同意, 许可nvi. 同意, 赞同"
+	},
+	{
+		"word" : "comprise",
+		"phonetic" : "kәm'praiz",
+		"definition" : "vt. 包含, 构成"
+	},
+	{
+		"word" : "grandchild",
+		"phonetic" : "'^rændtʃaild",
+		"definition" : "n. 孙, 外孙女, 外孙, 孙女, 孙子"
+	},
+	{
+		"word" : "placement",
+		"phonetic" : "'pleismәnt",
+		"definition" : "n. 放置, 布置, 工作安排, 编班, 定位球n[计] 放置"
+	},
+	{
+		"word" : "dough",
+		"phonetic" : "dәu",
+		"definition" : "n. 生面团n[化] 捏塑体; 生面团"
+	},
+	{
+		"word" : "ecological",
+		"phonetic" : ".i:kә'lɒdʒikәl",
+		"definition" : "a. 生态学的, 主张生态保护的n[法] 生态的, 生态学的"
+	},
+	{
+		"word" : "reportedly",
+		"phonetic" : "ri'pɒ:tidli",
+		"definition" : "adv. 根据传说, 根据传闻, 据报道"
+	},
+	{
+		"word" : "surrounding",
+		"phonetic" : "sә'raundiŋ",
+		"definition" : "n. 环境na. 周围的"
+	},
+	{
+		"word" : "dam",
+		"phonetic" : "dæm",
+		"definition" : "n. 水坝, 障碍nv. 控制, 筑坝n[计] 直接存取法"
+	},
+	{
+		"word" : "outfit",
+		"phonetic" : "'autfit",
+		"definition" : "n. 用具, 配备, 机构nvt. 配备, 供应nvi. 得到装备"
+	},
+	{
+		"word" : "unprecedented",
+		"phonetic" : ".ʌn'presidentid",
+		"definition" : "a. 空前的n[经] 空前的, 无前例的"
+	},
+	{
+		"word" : "columnist",
+		"phonetic" : "'kɒlәmist",
+		"definition" : "n. 专栏作家"
+	},
+	{
+		"word" : "workout",
+		"phonetic" : "'wә:kaut",
+		"definition" : "n. 试验, 试用, 锻炼"
+	},
+	{
+		"word" : "preliminary",
+		"phonetic" : "pri'liminәri",
+		"definition" : "n. 初步做法, 初步措施, 预试, 预选赛na. 初步的, 开始的, 预备的"
+	},
+	{
+		"word" : "patent",
+		"phonetic" : "'pætnt. 'peitnt",
+		"definition" : "n. 专利权, 许可证, 执照, 专利品, 素质na. 专利的, 特许的, 显著的, 新奇的nvt. 取得...的专利权, 请准专利"
+	},
+	{
+		"word" : "shy",
+		"phonetic" : "ʃai",
+		"definition" : "n. 惊跳, 惊避na. 胆怯的, 畏缩的, 迟疑的, 羞怯的nvi. 惊退, 乱投, 乱掷, 厌恶, 避开nvt. 乱投, 乱掷"
+	},
+	{
+		"word" : "trash",
+		"phonetic" : "træʃ",
+		"definition" : "n. 垃圾, 废物nvt. 丢弃"
+	},
+	{
+		"word" : "gross",
+		"phonetic" : "grәus",
+		"definition" : "n. 总数, 总量na. 总共的, 未打折扣的, 恶劣的, 粗野的nvt. 总共收入"
+	},
+	{
+		"word" : "pencil",
+		"phonetic" : "'pensl",
+		"definition" : "n. 铅笔, 色笔, 眉笔, 画笔, 光线束nvt. 用铅笔写或涂, 草拟"
+	},
+	{
+		"word" : "disabled",
+		"phonetic" : "dis'eibld",
+		"definition" : "a. 残废的, 有缺陷的, 失效的n[计] 失效的"
+	},
+	{
+		"word" : "texture",
+		"phonetic" : "'tekstʃә",
+		"definition" : "n. (织物的)密度, (材料等的)结构, 纹理n[化] 纹理"
+	},
+	{
+		"word" : "damn",
+		"phonetic" : "dæm",
+		"definition" : "n. 一点, 诅咒, 丝毫ninterj. 该死, 该死的nvt. 诅咒, 罚...下地狱nvi. 指责, 谴责, 骂...该死, 证明...有罪"
+	},
+	{
+		"word" : "frontier",
+		"phonetic" : "'frʌntjә",
+		"definition" : "n. 边界, 边境n[法] 国境, 边境, 边界"
+	},
+	{
+		"word" : "hormone",
+		"phonetic" : "'hɒ:mәun",
+		"definition" : "n. 荷尔蒙n[化] 激素(旧称荷尔蒙)"
+	},
+	{
+		"word" : "spray",
+		"phonetic" : "sprei",
+		"definition" : "n. 水沫, 浪花, 水花, 喷雾, 喷雾器, 小树枝nvt. 喷雾, 扫射, 喷射nvi. 喷, 溅开"
+	},
+	{
+		"word" : "disclose",
+		"phonetic" : "dis'klәuz",
+		"definition" : "vt. 揭露, 透露n[法] 揭发, 揭露, 公开"
+	},
+	{
+		"word" : "banker",
+		"phonetic" : "'bæŋkә",
+		"definition" : "n. 银行家, 庄家n[经] 银行业者, 银行家"
+	},
+	{
+		"word" : "caller",
+		"phonetic" : "'kɒ:lә",
+		"definition" : "n. 访客, 召集员, 传唤员na. 新鲜的n[计] 呼叫方标识"
+	},
+	{
+		"word" : "custody",
+		"phonetic" : "'kʌstәdi",
+		"definition" : "n. 监护, 拘留, 监禁n[经] 保管, 照顾, 保护"
+	},
+	{
+		"word" : "oak",
+		"phonetic" : "әuk",
+		"definition" : "n. 橡树, 橡木na. 橡木制的"
+	},
+	{
+		"word" : "interfere",
+		"phonetic" : ".intә'fiә",
+		"definition" : "vi. 妨碍, 冲突, 干涉, 抵触n[医] 干扰, 干涉, 阻碍, 碰腿(马)"
+	},
+	{
+		"word" : "eighth",
+		"phonetic" : "eitθ",
+		"definition" : "num. 第八, 八分之一"
+	},
+	{
+		"word" : "notebook",
+		"phonetic" : "'nәutbuk",
+		"definition" : "n. 笔记本, 手册, 期票簿"
+	},
+	{
+		"word" : "beast",
+		"phonetic" : "bi:st",
+		"definition" : "n. 畜生, 动物, 野兽, 兽性"
+	},
+	{
+		"word" : "outline",
+		"phonetic" : "'autlain",
+		"definition" : "n. 大纲, 轮廓, 概要nvt. 描画轮廓, 描述要点nn. 大纲, 分级, 轮廓n[计] 大纲, 分级, 轮廓"
+	},
+	{
+		"word" : "speculation",
+		"phonetic" : ".spekju'leiʃәn",
+		"definition" : "n. 沉思, 推测, 投机n[经] 投机交易, 买空卖空"
+	},
+	{
+		"word" : "ray",
+		"phonetic" : "rei",
+		"definition" : "n. 光线, 射线, 闪烁, 光辉nvi. 射出光线, 浮现, 放射光线nvt. 放射, 显出"
+	},
+	{
+		"word" : "uncover",
+		"phonetic" : ".ʌn'kʌvә",
+		"definition" : "vt. 揭露, 揭开, 暴露, 脱帽致敬nvi. 脱帽致敬, 揭去盖子"
+	},
+	{
+		"word" : "attendance",
+		"phonetic" : "ә'tendәns",
+		"definition" : "n. 出席, 出席的人数, 照料n[法] 管理, 照料, 资助"
+	},
+	{
+		"word" : "behalf",
+		"phonetic" : "bi'hɑ:f",
+		"definition" : "n. 利益, 方面"
+	},
+	{
+		"word" : "innovative",
+		"phonetic" : "'inәjveitiv",
+		"definition" : "a. 革新的, 创新的, 富有革新精神的"
+	},
+	{
+		"word" : "installation",
+		"phonetic" : ".instә'leiʃәn",
+		"definition" : "n. 安装, 装置, 就职n[医] 结构, 装置, 设立"
+	},
+	{
+		"word" : "shark",
+		"phonetic" : "ʃɑ:k",
+		"definition" : "n. 鲨鱼, 骗子nv. 诈骗"
+	},
+	{
+		"word" : "mill",
+		"phonetic" : "mil",
+		"definition" : "n. 压榨机, 磨坊, 制造厂nvt. 碾磨, 磨细, 搅拌, 使乱转nvi. 乱转, 被碾磨"
+	},
+	{
+		"word" : "stimulate",
+		"phonetic" : "'stimjuleit",
+		"definition" : "vt. 刺激, 激励, 鼓舞nvi. 起刺激作用"
+	},
+	{
+		"word" : "swimming",
+		"phonetic" : "'swimiŋ",
+		"definition" : "n. 游泳, 眩晕"
+	},
+	{
+		"word" : "tag",
+		"phonetic" : "tæg",
+		"definition" : "n. 标签, 附属物, 碎片, 结束语, 口头禅, 附加语, 浑名, 标记, 标记符nvt. 附以签条, 尾随, 添饰, 起浑名, 连接nvi. 紧紧跟随n[计] 标记"
+	},
+	{
+		"word" : "catalog",
+		"phonetic" : "'kætәlɒg",
+		"definition" : "n. 目录, 大学概况手册nvt. 编目录n[计] 目录; 编目"
+	},
+	{
+		"word" : "outsider",
+		"phonetic" : "' aut'saidә",
+		"definition" : "n. 外人, 局外人, 非会员, 外行, 门外汉, 比赛中获胜可能性不大的选手n[经] 外船公司"
+	},
+	{
+		"word" : "fleet",
+		"phonetic" : "fli:t",
+		"definition" : "n. 舰队, 港湾, 小河na. 快速的, 敏捷的, 浅的, 短暂的nadv. 浅nvi. 疾驰, 飞逝, 掠过nvt. 消磨, 变换船(或船员)的位置"
+	},
+	{
+		"word" : "stance",
+		"phonetic" : "stæns",
+		"definition" : "n. 准备击球姿势, 站立的姿势, 位置, 姿态n[经] 地位, 形势"
+	},
+	{
+		"word" : "vertical",
+		"phonetic" : "'vә:tikl",
+		"definition" : "a. 垂直的, 直立的n[医] 垂直的, 顶的, 头顶的"
+	},
+	{
+		"word" : "compel",
+		"phonetic" : "kәm'pel",
+		"definition" : "vt. 强迫, 迫使"
+	},
+	{
+		"word" : "desperately",
+		"phonetic" : "'despәrәtli",
+		"definition" : "adv. 拼命地；绝望地；极度地"
+	},
+	{
+		"word" : "someday",
+		"phonetic" : "'sʌmdei",
+		"definition" : "adv. 有一天"
+	},
+	{
+		"word" : "sensitivity",
+		"phonetic" : ".sensә'tiviti",
+		"definition" : "n. 敏感, 灵敏度n[计] 灵敏度"
+	},
+	{
+		"word" : "instant",
+		"phonetic" : "'instәnt",
+		"definition" : "n. 立即, 瞬间na. 紧急的, 立即的, 即时的"
+	},
+	{
+		"word" : "proclaim",
+		"phonetic" : "prә'kleim",
+		"definition" : "vt. 宣布, 公告, 宣言, 表明, 赞扬n[法] 宣布, 宣告, 公布"
+	},
+	{
+		"word" : "debut",
+		"phonetic" : "'deibju:",
+		"definition" : "n. 初次登台, 开张nv. 初次登台"
+	},
+	{
+		"word" : "hike",
+		"phonetic" : "haik",
+		"definition" : "n. 徒步旅行, 远足, 涨价, 提高nvi. 步行, 徒步旅行, 上升nvt. 使高涨, 拉起"
+	},
+	{
+		"word" : "worldwide",
+		"phonetic" : "'wә:ldwaid",
+		"definition" : "a. 全世界的"
+	},
+	{
+		"word" : "trainer",
+		"phonetic" : "'treinә",
+		"definition" : "n. 训练员, 驯马师n[电] 列车器"
+	},
+	{
+		"word" : "confrontation",
+		"phonetic" : ".kɔnfrʌn'teiʃәn",
+		"definition" : "n. 对抗；对质；面对"
+	},
+	{
+		"word" : "scent",
+		"phonetic" : "sent",
+		"definition" : "n. 气味, 香味, 香水, 踪迹, 痕迹, 线索, 嗅觉nvt. 闻出, 嗅, 发觉, 使充满气味nvi. 嗅猎, 发出气味"
+	},
+	{
+		"word" : "colorful",
+		"phonetic" : "'kʌlәful",
+		"definition" : "a. 华美的, 富有色彩的, 有趣的"
+	},
+	{
+		"word" : "required",
+		"phonetic" : "ri'kwaiәd",
+		"definition" : "a. 必需的"
+	},
+	{
+		"word" : "thanksgiving",
+		"phonetic" : "'θæŋks.giviŋ",
+		"definition" : "n. 感谢"
+	},
+	{
+		"word" : "eyebrow",
+		"phonetic" : "'aibrau",
+		"definition" : "n. 眉毛n[医] 眉"
+	},
+	{
+		"word" : "stack",
+		"phonetic" : "stæk",
+		"definition" : "n. 堆叠, 堆, 大量, 书库, 枪架, 烟囱, 堆积, 存贮栈nvt. 堆积, 堆满, 暗中对...做手脚nvi. 堆起n[计] 堆积, 堆栈"
+	},
+	{
+		"word" : "sack",
+		"phonetic" : "sæk",
+		"definition" : "n. 麻布袋, 洗劫nvt. 把...装入袋, 洗劫"
+	},
+	{
+		"word" : "organizational",
+		"phonetic" : ".ɒ:gәnai'zeiʃәnәl",
+		"definition" : "a. 组织的n[法] 组织的, 编制的, 机构的"
+	},
+	{
+		"word" : "tray",
+		"phonetic" : "trei",
+		"definition" : "n. 托盘, 公文盘, 满盘, 发射箱n[化] 淋盘"
+	},
+	{
+		"word" : "cease",
+		"phonetic" : "si:s",
+		"definition" : "n. 停止nv. 停止, 终了"
+	},
+	{
+		"word" : "inherit",
+		"phonetic" : "in'herit",
+		"definition" : "vt. 继承, 遗传nvi. 接受遗产"
+	},
+	{
+		"word" : "pioneer",
+		"phonetic" : ".paiә'niә",
+		"definition" : "n. 先锋, 拓荒者, 创始人nvt. 提倡, 开辟, 开创, 倡导nvi. 作先驱, 开路na. 最早的, 开拓的, 先驱的, 有开拓者特点的"
+	},
+	{
+		"word" : "textbook",
+		"phonetic" : "'tekstbuk",
+		"definition" : "n. 教科书"
+	},
+	{
+		"word" : "shrink",
+		"phonetic" : "ʃriŋk",
+		"definition" : "n. 收缩, 萎缩, 回避nvi. 收缩, 退缩, 萎缩, 缩小, 回避nvt. 使收缩, 使缩小"
+	},
+	{
+		"word" : "illustration",
+		"phonetic" : ".ilә'streiʃәn",
+		"definition" : "n. 例证, 插图n[化] 插图"
+	},
+	{
+		"word" : "nasty",
+		"phonetic" : "'nɑ:sti",
+		"definition" : "a. 污秽的, 下流的, 险恶的"
+	},
+	{
+		"word" : "emerging",
+		"phonetic" : "",
+		"definition" : "[法] 出现的, 发生的, 形成的"
+	},
+	{
+		"word" : "uh",
+		"phonetic" : "ʌn. әn",
+		"definition" : "int. 嗯啊"
+	},
+	{
+		"word" : "wheat",
+		"phonetic" : "hwi:t",
+		"definition" : "n. 小麦"
+	},
+	{
+		"word" : "dot",
+		"phonetic" : "dɒt",
+		"definition" : "n. 点, 圆点, 小数点, 小东西, 嫁妆nvt. 作小点记号, 加小点于nvi. 打上点n[计] 点"
+	},
+	{
+		"word" : "rational",
+		"phonetic" : "'ræʃәnl",
+		"definition" : "a. 理性的, 合理的nn. 有理数"
+	},
+	{
+		"word" : "fierce",
+		"phonetic" : "fiәs",
+		"definition" : "a. 凶猛的, 猛烈的, 热烈的, 暴躁的"
+	},
+	{
+		"word" : "envision",
+		"phonetic" : "in'viʒәn",
+		"definition" : "vt. 想象, 预想"
+	},
+	{
+		"word" : "aisle",
+		"phonetic" : "ail",
+		"definition" : "n. 走廊, 侧廊, 过道n[机] 走道"
+	},
+	{
+		"word" : "protocol",
+		"phonetic" : "'prәutәkɒl",
+		"definition" : "n. 草案, 礼仪, 协议nv. 拟定n[计] 协议, 协议列表实用程序"
+	},
+	{
+		"word" : "weaken",
+		"phonetic" : "'wi:kәn",
+		"definition" : "vt. 削弱, 减弱, 使虚弱nvi. 变弱, 变软弱"
+	},
+	{
+		"word" : "kingdom",
+		"phonetic" : "'kiŋdәm",
+		"definition" : "n. 王国, 领域n[医] 界(动物,植物,矿物)"
+	},
+	{
+		"word" : "vocal",
+		"phonetic" : "'vәukl",
+		"definition" : "a. 嗓音的, 声音的, 有声的, 歌唱的nn. 元音, 声乐作品"
+	},
+	{
+		"word" : "exclusively",
+		"phonetic" : "ik'sklu:sivli",
+		"definition" : "adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地"
+	},
+	{
+		"word" : "marketplace",
+		"phonetic" : "'mɑ:kit'pleis",
+		"definition" : "n. 市场"
+	},
+	{
+		"word" : "openly",
+		"phonetic" : "'әjpәnli",
+		"definition" : "adv. 公开地, 坦率地, 直率地, 公然地"
+	},
+	{
+		"word" : "terrain",
+		"phonetic" : "'terein",
+		"definition" : "n. 地带, 地区, 地形, 领域, 范围"
+	},
+	{
+		"word" : "unfair",
+		"phonetic" : ".ʌn'fєә",
+		"definition" : "a. 不公平的, 不正直的, 不正当的n[法] 不正直的, 不公平的, 偏颇的"
+	},
+	{
+		"word" : "risky",
+		"phonetic" : "'riski",
+		"definition" : "a. 危险的"
+	},
+	{
+		"word" : "deploy",
+		"phonetic" : "di'plɒi",
+		"definition" : "v. 展开, 配置"
+	},
+	{
+		"word" : "genre",
+		"phonetic" : "'ʒɒŋrә",
+		"definition" : "n. 类型, 流派"
+	},
+	{
+		"word" : "pasta",
+		"phonetic" : "'pæstә",
+		"definition" : "n. 意大利面食n[医] 糊剂, 泥膏剂"
+	},
+	{
+		"word" : "distract",
+		"phonetic" : "dis'trækt",
+		"definition" : "vt. 转移, 分心, 使发狂"
+	},
+	{
+		"word" : "depressed",
+		"phonetic" : "di'prest",
+		"definition" : "a. 沮丧的, 降低的n[医] 抑郁的, 阻抑的, 压低的, 凹[陷]的, 扁平的"
+	},
+	{
+		"word" : "planner",
+		"phonetic" : "'plænә",
+		"definition" : "n. 计划者, 设计者, 安排者n[机] 刨床机"
+	},
+	{
+		"word" : "merit",
+		"phonetic" : "'merit",
+		"definition" : "n. 优点, 功绩, 价值, 功过, 真相nvt. 值得nvi. 应受"
+	},
+	{
+		"word" : "chunk",
+		"phonetic" : "tʃʌŋk",
+		"definition" : "n. 大块, 矮胖的人(或物)n[经] 定样"
+	},
+	{
+		"word" : "closest",
+		"phonetic" : "",
+		"definition" : "a. 最靠近的（close的最高级）"
+	},
+	{
+		"word" : "discount",
+		"phonetic" : "'diskaunt",
+		"definition" : "n. 折扣, 贴现率nvt. 打折扣nvi. 贴现"
+	},
+	{
+		"word" : "ladder",
+		"phonetic" : "'lædә",
+		"definition" : "n. 梯, 梯状物, 发迹的途径nvi. 袜子抽丝, 成名"
+	},
+	{
+		"word" : "jungle",
+		"phonetic" : "'dʒʌŋgl",
+		"definition" : "n. 丛林, 杂乱的一堆, 弱肉强食的地方"
+	},
+	{
+		"word" : "breathing",
+		"phonetic" : "'bri:ðiŋ",
+		"definition" : "n. 呼吸, 瞬间, 微风na. 呼吸的, 逼真的"
+	},
+	{
+		"word" : "migration",
+		"phonetic" : "mai'greiʃәn",
+		"definition" : "n. 移民, 移往, 移动n[计] 迁移"
+	},
+	{
+		"word" : "invade",
+		"phonetic" : "in'veid",
+		"definition" : "vt. 侵入, 拥入, 侵略, 侵袭n[法] 强入, 侵犯, 侵略"
+	},
+	{
+		"word" : "retailer",
+		"phonetic" : "'ri:teilә",
+		"definition" : "n. 零售商人, 传播的人n[经] 零售商"
+	},
+	{
+		"word" : "hurricane",
+		"phonetic" : "'hә:rikәn",
+		"definition" : "n. 飓风, 暴风, 暴风雨"
+	},
+	{
+		"word" : "density",
+		"phonetic" : "'densiti",
+		"definition" : "n. 密度n[化] 密度"
+	},
+	{
+		"word" : "coup",
+		"phonetic" : "'ku:",
+		"definition" : "n. 砰然的一击, 妙计, 出乎意料的行动, 政变n[医] 发作, 中, 击"
+	},
+	{
+		"word" : "classify",
+		"phonetic" : "'klæsifai",
+		"definition" : "vt. 分类, 归类, 分等n[建] 分类, 分级, 分粒"
+	},
+	{
+		"word" : "curiosity",
+		"phonetic" : ".kjuәri'ɒsiti",
+		"definition" : "n. 好奇心, 新奇的事物, 珍品"
+	},
+	{
+		"word" : "skip",
+		"phonetic" : "skip",
+		"definition" : "n. 跳跃, 跳读nvi. 跳越, 跳读, 跳绳, 遗漏, 跳级nvt. 跳过, 遗漏n[计] 跳过"
+	},
+	{
+		"word" : "ambassador",
+		"phonetic" : "æm'bæsәdә",
+		"definition" : "n. 大使n[法] 大使, 使节, 代理"
+	},
+	{
+		"word" : "aggression",
+		"phonetic" : "ә'greʃәn",
+		"definition" : "n. 侵犯, 侵略n[医] 攻击"
+	},
+	{
+		"word" : "supportive",
+		"phonetic" : "sә'pɔ:tiv",
+		"definition" : "a. 支撑, 支承, 资助, 赞助, 支援, 经受, 忍受, 扶养, 证实, 鼓励, 维持, 伴奏"
+	},
+	{
+		"word" : "robot",
+		"phonetic" : "'rәubәt",
+		"definition" : "n. 机械人, 自动机械, 机械般工作的人n[计] 机器人; 自动机"
+	},
+	{
+		"word" : "journalism",
+		"phonetic" : "'dʒә:nәlizm",
+		"definition" : "n. 新闻业, 报章杂志n[法] 报刊, 新闻业, 新闻出版"
+	},
+	{
+		"word" : "stimulus",
+		"phonetic" : "'stimjulәs",
+		"definition" : "n. 刺激, 激励, 刺激品n[医] 刺激特, 刺激"
+	},
+	{
+		"word" : "Persian",
+		"phonetic" : "'pә:ʃәn",
+		"definition" : "n. 波斯人, 波斯语"
+	},
+	{
+		"word" : "ecosystem",
+		"phonetic" : "'i:kәu.sistәm",
+		"definition" : "n. 生态系统n[医] 生态系"
+	},
+	{
+		"word" : "informal",
+		"phonetic" : "in'fɒ:mәl",
+		"definition" : "a. 非正式的, 不拘礼的, 通俗的n[经] 非正式的, 日常使用的"
+	},
+	{
+		"word" : "likewise",
+		"phonetic" : "'laikwaiz",
+		"definition" : "adv. 同样地, 也"
+	},
+	{
+		"word" : "feather",
+		"phonetic" : "'feðә",
+		"definition" : "n. 羽毛nvi. 长羽毛nvt. 用羽毛装饰"
+	},
+	{
+		"word" : "dip",
+		"phonetic" : "dip",
+		"definition" : "v. 浸, 降下, 把(手、勺等)伸入, 舀取nn. 浸, 涉猎n[计] 双列直插式组件, 分布式输入输出系统, 双排直插封装"
+	},
+	{
+		"word" : "sphere",
+		"phonetic" : "sfiә",
+		"definition" : "n. 球, 球面, 球体, 天体, 地球仪, 范围nvt. 包围, 使成球体, 放入球内"
+	},
+	{
+		"word" : "boast",
+		"phonetic" : "bәust",
+		"definition" : "n. 吹牛nvi. 吹牛, 自夸nvt. 夸口说, 自恃有"
+	},
+	{
+		"word" : "sole",
+		"phonetic" : "sәul",
+		"definition" : "n. 脚掌, 鞋底, 底部na. 唯一的, 仅有的, 单独的, 独身的nvt. 上鞋底, 触底"
+	},
+	{
+		"word" : "tighten",
+		"phonetic" : "'taitn",
+		"definition" : "vt. 勒紧, 使变紧nvi. 变紧, 绷紧"
+	},
+	{
+		"word" : "perceived",
+		"phonetic" : "pə'siːvd",
+		"definition" : "v. 感觉( perceive的过去式和过去分词 ); 视为; 认为; 理解为"
+	},
+	{
+		"word" : "pat",
+		"phonetic" : "pæt",
+		"definition" : "n. 轻拍nv. 轻拍nadv. 适时, 正好, 恰好, 毫不迟疑, 熟记地na. 恰好的, 合适的, 熟练的, 坚定的, 人为的"
+	},
+	{
+		"word" : "publicity",
+		"phonetic" : "pʌb'lisiti",
+		"definition" : "n. 名声, 宣传, 公开场合n[经] 宣传, 广告"
+	},
+	{
+		"word" : "unfold",
+		"phonetic" : ".ʌn'fәuld",
+		"definition" : "vt. 展开, 打开, 披露, 开展, 挑明nvi. 伸展, 开花, 呈现"
+	},
+	{
+		"word" : "validity",
+		"phonetic" : "vә'liditi",
+		"definition" : "n. 有效性, 正确性n[计] 有效性"
+	},
+	{
+		"word" : "strictly",
+		"phonetic" : "'striktli",
+		"definition" : "adv. 严格地, 确实地"
+	},
+	{
+		"word" : "weed",
+		"phonetic" : "wi:d",
+		"definition" : "n. 杂草, 野草nvi. 除草nvt. 除...的草, 剔除"
+	},
+	{
+		"word" : "partial",
+		"phonetic" : "'pɑ:ʃәl",
+		"definition" : "a. 部分的, 偏袒的, 偏爱的nn. 分音"
+	},
+	{
+		"word" : "compliance",
+		"phonetic" : "kәm'plaiәns",
+		"definition" : "n. 遵从, 顺从, 屈从n[化] 柔顺; 顺应"
+	},
+	{
+		"word" : "collar",
+		"phonetic" : "'kɒlә",
+		"definition" : "n. 衣领, 颈圈nvt. 控制, 扭住衣领, 给...装上领子"
+	},
+	{
+		"word" : "builder",
+		"phonetic" : "'bildә",
+		"definition" : "n. 建立者n[机] 组份"
+	},
+	{
+		"word" : "added",
+		"phonetic" : "'ædid",
+		"definition" : "a. 额外的；更多的"
+	},
+	{
+		"word" : "supposedly",
+		"phonetic" : "sә'pәuzidli",
+		"definition" : "adv. 想象上, 看上去像, 被认为是, 恐怕, 按照推测"
+	},
+	{
+		"word" : "streak",
+		"phonetic" : "stri:k",
+		"definition" : "n. 条理, 斑纹, 倾向nvt. 加条纹nvi. 变成条纹, 飞跑"
+	},
+	{
+		"word" : "specialty",
+		"phonetic" : "'speʃәlti",
+		"definition" : "n. 专业, 专长, 特产, 特制品, 特性, 特点na. 专门的, 独立的"
+	},
+	{
+		"word" : "deem",
+		"phonetic" : "di:m",
+		"definition" : "v. 认为, 相信"
+	},
+	{
+		"word" : "glimpse",
+		"phonetic" : "glimps",
+		"definition" : "n. 一瞥, 一闪nvi. 投以一瞥, 闪烁不定nvt. 瞥见"
+	},
+	{
+		"word" : "premise",
+		"phonetic" : "'premis",
+		"definition" : "n. 前提, 房屋连地基, 上述各项nvt. 预先提出, 引出, 作为...的前提nvi. 作出前提"
+	},
+	{
+		"word" : "sneak",
+		"phonetic" : "sni:k",
+		"definition" : "vi. 鬼鬼祟祟做事nvt. 偷偷地做nn. 鬼鬼祟祟的人, 偷偷摸摸的行为, 帆布胶底运动鞋na. 暗中进行的"
+	},
+	{
+		"word" : "monkey",
+		"phonetic" : "'mʌŋki",
+		"definition" : "n. 猴子, 猿, 打桩锤nvi. 淘气, 胡闹nvt. 嘲弄"
+	},
+	{
+		"word" : "Oscar",
+		"phonetic" : "'ɔskә",
+		"definition" : "n. 奥斯卡金像奖, 钱, 现金"
+	},
+	{
+		"word" : "artifact",
+		"phonetic" : "'ɑ:tifækt",
+		"definition" : "n. 人工制品n[医] 人为现象, 人工产物"
+	},
+	{
+		"word" : "listener",
+		"phonetic" : "'lisnә",
+		"definition" : "n. 收听者, 听众"
+	},
+	{
+		"word" : "mentor",
+		"phonetic" : "'mentɔ:",
+		"definition" : "n. 指导者, 良师益友"
+	},
+	{
+		"word" : "lightning",
+		"phonetic" : "'laitniŋ",
+		"definition" : "n. 闪电nvi. 闪电na. 闪电的"
+	},
+	{
+		"word" : "legally",
+		"phonetic" : "'li:gәli",
+		"definition" : "adv. 法律上, 合法地n[法] 法律上, 合法地, 法定地"
+	},
+	{
+		"word" : "excessive",
+		"phonetic" : "ik'sesiv",
+		"definition" : "a. 过度的, 过多的, 极端的n[法] 过度的, 过分的, 额外的"
+	},
+	{
+		"word" : "memorial",
+		"phonetic" : "mi'mɒ:riәl",
+		"definition" : "n. 纪念物, 请愿书na. 记念的, 记忆的"
+	},
+	{
+		"word" : "disturb",
+		"phonetic" : "dis'tә:b",
+		"definition" : "vt. 扰乱, 妨碍, 使不安n[法] 滋扰, 扰乱"
+	},
+	{
+		"word" : "disappointment",
+		"phonetic" : ".disә'pɒintmәnt",
+		"definition" : "n. 失望"
+	},
+	{
+		"word" : "sleeve",
+		"phonetic" : "sli:v",
+		"definition" : "n. 袖子, 套管nvt. 缝上袖子"
+	},
+	{
+		"word" : "rib",
+		"phonetic" : "rib",
+		"definition" : "n. 肋骨, 肋状物, 笑话nvt. 装肋状物于, 戏弄"
+	},
+	{
+		"word" : "logical",
+		"phonetic" : "'lɒdʒikәl",
+		"definition" : "a. 合乎逻辑的, 合理的n[法] 逻辑的, 符合逻辑的"
+	},
+	{
+		"word" : "parish",
+		"phonetic" : "'pæriʃ",
+		"definition" : "n. 教区, 堂区n[法] 救贫区, 教区"
+	},
+	{
+		"word" : "debris",
+		"phonetic" : "'deibri:",
+		"definition" : "n. 碎片, 残骸n[医] 碎屑"
+	},
+	{
+		"word" : "socially",
+		"phonetic" : "'sәuʃәli",
+		"definition" : "adv. 在社会上, 在社交上, 以社会生活方式"
+	},
+	{
+		"word" : "slavery",
+		"phonetic" : "'sleivәri",
+		"definition" : "n. 奴隶的身分, 奴隶状态, 奴隶制度n[法] 奴隶制度, 奴役, 苦役"
+	},
+	{
+		"word" : "rod",
+		"phonetic" : "rɒd",
+		"definition" : "n. 竿, 笞鞭, 小枝n[化] 棒"
+	},
+	{
+		"word" : "ash",
+		"phonetic" : "æʃ",
+		"definition" : "n. 灰, 灰烬n[化] 灰分"
+	},
+	{
+		"word" : "blank",
+		"phonetic" : "blæŋk",
+		"definition" : "n. 空格, 空白na. 空白的, 空虚的, 完全的, 无色的nvi. 消失, 成为空白nvt. 使无效, 取消, 封锁n[计] 空白"
+	},
+	{
+		"word" : "cure",
+		"phonetic" : "kjuә",
+		"definition" : "n. 治疗, 治愈, 治疗法nvt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化nvi. 受治疗, 被加工处理, 被硫化"
+	},
+	{
+		"word" : "faster",
+		"phonetic" : "",
+		"definition" : "[计] 加快"
+	},
+	{
+		"word" : "commodity",
+		"phonetic" : "kә'mɒditi",
+		"definition" : "n. 农产品, 商品, 有用的物品n[经] 商品, 货物, 日用品"
+	},
+	{
+		"word" : "dying",
+		"phonetic" : "'daiiŋ",
+		"definition" : "a. 垂死的n[法] 快要死的, 垂死的, 临终的"
+	},
+	{
+		"word" : "Saint",
+		"phonetic" : "seint",
+		"definition" : "n. 圣徒, 圣人na. 神圣的n[计] 自动积分程序符号"
+	},
+	{
+		"word" : "mineral",
+		"phonetic" : "'minәrәl",
+		"definition" : "n. 矿物, 无机物, 苏打水na. 矿物的, 似矿物的"
+	},
+	{
+		"word" : "hunger",
+		"phonetic" : "'hʌŋgә",
+		"definition" : "n. 饥饿, 渴望, 饥荒nvt. 使挨饿nvi. 挨饿, 渴望"
+	},
+	{
+		"word" : "spare",
+		"phonetic" : "spєә",
+		"definition" : "n. 剩余, 备用品, 备件, 备用零件, 备用轮胎na. 多余的, 备用的, 空闲的, 节约的, 瘦的nvi. 节约, 省掉, 宽恕nvt. 节约, 省用, 剩下, 饶恕, 赦免"
+	},
+	{
+		"word" : "halfway",
+		"phonetic" : "'hɑ:f'wei",
+		"definition" : "a. 中途的, 不彻底的, 部分的nadv. 半路地, 在中途, 在半途"
+	},
+	{
+		"word" : "developmental",
+		"phonetic" : "di.velәp'mentәl",
+		"definition" : "a. 发展的, 进化的, 启发的n[医] 发育的"
+	},
+	{
+		"word" : "cemetery",
+		"phonetic" : "'semitәri",
+		"definition" : "n. 墓地, 公墓n[法] 公墓, 墓地"
+	},
+	{
+		"word" : "equality",
+		"phonetic" : "i:'kwɒliti",
+		"definition" : "n. 平等, 均匀, 相等n[法] 同等, 平等, 相等"
+	},
+	{
+		"word" : "harassment",
+		"phonetic" : "'hærәsmәnt",
+		"definition" : "n. 困扰, 烦扰, 烦恼n[法] 折磨, 骚扰, 侵扰"
+	},
+	{
+		"word" : "deliberately",
+		"phonetic" : "di'libәrәtli",
+		"definition" : "adv. 故意地"
+	},
+	{
+		"word" : "fame",
+		"phonetic" : "feim",
+		"definition" : "n. 名望, 名声, 传说"
+	},
+	{
+		"word" : "striking",
+		"phonetic" : "'straikiŋ",
+		"definition" : "a. 醒目的, 惊人的, 打击的, 罢工的n[法] 罢工的, 罢市的, 罢课的"
+	},
+	{
+		"word" : "regret",
+		"phonetic" : "ri'gret",
+		"definition" : "n. 遗憾, 后悔, 悔恨, 抱歉, 歉意nvt. 为...感到遗憾, 后悔, 惋惜, 懊悔, 抱歉nvi. 感到抱歉"
+	},
+	{
+		"word" : "likelihood",
+		"phonetic" : "'laiklihud",
+		"definition" : "n. 可能, 可能性"
+	},
+	{
+		"word" : "carrot",
+		"phonetic" : "'kærәt",
+		"definition" : "n. 胡萝卜n[医] 胡萝卜"
+	},
+	{
+		"word" : "wheelchair",
+		"phonetic" : "'hwi:l.tʃєә",
+		"definition" : "n. 轮椅"
+	},
+	{
+		"word" : "toll",
+		"phonetic" : "tәul",
+		"definition" : "n. 通行费, 代价, 钟声nvt. 征收, 敲钟, 鸣钟, 勾引, 引诱nvi. 征税, 鸣钟"
+	},
+	{
+		"word" : "atop",
+		"phonetic" : "ә'tɒp",
+		"definition" : "adv. 在顶上nprep. 在...的顶上"
+	},
+	{
+		"word" : "embarrassed",
+		"phonetic" : "im'bærәst",
+		"definition" : "a. 尴尬的；窘迫的"
+	},
+	{
+		"word" : "rim",
+		"phonetic" : "rim",
+		"definition" : "n. 边, 轮缘, 框nvt. 镶边, 为...装边nvi. 形成边缘"
+	},
+	{
+		"word" : "suspicious",
+		"phonetic" : "sә'spiʃәs",
+		"definition" : "a. 可疑的, 多疑的, 怀疑的n[法] 怀疑的, 令人怀疑的, 可疑的"
+	},
+	{
+		"word" : "isolated",
+		"phonetic" : "'aisәleitid",
+		"definition" : "a. 孤立的, 孤零零的n[计] 隔离的, 绝缘的"
+	},
+	{
+		"word" : "cling",
+		"phonetic" : "kliŋ",
+		"definition" : "vi. 粘紧, 附着, 紧贴, 坚持"
+	},
+	{
+		"word" : "squad",
+		"phonetic" : "skwɒd",
+		"definition" : "n. 班, 小队, 小集团nvt. 编成班"
+	},
+	{
+		"word" : "blink",
+		"phonetic" : "bliŋk",
+		"definition" : "vi. 眨眼, 闪亮nvt. 眨眼, 使闪亮nn. 眨眼, 瞬间, 闪光, 闪烁n[计] 闪烁"
+	},
+	{
+		"word" : "eligible",
+		"phonetic" : "'elidʒәbl",
+		"definition" : "a. 有资格当选的, 合格的nn. 有资格者, 合格者, 适任者"
+	},
+	{
+		"word" : "plunge",
+		"phonetic" : "plʌndʒ",
+		"definition" : "n. 钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资nvi. 投入, 投身于, 跳进, 陷入, 下降nvt. 使投入, 使插入, 使陷入, 使遭受"
+	},
+	{
+		"word" : "processor",
+		"phonetic" : "prә'sesә",
+		"definition" : "n. 信息处理机, 加工者, 处理者n[计] 处理器"
+	},
+	{
+		"word" : "demographic",
+		"phonetic" : ".demә'græfik",
+		"definition" : "a. 人口统计的n[法] 人口统计的, 人口学的"
+	},
+	{
+		"word" : "refuge",
+		"phonetic" : "'refju:dʒ",
+		"definition" : "n. 避难所, 安全地带, 避难, 庇护nvi. 躲避nvt. 给予...庇护"
+	},
+	{
+		"word" : "chill",
+		"phonetic" : "tʃil",
+		"definition" : "n. 寒冷, 寒意, 失意na. 寒冷的, 冷漠的nvt. 使寒心, 冷冻nvi. 变冷"
+	},
+	{
+		"word" : "rally",
+		"phonetic" : "'ræli",
+		"definition" : "n. 重振旗鼓, 集合, 群众集会, 跌停回升nv. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑"
+	},
+	{
+		"word" : "legislator",
+		"phonetic" : "'ledʒisleitә",
+		"definition" : "n. 立法者, 立法官, 立法委员n[法] 立法者, 立法机关成员, 立法委员"
+	},
+	{
+		"word" : "cheer",
+		"phonetic" : "tʃiә",
+		"definition" : "n. 愉快, 振奋, 欢呼nvi. 欢呼, 喝彩, 快活起来nvt. 使振奋, 欢呼"
+	},
+	{
+		"word" : "programming",
+		"phonetic" : "'prәugræmiŋ",
+		"definition" : "n. 节目的计划, 编制程序n[计] 程序设计; 程序编制"
+	},
+	{
+		"word" : "steer",
+		"phonetic" : "stiә",
+		"definition" : "vt. 引导, 驾驶, 航行, 控制nvi. 驾驶, 掌舵, 行驶nn. 驾驶指示, 劝告"
+	},
+	{
+		"word" : "outlet",
+		"phonetic" : "'autlet",
+		"definition" : "n. 出口, 发泄方法, 市场n[医] 出口"
+	},
+	{
+		"word" : "vendor",
+		"phonetic" : "'vendә",
+		"definition" : "n. 小贩, 卖主, 自动售货机n[计] 计算机销售商"
+	},
+	{
+		"word" : "intact",
+		"phonetic" : "in'tækt",
+		"definition" : "a. 尚未被人碰过的, 原封不动的, 完整的n[医] 完整的, 无伤的"
+	},
+	{
+		"word" : "peanut",
+		"phonetic" : "'pi:nʌt",
+		"definition" : "n. 花生, 小人物, 极小的数额na. 渺小的, 微不足道的"
+	},
+	{
+		"word" : "thrive",
+		"phonetic" : "θraiv",
+		"definition" : "vi. 繁荣, 兴旺, 茁壮成长n[经] 兴旺, 繁荣, 旺盛"
+	},
+	{
+		"word" : "fucking",
+		"phonetic" : "'fʌkiŋ",
+		"definition" : "a. 该死的, 难完成的, 难做的, 低劣的, 讨厌的, 丑恶的, 混乱的, 乱糟糟的"
+	},
+	{
+		"word" : "elaborate",
+		"phonetic" : "i'læbәreit",
+		"definition" : "a. 精细的, 详尽的, 精心计划(或制作)的nvt. 详细地说明, 用心地制作, 发挥nvi. 变复杂, 作详细说明"
+	},
+	{
+		"word" : "chew",
+		"phonetic" : "tʃu:",
+		"definition" : "vt. 咀嚼, 嚼碎nvi. 咀嚼, 细想nn. 咀嚼, 咀嚼物"
+	},
+	{
+		"word" : "auction",
+		"phonetic" : "'ɒ:kʃәn",
+		"definition" : "n. 拍卖nvt. 拍卖"
+	},
+	{
+		"word" : "steak",
+		"phonetic" : "steik",
+		"definition" : "n. 牛排, 鱼排, 肉排"
+	},
+	{
+		"word" : "shareholder",
+		"phonetic" : "'ʃєә.hәuldә",
+		"definition" : "n. 股东n[法] 股东, 股票持有人"
+	},
+	{
+		"word" : "conception",
+		"phonetic" : "kɒn'sepʃәn",
+		"definition" : "n. 观念, 概念n[医] 妊娠, 受孕; 概念"
+	},
+	{
+		"word" : "comply",
+		"phonetic" : "kәm'plai",
+		"definition" : "vi. 顺从, 依从n[法] 遵守, 承诺, 照做"
+	},
+	{
+		"word" : "triumph",
+		"phonetic" : "'traiәmf",
+		"definition" : "n. 凯旋, 胜利, 欢欣nvi. 得胜, 成功"
+	},
+	{
+		"word" : "comparable",
+		"phonetic" : "'kɒmpәrәbl",
+		"definition" : "a. 可比较的, 比得上的"
+	},
+	{
+		"word" : "transport",
+		"phonetic" : "træns'pɒ:t",
+		"definition" : "n. 运输, 运输工具, 激动, 狂喜, 流放犯nvt. 传送, 运输, 流放n[计] 传送"
+	},
+	{
+		"word" : "conscience",
+		"phonetic" : "'kɒnʃәns",
+		"definition" : "n. 良心n[法] 良心, 道德感, 正义感"
+	},
+	{
+		"word" : "calculation",
+		"phonetic" : ".kælkju'leiʃәn",
+		"definition" : "n. 计算, 考虑, 计算的结果n[经] 计算"
+	},
+	{
+		"word" : "constraint",
+		"phonetic" : "kәn'streint",
+		"definition" : "n. 强制, 约束n[计] 约束"
+	},
+	{
+		"word" : "scratch",
+		"phonetic" : "skrætʃ",
+		"definition" : "n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线nvt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉nvi. 搔, 抓, 发刮擦声, 勉强糊口na. 碰巧的, 凑合的, 打草稿用的n[计] 擦除"
+	},
+	{
+		"word" : "considerably",
+		"phonetic" : "kәn'sidәrәbli",
+		"definition" : "adv. 非常地, 很, 颇"
+	},
+	{
+		"word" : "interval",
+		"phonetic" : "'intәvәl",
+		"definition" : "n. 间隔, 距离, 间歇, 间隙n[计] 时间间隔"
+	},
+	{
+		"word" : "awake",
+		"phonetic" : "ә'weik",
+		"definition" : "a. 醒着的nvt. 唤醒, 唤起, 使意识到nvi. 醒来, 被唤起, 意识到"
+	},
+	{
+		"word" : "commerce",
+		"phonetic" : "'kɒmә:s",
+		"definition" : "n. 商业, 商务, 贸易n[经] 商业, 贸易, 商务"
+	},
+	{
+		"word" : "feminist",
+		"phonetic" : "'feminist",
+		"definition" : "n. 男女平等主义者"
+	},
+	{
+		"word" : "inevitably",
+		"phonetic" : "in'evitәbli",
+		"definition" : "adv. 不可避免地"
+	},
+	{
+		"word" : "emotionally",
+		"phonetic" : "i'mәuʃәnәli",
+		"definition" : "adv. 在情绪上"
+	},
+	{
+		"word" : "jurisdiction",
+		"phonetic" : ".dʒuәris'dikʃәn",
+		"definition" : "n. 司法权, 审判权, 管辖权n[经] 法律管辖权, 审判权"
+	},
+	{
+		"word" : "expedition",
+		"phonetic" : ".ekspi'diʃәn",
+		"definition" : "n. 远征, 探险队, 迅速"
+	},
+	{
+		"word" : "similarity",
+		"phonetic" : ".simi'læriti",
+		"definition" : "n. 类似, 类似处n[法] 类似, 相似, 类似事例"
+	},
+	{
+		"word" : "allegedly",
+		"phonetic" : "ә'ledʒidli",
+		"definition" : "adv. 依其申述"
+	},
+	{
+		"word" : "butt",
+		"phonetic" : "bʌt",
+		"definition" : "n. 粗大的一头, 烟头, 靶, 笑柄n[医] 对核"
+	},
+	{
+		"word" : "lid",
+		"phonetic" : "lid",
+		"definition" : "n. 盖子, 限制, 眼睑nvt. 给...盖盖子"
+	},
+	{
+		"word" : "dumb",
+		"phonetic" : "dʌm",
+		"definition" : "a. 哑的, 不说话的, 无声音的n[医] 哑的"
+	},
+	{
+		"word" : "bulk",
+		"phonetic" : "bʌlk",
+		"definition" : "n. 大小, 体积, 大块, 大多数nvt. 显得大, 显得重要"
+	},
+	{
+		"word" : "philosophical",
+		"phonetic" : ".filә'sɒfikl",
+		"definition" : "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的"
+	},
+	{
+		"word" : "mortality",
+		"phonetic" : "mɒ:'tælәti",
+		"definition" : "n. 必死的命运, 死亡数目, 死亡率n[医] 必死性, 死亡率"
+	},
+	{
+		"word" : "sprinkle",
+		"phonetic" : "'spriŋkl",
+		"definition" : "vt. 洒, 散置, 撒, 点缀nvi. 洒, 撒, 下小雨nn. 洒, 撒, 散置, 小雨, 少量"
+	},
+	{
+		"word" : "conversion",
+		"phonetic" : "kәn'vә:ʃәn",
+		"definition" : "n. 转变, 转换, 改变宗教信仰, 换位法n[计] 转换"
+	},
+	{
+		"word" : "patron",
+		"phonetic" : "'peitrәn",
+		"definition" : "n. 赞助人, 顾客, 保护人n[法] 保护人, 庇护人, 赞助人"
+	},
+	{
+		"word" : "municipal",
+		"phonetic" : "mju:'nisipl",
+		"definition" : "a. 市政的, 自治区的, 内政的n[经] 市政的, 市的"
+	},
+	{
+		"word" : "liver",
+		"phonetic" : "'livә",
+		"definition" : "n. 肝脏, 生活者, 居民n[医] 肝"
+	},
+	{
+		"word" : "harmony",
+		"phonetic" : "'hɑ:mәni",
+		"definition" : "n. 协调, 和睦, 调和n[电] 和声学"
+	},
+	{
+		"word" : "tolerance",
+		"phonetic" : "'tɒlәrәns",
+		"definition" : "n. 宽容, 忍受, 容忍, 容许量, 公差n[计] 允许误差"
+	},
+	{
+		"word" : "solely",
+		"phonetic" : "'sәulli",
+		"definition" : "adv. 仅仅, 单独地"
+	},
+	{
+		"word" : "blessing",
+		"phonetic" : "'blesiŋ",
+		"definition" : "n. 祝福"
+	},
+	{
+		"word" : "goat",
+		"phonetic" : "gәut",
+		"definition" : "n. 山羊, 替罪羊, 色鬼"
+	},
+	{
+		"word" : "banana",
+		"phonetic" : "bә'nɑ:nә",
+		"definition" : "n. 香蕉"
+	},
+	{
+		"word" : "palace",
+		"phonetic" : "'pælis",
+		"definition" : "n. 宫, 宫殿, 华丽大厦"
+	},
+	{
+		"word" : "grandparent",
+		"phonetic" : "'grændperәnt",
+		"definition" : "n. 祖父母"
+	},
+	{
+		"word" : "peasant",
+		"phonetic" : "'peznt",
+		"definition" : "n. 农夫, 乡下人"
+	},
+	{
+		"word" : "cruise",
+		"phonetic" : "kru:z",
+		"definition" : "n. 巡航, 巡弋, 漫游nv. 巡航, 巡弋, 漫游"
+	},
+	{
+		"word" : "supermarket",
+		"phonetic" : "'sju:pәmɑ:kit",
+		"definition" : "n. 超级市场n[经] 超级市场, 自助售货商店"
+	},
+	{
+		"word" : "neat",
+		"phonetic" : "ni:t",
+		"definition" : "a. 整洁的, 巧妙的, 匀称的, 简洁的nn. 牛"
+	},
+	{
+		"word" : "formerly",
+		"phonetic" : "'fɒ:mәli",
+		"definition" : "adv. 从前, 以前"
+	},
+	{
+		"word" : "lawmaker",
+		"phonetic" : "lɒ:'meikә",
+		"definition" : "n. 立法者"
+	},
+	{
+		"word" : "mobile",
+		"phonetic" : "'mәubil",
+		"definition" : "a. 移动的, 易变的, 机动的nn. 活动物体"
+	},
+	{
+		"word" : "calendar",
+		"phonetic" : "'kælindә",
+		"definition" : "n. 日历, 日程表nvt. 列入表中n[计] 日历"
+	},
+	{
+		"word" : "beard",
+		"phonetic" : "biәd",
+		"definition" : "n. 胡须nvt. 抓住胡须, 公开反对"
+	},
+	{
+		"word" : "widow",
+		"phonetic" : "'widәu",
+		"definition" : "n. 寡妇, 孀妇nvt. 使成寡妇"
+	},
+	{
+		"word" : "deposit",
+		"phonetic" : "di'pɒzit",
+		"definition" : "n. 存款, 定金, 堆积物nvt. 存放, 堆积nvi. 沉淀"
+	},
+	{
+		"word" : "brake",
+		"phonetic" : "breik",
+		"definition" : "n. 刹车, 阻碍, 丛林nv. 刹车"
+	},
+	{
+		"word" : "screening",
+		"phonetic" : "'skri:niŋ",
+		"definition" : "[医] 筛选, 筛分(如普查癌、结核等病), 萤光屏检查"
+	},
+	{
+		"word" : "impulse",
+		"phonetic" : "'impʌls",
+		"definition" : "n. 冲动, 驱使, 刺激, 推动, 冲力, 建议, 脉冲nvt. 推动"
+	},
+	{
+		"word" : "brutal",
+		"phonetic" : "'bru:tәl",
+		"definition" : "a. 残忍的, 野蛮的, 不讲理的"
+	},
+	{
+		"word" : "forbid",
+		"phonetic" : "fә'bid",
+		"definition" : "vt. 禁止, 不准, 妨碍n[法] 不许, 禁止, 阻止"
+	},
+	{
+		"word" : "predator",
+		"phonetic" : "'predәtә",
+		"definition" : "n. 食肉动物, 掠夺者n[医] 捕食者"
+	},
+	{
+		"word" : "fur",
+		"phonetic" : "fә:",
+		"definition" : "n. 毛皮nvt. 以毛皮制作, 使生苔, 使生水垢nvi. 生苔, 积水垢"
+	},
+	{
+		"word" : "voluntary",
+		"phonetic" : "'vɒlәntәri",
+		"definition" : "a. 自动的, 自愿的, 故意的, 志愿的, 自发的nn. 自愿行动, 志愿者, 自由调"
+	},
+	{
+		"word" : "poke",
+		"phonetic" : "pәuk",
+		"definition" : "n. 刺, 戳, 袋子nvt. 戳, 捅, 拨弄, 刺nvi. 戳, 刺, 捅, 搜索, 伸出, 行动散慢n[计] 存数"
+	},
+	{
+		"word" : "valid",
+		"phonetic" : "'vælid",
+		"definition" : "a. 有确实根据的, 有法律效力的, 正当的, 正确的n[经] 有效的"
+	},
+	{
+		"word" : "opt",
+		"phonetic" : "ɒpt",
+		"definition" : "vi. 选择"
+	},
+	{
+		"word" : "forum",
+		"phonetic" : "'fɒ:rәm",
+		"definition" : "n. 论坛, 公开讨论的广场, 法庭, 讨论会n[法] 讨论会, 专题讨论, 公共论坛"
+	},
+	{
+		"word" : "soar",
+		"phonetic" : "sɒ:",
+		"definition" : "n. 高扬, 翱翔nvi. 往上飞舞, 高耸, 翱翔"
+	},
+	{
+		"word" : "happily",
+		"phonetic" : "'hæpili",
+		"definition" : "adv. 幸福地, 快乐地, 幸好"
+	},
+	{
+		"word" : "dancing",
+		"phonetic" : "'dænsiŋ",
+		"definition" : "n. 舞蹈n[建] 跳动的"
+	},
+	{
+		"word" : "enact",
+		"phonetic" : "i'nækt",
+		"definition" : "vt. 制定法律, 扮演, 颁布n[法] 法令, 法规, 条例"
+	},
+	{
+		"word" : "removal",
+		"phonetic" : "ri'mu:vl",
+		"definition" : "n. 移动, 移居, 迁移, 排除, 切除n[医] 切除, 除去"
+	},
+	{
+		"word" : "autonomy",
+		"phonetic" : "ɒ:'tɒnәmi",
+		"definition" : "n. 自治, 自治权n[医] 自主性"
+	},
+	{
+		"word" : "thread",
+		"phonetic" : "θred",
+		"definition" : "n. 线, 丝, 纤维, 线索nvt. 穿线于, 穿过, 通过, 用线穿成nvi. 穿过n[计] 线索, 线程"
+	},
+	{
+		"word" : "landmark",
+		"phonetic" : "'lændmɑ:k",
+		"definition" : "n. 陆标, 划时代的事, 地界标n[医] 界标"
+	},
+	{
+		"word" : "unhappy",
+		"phonetic" : ".ʌn'hæpi",
+		"definition" : "a. 不快乐的, 不幸的, 不适当的"
+	},
+	{
+		"word" : "privately",
+		"phonetic" : "",
+		"definition" : "adv. 秘密地；私下地"
+	},
+	{
+		"word" : "fraction",
+		"phonetic" : "'frækʃәn",
+		"definition" : "n. 小部分, 破片, 分数n[医] 部分, 成分, 分散"
+	},
+	{
+		"word" : "coming",
+		"phonetic" : "'kʌmiŋ",
+		"definition" : "n. 来临na. 就要来的, 接着的"
+	},
+	{
+		"word" : "tourism",
+		"phonetic" : "'tuәrizm",
+		"definition" : "n. 观光业, 游览n[经] 旅游业"
+	},
+	{
+		"word" : "offender",
+		"phonetic" : "ә'fendә",
+		"definition" : "n. 罪犯, 无礼的人, 得罪人的人"
+	},
+	{
+		"word" : "distinctive",
+		"phonetic" : "di'stiŋktiv",
+		"definition" : "a. 有特色的, 出众的"
+	},
+	{
+		"word" : "threshold",
+		"phonetic" : "'θreʃәuld",
+		"definition" : "n. 门槛, 入口, 开端, 阈n[计] 阈; 阈值"
+	},
+	{
+		"word" : "suite",
+		"phonetic" : "swi:t",
+		"definition" : "n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事n[电] 程序组"
+	},
+	{
+		"word" : "routinely",
+		"phonetic" : "",
+		"definition" : "adv. 日常, 乏味, 常规, 例行"
+	},
+	{
+		"word" : "regulator",
+		"phonetic" : "'regjuleitә",
+		"definition" : "n. 调整者, 校准者, 校准器, 调整器, 标准钟n[化] 调节剂; 调节器"
+	},
+	{
+		"word" : "straw",
+		"phonetic" : "strɒ:",
+		"definition" : "n. 稻草, 麦管, 吸管, 一文不值的东西, 草帽na. 稻草的, 稻草色的, 琐碎的, 无价值的"
+	},
+	{
+		"word" : "theological",
+		"phonetic" : "θiә'lɔdʒikәl",
+		"definition" : "a. 神学上的"
+	},
+	{
+		"word" : "fragile",
+		"phonetic" : "'frædʒail",
+		"definition" : "a. 易碎的, 脆的n[医] 脆弱的, 脆的"
+	},
+	{
+		"word" : "exhaust",
+		"phonetic" : "ig'zɒ:st",
+		"definition" : "n. 排气, 排气装置, 废气nvt. 抽完, 用尽, 耗尽, 使精疲力尽nvi. 排气"
+	},
+	{
+		"word" : "globe",
+		"phonetic" : "glәub",
+		"definition" : "n. 球, 球状物, 地球仪, 天体nv. (使)成球状"
+	},
+	{
+		"word" : "chemistry",
+		"phonetic" : "'kemistri",
+		"definition" : "n. 化学, 化学过程n[化] 化学"
+	},
+	{
+		"word" : "objection",
+		"phonetic" : "әb'dʒekʃәn",
+		"definition" : "n. 异议, 反对, 不喜欢, 缺点, 缺陷, 妨碍, 拒绝之理由n[法] 异议, 反对, 抗议"
+	},
+	{
+		"word" : "crowded",
+		"phonetic" : "'kraudid",
+		"definition" : "a. 拥挤的, 塞满的"
+	},
+	{
+		"word" : "blast",
+		"phonetic" : "blæst",
+		"definition" : "n. 一阵风, 爆炸, 枯萎病nvt. 炸, 使枯萎nvi. 炸, 猛攻, 猛烈抨击, 枯萎"
+	},
+	{
+		"word" : "prevail",
+		"phonetic" : "pri'veil",
+		"definition" : "vi. 获胜, 流行, 盛行n[医] 流行, 盛行"
+	},
+	{
+		"word" : "overnight",
+		"phonetic" : "'әuvәnait",
+		"definition" : "n. 前一天晚上, 一夜的逗留na. 通宵的, 晚上的, 前夜的nadv. 在前一夜, 整夜, 昨晚一晚上"
+	},
+	{
+		"word" : "denial",
+		"phonetic" : "di'naiәl",
+		"definition" : "n. 否认n[法] 否定, 否认, 拒绝接受"
+	},
+	{
+		"word" : "fragment",
+		"phonetic" : "'frægmәnt",
+		"definition" : "n. 碎片, 破片, 片段n[计] 段落; 片段; 分段"
+	},
+	{
+		"word" : "headache",
+		"phonetic" : "'hedeik",
+		"definition" : "n. 头痛, 令人头痛之事n[医] 头痛"
+	},
+	{
+		"word" : "rental",
+		"phonetic" : "'rentl",
+		"definition" : "n. 租费, 租金收入na. 租赁的, 收取租金的"
+	},
+	{
+		"word" : "fantastic",
+		"phonetic" : "fæn'tæstik",
+		"definition" : "a. 奇妙的, 稀奇的, 空想的"
+	},
+	{
+		"word" : "warmth",
+		"phonetic" : "wɒ:mθ",
+		"definition" : "n. 温暖, 温情, 暖和, 激动, 生气"
+	},
+	{
+		"word" : "screw",
+		"phonetic" : "skru:",
+		"definition" : "n. 螺旋, 螺杆, 螺钉, 螺旋桨, 吝啬鬼nvt. 调节, 扭紧, 旋, 拧, 加强, 压榨, 勒索nvi. 转动, 旋, 拧"
+	},
+	{
+		"word" : "undergraduate",
+		"phonetic" : ".ʌndә'grædjuit",
+		"definition" : "n. 大学本科生, 大学肄业生na. 大学生的"
+	},
+	{
+		"word" : "policeman",
+		"phonetic" : "pә'li:smәn",
+		"definition" : "n. 警察n[化] 淀帚"
+	},
+	{
+		"word" : "projection",
+		"phonetic" : "prә'dʒekʃәn",
+		"definition" : "n. 发射, 计划, 突出部分, 设计, 推测n[计] 投影"
+	},
+	{
+		"word" : "suitable",
+		"phonetic" : "'sju:tәbl",
+		"definition" : "a. 适当的, 相配的n[法] 合适的, 适宜的, 适当的"
+	},
+	{
+		"word" : "graduation",
+		"phonetic" : ".grædʒu'eiʃәn",
+		"definition" : "n. 毕业, 得学位, 分划, 刻度, 分等级n[医] 刻度, 分度, 毕业"
+	},
+	{
+		"word" : "drill",
+		"phonetic" : "dril",
+		"definition" : "n. 钻孔机, 钻子, 播种机, 粗斜纹布nv. 训练, 钻孔"
+	},
+	{
+		"word" : "mansion",
+		"phonetic" : "'mænʃәn",
+		"definition" : "n. 大厦, 宅邸"
+	},
+	{
+		"word" : "cruel",
+		"phonetic" : "'kru:әl",
+		"definition" : "a. 残酷的, 令人极痛苦的n[法] 残忍的, 残酷的"
+	},
+	{
+		"word" : "sexuality",
+		"phonetic" : ".sekʃu'æliti",
+		"definition" : "n. 性征, 性行为, 性欲n[医] 性别, 性欲"
+	},
+	{
+		"word" : "grape",
+		"phonetic" : "greip",
+		"definition" : "n. 葡萄, 葡萄树n[医] 葡萄"
+	},
+	{
+		"word" : "cottage",
+		"phonetic" : "'kɒtidʒ",
+		"definition" : "n. 小屋, 茅舍"
+	},
+	{
+		"word" : "authorize",
+		"phonetic" : "'ɒ:θәraiz",
+		"definition" : "vt. 授权, 批准, 委托n[经] 授权, 委任, 认可"
+	},
+	{
+		"word" : "canyon",
+		"phonetic" : "'kænjәn",
+		"definition" : "n. 峡谷, 海底悬崖"
+	},
+	{
+		"word" : "charm",
+		"phonetic" : "tʃɑ:m",
+		"definition" : "n. 吸引力, 魔力, 符咒nvt. 迷住, 使陶醉, 行魔法nvi. 用符咒, 有魅力"
+	},
+	{
+		"word" : "driveway",
+		"phonetic" : "'draivwei",
+		"definition" : "n. 车道"
+	},
+	{
+		"word" : "loyal",
+		"phonetic" : "'lɒiәl",
+		"definition" : "a. 忠诚的, 忠实的, 忠贞的"
+	},
+	{
+		"word" : "clay",
+		"phonetic" : "klei",
+		"definition" : "n. 泥土, 肉体, 黏土n[化] 粘土"
+	},
+	{
+		"word" : "invention",
+		"phonetic" : "in'venʃәn",
+		"definition" : "n. 发明, 创作能力, 虚构的故事n[经] 发明"
+	},
+	{
+		"word" : "balloon",
+		"phonetic" : "bә'lu:n",
+		"definition" : "n. 气球nvt. 使成气球状nvi. 膨胀如气球, 激增"
+	},
+	{
+		"word" : "ego",
+		"phonetic" : "'egәu. 'i:gәu",
+		"definition" : "n. 自我n[医] 自我"
+	},
+	{
+		"word" : "fare",
+		"phonetic" : "fєә",
+		"definition" : "n. 费用, 旅客, 食物nvi. 进展, 进步, 经营, 过活"
+	},
+	{
+		"word" : "availability",
+		"phonetic" : "ә.veilә'biliti",
+		"definition" : "n. 有效性, 可利用性, 可利用的人n[计] 有效性; 可用性"
+	},
+	{
+		"word" : "homework",
+		"phonetic" : "'hәumwә:k",
+		"definition" : "n. 家庭作业, 家里做的工作n[经] 家庭作业"
+	},
+	{
+		"word" : "disc",
+		"phonetic" : "disk",
+		"definition" : "n. 圆盘, 唱片nvt. 灌唱片"
+	},
+	{
+		"word" : "radar",
+		"phonetic" : "'reidә",
+		"definition" : "n. 雷达, 无线电探测器n[计] 雷达图"
+	},
+	{
+		"word" : "prince",
+		"phonetic" : "prins",
+		"definition" : "n. 王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物"
+	},
+	{
+		"word" : "sofa",
+		"phonetic" : "'sәufә",
+		"definition" : "n. 沙发"
+	},
+	{
+		"word" : "regain",
+		"phonetic" : "ri'gein",
+		"definition" : "vt. 取回, 恢复, 重回, 复得n[化] 回潮"
+	},
+	{
+		"word" : "frown",
+		"phonetic" : "fraun",
+		"definition" : "n. 皱眉nvi. 皱眉头nvt. 皱眉表示"
+	},
+	{
+		"word" : "molecule",
+		"phonetic" : "'mɒlikju:l",
+		"definition" : "n. 分子, 些微n[化] 分子"
+	},
+	{
+		"word" : "retreat",
+		"phonetic" : "ri'tri:t",
+		"definition" : "n. 休息寓所, 撤退, 隐居, 退避nvi. 撤退, 隐退, 向后倾nvt. 退(棋)"
+	},
+	{
+		"word" : "sweater",
+		"phonetic" : "'swetә",
+		"definition" : "n. 毛衣, 毛线衫, 运动衫, 出汗者n[化] 发汗器"
+	},
+	{
+		"word" : "favorable",
+		"phonetic" : "'feivәrәbl",
+		"definition" : "a. 有利的, 赞许的, 良好的"
+	},
+	{
+		"word" : "rubber",
+		"phonetic" : "'rʌbә",
+		"definition" : "n. 橡皮, 橡胶, 做摩擦动作的人, 按摩师, 决胜盘nvt. 用橡胶制造, 涂橡胶于"
+	},
+	{
+		"word" : "freely",
+		"phonetic" : "'fri:li",
+		"definition" : "adv. 自由地, 随意地, 无拘束地, 直率地, 坦白地, 慷慨地, 免费地, 大量地n[计] 浮动地"
+	},
+	{
+		"word" : "rehabilitation",
+		"phonetic" : "'ri:(h)ә,bili'teiʃәn",
+		"definition" : "n. 复原n[医] 复原, 恢复, 康复"
+	},
+	{
+		"word" : "steadily",
+		"phonetic" : "'stedili",
+		"definition" : "adv. 稳定地, 无变化地, 有规则地"
+	},
+	{
+		"word" : "youngster",
+		"phonetic" : "'jʌŋstә",
+		"definition" : "n. 小孩, 年轻人, 少年n[法] 儿童, 少年, 青年"
+	},
+	{
+		"word" : "ha",
+		"phonetic" : "hɑ:",
+		"definition" : "interj. 嘿, 哈, 哈哈"
+	},
+	{
+		"word" : "accountability",
+		"phonetic" : "ә.kauntә'biliti",
+		"definition" : "n. 负有责任, 可说明性n[化] 衡算计量"
+	},
+	{
+		"word" : "integrated",
+		"phonetic" : "'intәgreitid",
+		"definition" : "a. 综合的, 完整的, 互相协调的n[法] 成为整体的, 综合的, 统筹的"
+	},
+	{
+		"word" : "premium",
+		"phonetic" : "'pri:miәm",
+		"definition" : "n. 额外补贴, 奖金, 奖赏, 保险费n[医] 保险费"
+	},
+	{
+		"word" : "contemplate",
+		"phonetic" : "'kɒntempleit",
+		"definition" : "vt. 注视, 沉思, 盘算nvi. 冥思苦想"
+	},
+	{
+		"word" : "update",
+		"phonetic" : "ʌp'deit",
+		"definition" : "vt. 更新, 使现代化nn. 更新n[计] 更新"
+	},
+	{
+		"word" : "overwhelm",
+		"phonetic" : ".әuvә'hwelm",
+		"definition" : "vt. 淹没, 受打击, 制服, 压倒, 使不知所措n[法] 打翻, 倾覆, 覆盖"
+	},
+	{
+		"word" : "spark",
+		"phonetic" : "spɑ:k",
+		"definition" : "n. 火花, 火星, 闪光, 无线电报务员, 瞬间放电, 活力, 朝气, 花花公子, 情郎nvi. 闪光, 发火花, 求婚nvt. 发动, 鼓舞, 使有朝气, 求婚"
+	},
+	{
+		"word" : "fatigue",
+		"phonetic" : "fә'ti:g",
+		"definition" : "n. 疲乏, 疲劳nvt. 使疲劳, 使心智衰弱nvi. 疲劳na. 疲劳的"
+	},
+	{
+		"word" : "ironically",
+		"phonetic" : "",
+		"definition" : "adv. 冷嘲地, 挖苦地, 讽刺地, 令人啼笑皆非地"
+	},
+	{
+		"word" : "speculate",
+		"phonetic" : "'spekjuleit",
+		"definition" : "vi. 深思, 推测, 投机n[经] 投机"
+	},
+	{
+		"word" : "marker",
+		"phonetic" : "'mɑ:kә",
+		"definition" : "n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记n[计] 标记"
+	},
+	{
+		"word" : "bucket",
+		"phonetic" : "'bʌkit",
+		"definition" : "n. 桶n[计] 存储桶; 桶"
+	},
+	{
+		"word" : "meantime",
+		"phonetic" : "'mi:ntaim",
+		"definition" : "n. 间隔时间, 其时nadv. 其间"
+	},
+	{
+		"word" : "preach",
+		"phonetic" : "pri:tʃ",
+		"definition" : "v. 传道, 讲道, 说教, 宣讲, 鼓吹nn. 说教, 布道"
+	},
+	{
+		"word" : "substantially",
+		"phonetic" : "sәb'stænʃәli",
+		"definition" : "adv. 实质上, 本质上, 大体上"
+	},
+	{
+		"word" : "blond",
+		"phonetic" : "blɒnd",
+		"definition" : "a. 金发的nn. 白肤碧眼金发的人"
+	},
+	{
+		"word" : "confession",
+		"phonetic" : "kәn'feʃәn",
+		"definition" : "n. 承认, 坦白, 招供n[法] 自白, 招供, 自认有罪"
+	},
+	{
+		"word" : "marble",
+		"phonetic" : "'mɑ:bl",
+		"definition" : "n. 大理石, 石弹, 雕刻品na. 大理石的, 冷酷无情的, 有大理石花纹的"
+	},
+	{
+		"word" : "defender",
+		"phonetic" : "di'fendә",
+		"definition" : "n. 防卫者, 防护者, 辩护者n[法] 辩护人, 保护人"
+	},
+	{
+		"word" : "provoke",
+		"phonetic" : "prә'vәuk",
+		"definition" : "vt. 激怒, 惹起, 诱导n[法] 刺激, 煽动, 激怒"
+	},
+	{
+		"word" : "trauma",
+		"phonetic" : "'trɒ:mә",
+		"definition" : "n. 外伤, 损伤n[医] 创伤, 外伤"
+	},
+	{
+		"word" : "surveillance",
+		"phonetic" : "sә:'veilәns",
+		"definition" : "n. 监视, 监督n[电] 侦测"
+	},
+	{
+		"word" : "explicit",
+		"phonetic" : "ik'splisit",
+		"definition" : "a. 详述的, 清楚的, 直言的"
+	},
+	{
+		"word" : "disturbing",
+		"phonetic" : "dis'tә:biŋ",
+		"definition" : "a. 引起烦恼的, 令人不安的"
+	},
+	{
+		"word" : "depart",
+		"phonetic" : "di'pɑ:t",
+		"definition" : "vi. 离开, 出发, 背离, 违反, 去世"
+	},
+	{
+		"word" : "magnetic",
+		"phonetic" : "mæg'netik",
+		"definition" : "a. 有磁性的, 有吸引力的, 催眠术的n[医] 磁[性]的"
+	},
+	{
+		"word" : "technician",
+		"phonetic" : "tek'niʃәn",
+		"definition" : "n. 技师n[化] 技师"
+	},
+	{
+		"word" : "arrow",
+		"phonetic" : "'ærәu",
+		"definition" : "n. 箭, 箭状物, 箭头记号"
+	},
+	{
+		"word" : "neighboring",
+		"phonetic" : "'neibәriŋ",
+		"definition" : "a. 附近的, 邻近的, 邻接的"
+	},
+	{
+		"word" : "devastating",
+		"phonetic" : "'devәsteitiŋ",
+		"definition" : "a. 毁灭性的, (非正式)很好的, 引人注目的"
+	},
+	{
+		"word" : "soak",
+		"phonetic" : "sәuk",
+		"definition" : "n. 浸, 湿透, 大雨nvt. 使上下湿透, 浸, 吸入, 吸收, 浸洗掉nvi. 浸泡, 渗透"
+	},
+	{
+		"word" : "transmit",
+		"phonetic" : "træns'mit",
+		"definition" : "vt. 传输, 传染, 传达, 遗传, 发射, 传播nvi. 发射信号, 留传下来n[计] 传送"
+	},
+	{
+		"word" : "mutter",
+		"phonetic" : "'mʌtә",
+		"definition" : "n. 喃喃低语nvi. 喃喃自语, 作低沉声nvt. 出怨言, 抱怨地说"
+	},
+	{
+		"word" : "ribbon",
+		"phonetic" : "'ribәn",
+		"definition" : "n. 缎带, 色带, 带状物nvt. 用丝带装饰, 把...撕成条状nvi. 形成带状n[计] 带状条, 格式栏"
+	},
+	{
+		"word" : "harvest",
+		"phonetic" : "'hɑ:vist",
+		"definition" : "n. 收获, 成果, 收获物, 收获期nv. 收割, 收获"
+	},
+	{
+		"word" : "slot",
+		"phonetic" : "slɒt",
+		"definition" : "n. 水沟, 细长孔, 硬币投币口, 缝, 狭槽, 狭通道, 位置, 一档(广播节目等)nvt. 开槽于, 把...纳入机构n[计] 槽; 存储槽"
+	},
+	{
+		"word" : "consecutive",
+		"phonetic" : "kәn'sekjutiv",
+		"definition" : "a. 连续的, 联贯的n[计] 连续的; 连接的"
+	},
+	{
+		"word" : "spy",
+		"phonetic" : "spai",
+		"definition" : "n. 间谍, 侦探, 侦察nvt. 侦察, 找出, 发现nvi. 做密探, 侦查"
+	},
+	{
+		"word" : "coordinate",
+		"phonetic" : "kәu'ɒ:dineit",
+		"definition" : "n. 同等的人(或物), 坐标na. 同等的, 并列的nv. (使)协调"
+	},
+	{
+		"word" : "daddy",
+		"phonetic" : "'dædi",
+		"definition" : "n. 爸爸"
+	},
+	{
+		"word" : "riot",
+		"phonetic" : "'raiәt",
+		"definition" : "n. 暴动, 喧闹, 放纵nvi. 发动, 暴动, 纵情, 放荡nvt. 浪费, 挥霍"
+	},
+	{
+		"word" : "nutrient",
+		"phonetic" : "'nju:triәnt",
+		"definition" : "a. 营养的, 滋养的nn. 营养物, 滋养物"
+	},
+	{
+		"word" : "severely",
+		"phonetic" : "si'viәli",
+		"definition" : "adv. 严格, 尖锐, 严肃, 严重, 严厉, 朴素"
+	},
+	{
+		"word" : "citizenship",
+		"phonetic" : "'sitizәnʃip",
+		"definition" : "n. 国籍, 市民权, 市民的身份n[法] 公民权, 公民资格, 公民身分"
+	},
+	{
+		"word" : "sovereignty",
+		"phonetic" : "'sɒvrәnti",
+		"definition" : "n. 主权, 独立国n[法] 主权, 主权国家, 统治权"
+	},
+	{
+		"word" : "ridge",
+		"phonetic" : "ridʒ",
+		"definition" : "n. 脊, 山脊, 山脉n[医] 嵴, 脊, 棱线"
+	},
+	{
+		"word" : "brave",
+		"phonetic" : "breiv",
+		"definition" : "a. 勇敢的, 美好的, 华丽的nn. 勇敢者nvt. 勇敢地面对"
+	},
+	{
+		"word" : "lighting",
+		"phonetic" : "'laitiŋ",
+		"definition" : "n. 照明, 照明设备, 舞台灯光"
+	},
+	{
+		"word" : "frustrate",
+		"phonetic" : "'frʌstreit",
+		"definition" : "vt. 挫败, 击败, 破坏na. 无益的, 挫败的, 挫折的"
+	},
+	{
+		"word" : "contributor",
+		"phonetic" : "kәn'tribjutә",
+		"definition" : "n. 贡献者, 捐助者, 赠送者, 投稿者n[法] 捐助人, 捐赠人, 投搞人"
+	},
+	{
+		"word" : "importantly",
+		"phonetic" : "",
+		"definition" : "adv. 重要地；大量地；有名望地；自命不凡地"
+	},
+	{
+		"word" : "transit",
+		"phonetic" : "'trænsit",
+		"definition" : "n. 经过, 通行, 运输, 运输线, 转变nvt. 运送, 使通过, 经过nvi. 通过"
+	},
+	{
+		"word" : "specify",
+		"phonetic" : "'spesifai",
+		"definition" : "vt. 详列, 指定, 说明n[计] 指定"
+	},
+	{
+		"word" : "unidentified",
+		"phonetic" : ".ʌnai'dentifaid",
+		"definition" : "a. 未被认出的, 未经确认的"
+	},
+	{
+		"word" : "seminar",
+		"phonetic" : "'seminɑ:",
+		"definition" : "n. 研究班, 专题讨论会n[经] 讨论会, 专家讨论会"
+	},
+	{
+		"word" : "electronics",
+		"phonetic" : ".ilek'trɒniks",
+		"definition" : "n. 电子学n[计] 电子学"
+	},
+	{
+		"word" : "dense",
+		"phonetic" : "dens",
+		"definition" : "a. 密集的, 浓厚的"
+	},
+	{
+		"word" : "articulate",
+		"phonetic" : "ɑ:'tikjulit",
+		"definition" : "a. 发音清晰的, 口才好的nvt. 明白地说, 以关节连接, 使成为系统的整体"
+	},
+	{
+		"word" : "sunny",
+		"phonetic" : "'sʌni",
+		"definition" : "a. 阳光充足的, 乐观的, 快乐的, 像太阳的"
+	},
+	{
+		"word" : "swell",
+		"phonetic" : "swel",
+		"definition" : "n. 增大, 隆起的部分, 巨浪, 肿胀na. 优秀的, 一流的nvi. 增大, 膨胀, 肿胀, 增强, 骄傲nvt. 使膨胀, 使增大, 使上涨, 使骄傲"
+	},
+	{
+		"word" : "shorts",
+		"phonetic" : "ʃɔ:ts",
+		"definition" : "n. 短裤, (美)男人的短衬裤n[经] 空头户, 空头, 短期债券"
+	},
+	{
+		"word" : "soften",
+		"phonetic" : "'sɒftn",
+		"definition" : "v. (使)变柔软, (使)变柔和"
+	},
+	{
+		"word" : "accusation",
+		"phonetic" : "ækju:'zeiʃәn",
+		"definition" : "n. 控告, 指控, 指责n[法] 控告, 起诉, 告发"
+	},
+	{
+		"word" : "bride",
+		"phonetic" : "braid",
+		"definition" : "n. 新娘"
+	},
+	{
+		"word" : "terribly",
+		"phonetic" : "'terәbli",
+		"definition" : "adv. 可怕地, 甚为, 非常"
+	},
+	{
+		"word" : "cue",
+		"phonetic" : "kju:",
+		"definition" : "n. 提示, 线索nvt. 给...暗示(或提示)n[计] 尾接指令"
+	},
+	{
+		"word" : "biography",
+		"phonetic" : "bai'ɒgrәfi",
+		"definition" : "n. 传记"
+	},
+	{
+		"word" : "hazard",
+		"phonetic" : "'hæzәd",
+		"definition" : "n. 冒险, 危险, 机会nvt. 冒...的危险, 赌运气, 使冒危险n[计] 相关危险; 冒险"
+	},
+	{
+		"word" : "straighten",
+		"phonetic" : "'streitn",
+		"definition" : "vt. 弄直, 整顿, 清理, 使改正nvi. 直起来, 改正, 好转"
+	},
+	{
+		"word" : "seldom",
+		"phonetic" : "'seldәm",
+		"definition" : "a. 不常的, 稀少的nadv. 很少, 不常"
+	},
+	{
+		"word" : "compelling",
+		"phonetic" : "kәm'peliŋ",
+		"definition" : "a. 强制的, 强迫性的, 激发兴趣的"
+	},
+	{
+		"word" : "tile",
+		"phonetic" : "tail",
+		"definition" : "n. 砖瓦, 瓷砖, 瓦片nvt. 铺以瓦, 铺以瓷砖n[计] 平铺"
+	},
+	{
+		"word" : "honestly",
+		"phonetic" : "'ɒnistli",
+		"definition" : "adv. 真诚地, 公正地"
+	},
+	{
+		"word" : "troubled",
+		"phonetic" : "'trʌbld",
+		"definition" : "a. 烦恼的, 混乱的, 不安的"
+	},
+	{
+		"word" : "economically",
+		"phonetic" : "i:kә'nɔmikәli",
+		"definition" : "adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上"
+	},
+	{
+		"word" : "vague",
+		"phonetic" : "veig",
+		"definition" : "a. 含糊的, 不清楚的, 茫然的"
+	},
+	{
+		"word" : "zero",
+		"phonetic" : "'ziәrәu",
+		"definition" : "n. 零, 零点, 零度, 无, 乌有, 最低点na. 零的, 没有的nvt. 调零, 对(炮火等)作协调校正n[计] 零"
+	},
+	{
+		"word" : "foreigner",
+		"phonetic" : "'fɒ:rinә",
+		"definition" : "n. 外国人, 外地人n[法] 外国人, 进口货, 外国货"
+	},
+	{
+		"word" : "balanced",
+		"phonetic" : "'bælәnst",
+		"definition" : "a. 公平的, 平衡的n[计] 平衡的, 对称的, 均衡的"
+	},
+	{
+		"word" : "twentieth",
+		"phonetic" : "'twentiiθ",
+		"definition" : "num. 第二十, 二十分之一"
+	},
+	{
+		"word" : "delight",
+		"phonetic" : "di'lait",
+		"definition" : "n. 高兴, 愉快nvt. 使高兴, 乐于nvi. 感到高兴(或愉快、快乐)"
+	},
+	{
+		"word" : "convenience",
+		"phonetic" : "kә'vi:njәns",
+		"definition" : "n. 方便, 便利的事物, 方便的时候"
+	},
+	{
+		"word" : "weave",
+		"phonetic" : "wi:v",
+		"definition" : "n. 编法, 织法, 编织式样nvt. 编织, 组合, 编排, 使迂回前进nvi. 纺织, 迂回行进"
+	},
+	{
+		"word" : "plea",
+		"phonetic" : "pli:",
+		"definition" : "n. 恳求, 辩解, 抗辩, 诉讼, 请愿, 托词n[法] 抗辩, 申诉案件, 答辩"
+	},
+	{
+		"word" : "academy",
+		"phonetic" : "ә'kædәmi",
+		"definition" : "n. 学院, 院校, 学会"
+	},
+	{
+		"word" : "sustainable",
+		"phonetic" : "sә'steinәbl",
+		"definition" : "a. 足可支撑的, 养得起的, 可以忍受的"
+	},
+	{
+		"word" : "timber",
+		"phonetic" : "'timbә",
+		"definition" : "n. 木材, 木料nvt. 用木材建造"
+	},
+	{
+		"word" : "till",
+		"phonetic" : "til",
+		"definition" : "prep. 直到, 在...以前, 迄nconj. 直到...为止nvt. 耕种nn. 放钱的抽屉, 备用现金, 冰碛"
+	},
+	{
+		"word" : "accurately",
+		"phonetic" : "'ækjurәtli",
+		"definition" : "adv. 正确地, 精确地"
+	},
+	{
+		"word" : "bolt",
+		"phonetic" : "bәult",
+		"definition" : "n. 门闩, 螺钉, 筛子, 闪电, 意外事件nvt. 闩住, 发射, 脱口而出, 筛, 囫囵吞下nvi. 囫囵吞枣, 射箭, 脱缰, 退出党派nadv. 突然"
+	},
+	{
+		"word" : "bulb",
+		"phonetic" : "bʌlb",
+		"definition" : "n. 球茎, 电灯泡n[医] 球, 鳞茎, 球茎"
+	},
+	{
+		"word" : "flying",
+		"phonetic" : "'flaiiŋ",
+		"definition" : "a. 飞的, 飘扬的, 飞速的nn. 飞行, 飞花"
+	},
+	{
+		"word" : "skilled",
+		"phonetic" : "'skild",
+		"definition" : "a. 熟练的n[经] 熟练的, 有技能的"
+	},
+	{
+		"word" : "spine",
+		"phonetic" : "spain",
+		"definition" : "n. 背骨, 脊柱, 尖刺n[医] 脊柱; 棘, 刺; 马蹄嵴"
+	},
+	{
+		"word" : "cargo",
+		"phonetic" : "'kɑ:gәu",
+		"definition" : "n. 货物n[经] 货柜"
+	},
+	{
+		"word" : "managing",
+		"phonetic" : "'mænidʒiŋ",
+		"definition" : "a. 管理的, 节约的n[法] 管理的, 主管的, 善于经营的"
+	},
+	{
+		"word" : "devil",
+		"phonetic" : "'devәl",
+		"definition" : "n. 魔鬼nvt. 折磨, 戏弄"
+	},
+	{
+		"word" : "narrator",
+		"phonetic" : "",
+		"definition" : "n. 讲述者, 叙述者n[法] 陈述者, 叙述者"
+	},
+	{
+		"word" : "seller",
+		"phonetic" : "'selә",
+		"definition" : "n. 销售者n[化] 卖方"
+	},
+	{
+		"word" : "organized",
+		"phonetic" : "'ɔ:^әnaizd",
+		"definition" : "a. 有组织的, 组织起来的"
+	},
+	{
+		"word" : "missionary",
+		"phonetic" : "'miʃәnәri",
+		"definition" : "n. 传教士, 负有任务者, 工作人员na. 传教的, 传教士的"
+	},
+	{
+		"word" : "dock",
+		"phonetic" : "dɒk",
+		"definition" : "n. 码头, 船坞, 被告席, 尾巴的骨肉部分nvt. 使靠码头, 使(船)进港, 剪短nvi. 进港"
+	},
+	{
+		"word" : "fog",
+		"phonetic" : "fɒg",
+		"definition" : "n. 雾, 迷惑, (割后的)最生草, 苔藓nvi. 被雾笼罩, 变模糊nvt. 使困惑, 以雾笼罩"
+	},
+	{
+		"word" : "sometime",
+		"phonetic" : "'sʌmtaim",
+		"definition" : "a. 以前的, 某一时间的nadv. 改天, 来日"
+	},
+	{
+		"word" : "boring",
+		"phonetic" : "'bɒ:riŋ",
+		"definition" : "a. 烦人的, 无聊的, 无趣的n[机] 成孔期, 搪孔"
+	},
+	{
+		"word" : "marine",
+		"phonetic" : "mә'ri:n",
+		"definition" : "n. 舰队, 水兵, 海景画na. 海的, 海产的, 海底的, 船舶的, 海运的"
+	},
+	{
+		"word" : "summary",
+		"phonetic" : "'sʌmәri",
+		"definition" : "n. 摘要, 概要na. 摘要的, 简略的n[计] 摘要; 概要"
+	},
+	{
+		"word" : "diplomat",
+		"phonetic" : "'diplәmæt",
+		"definition" : "n. 外交官, 有外交手腕的人n[法] 外交家, 外交官, 有权谋的人"
+	},
+	{
+		"word" : "epidemic",
+		"phonetic" : ".epi'demik",
+		"definition" : "n. 传染病, 流行病na. 流行的, 传染性的"
+	},
+	{
+		"word" : "trim",
+		"phonetic" : "trim",
+		"definition" : "n. 整齐, 情形, 修剪na. 整齐的nvt. 使整齐, 整理, 修剪nvi. 调整, 见风使舵n[计] 库存管理检查规则程序"
+	},
+	{
+		"word" : "fatal",
+		"phonetic" : "'feitәl",
+		"definition" : "a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的n[医] 致命的, 致死的"
+	},
+	{
+		"word" : "warehouse",
+		"phonetic" : "'wєәhaus",
+		"definition" : "n. 仓库, 货栈, 大商店nvt. 储入仓库"
+	},
+	{
+		"word" : "butterfly",
+		"phonetic" : "'bʌtәflai",
+		"definition" : "n. 蝴蝶n[医] 蝶式棉块, 翼形皮癣, 纸蝶"
+	},
+	{
+		"word" : "inherent",
+		"phonetic" : "in'hiәrәnt",
+		"definition" : "a. 固有的, 与生俱来的n[医] 固有的, 生来的"
+	},
+	{
+		"word" : "accelerate",
+		"phonetic" : "әk'selәreit",
+		"definition" : "v. 加速, 促进"
+	},
+	{
+		"word" : "bronze",
+		"phonetic" : "brɒnz",
+		"definition" : "n. 青铜, 铜像na. 青铜色的"
+	},
+	{
+		"word" : "drown",
+		"phonetic" : "draun",
+		"definition" : "vi. 淹死nvt. 把...淹死, 淹没"
+	},
+	{
+		"word" : "nationwide",
+		"phonetic" : "'neiʃәnwaid",
+		"definition" : "a. 全国性的n[法] 全国的, 全国范围的"
+	},
+	{
+		"word" : "vacuum",
+		"phonetic" : "''vækjuәm",
+		"definition" : "n. 真空, 空间, 真空吸尘器na. 真空的, 产生真空的, 利用真空的nvt. 用吸尘器打扫"
+	},
+	{
+		"word" : "creek",
+		"phonetic" : "kri:k",
+		"definition" : "n. 小溪, 小河, 小湾"
+	},
+	{
+		"word" : "selected",
+		"phonetic" : "si'lektid",
+		"definition" : "a. 挑选出来的, 精选的n[计] 被选的"
+	},
+	{
+		"word" : "spit",
+		"phonetic" : "spit",
+		"definition" : "n. 唾液, 唾吐, 小雨, 炙叉, 一铲的深度nvt. 唾吐, 吐出, 降小雨, 用炙叉穿过nvi. 吐唾沫, 吐痰, 唾弃, 飘霏霏细雨"
+	},
+	{
+		"word" : "dictate",
+		"phonetic" : "'dikteit",
+		"definition" : "vi. 听写, 口述, 口授nvt. 口述, 使听写, 命令nn. 命令, 指挥, 指令"
+	},
+	{
+		"word" : "sensor",
+		"phonetic" : "'sensә",
+		"definition" : "n. 传感器n[计] 检测器"
+	},
+	{
+		"word" : "stereotype",
+		"phonetic" : "'stiәriәtaip",
+		"definition" : "n. 铅版, 陈规, 老套nvt. 使用铅版, 把...印制成盲文, 套用老套, 使一成不变"
+	},
+	{
+		"word" : "manual",
+		"phonetic" : "'mænjuәl",
+		"definition" : "n. 手册, 指南na. 手的, 手动的, 手工的, 体力的n[计] 人工的, 手动的"
+	},
+	{
+		"word" : "kneel",
+		"phonetic" : "ni:l",
+		"definition" : "vi. 跪下"
+	},
+	{
+		"word" : "plaintiff",
+		"phonetic" : "'pleintif",
+		"definition" : "n. 原告, 起诉人n[经] 原告, 原起诉人"
+	},
+	{
+		"word" : "laundry",
+		"phonetic" : "'lɒ:ndri",
+		"definition" : "n. 洗衣店, 洗好的衣服, 洗涤n[机] 洗衣作, 洗衣店, 洗衣房"
+	},
+	{
+		"word" : "naval",
+		"phonetic" : "'neivl",
+		"definition" : "a. 海军的, 军舰的, 有舰队的n[法] 海军的, 军舰的, 船的"
+	},
+	{
+		"word" : "pistol",
+		"phonetic" : "'pistl",
+		"definition" : "n. 手枪, 信号枪nvt. 以手枪杀死(或伤害)"
+	},
+	{
+		"word" : "apology",
+		"phonetic" : "ә'pɒlәdʒi",
+		"definition" : "n. 道歉, 辩护n[法] 道歉, 谢罪, 辩解者"
+	},
+	{
+		"word" : "bore",
+		"phonetic" : "bɒ:",
+		"definition" : "n. 令人讨厌的人, 激浪, 枪膛, 孔nvt. 使烦扰, 钻孔nvi. 钻孔nbear的过去式n[计] 内径; 孔径"
+	},
+	{
+		"word" : "dean",
+		"phonetic" : "di:n",
+		"definition" : "n. 院长, 主持牧师n[法] 外交团长, 学院院长, 教务长"
+	},
+	{
+		"word" : "beloved",
+		"phonetic" : "bi'lʌvd",
+		"definition" : "a. 心爱的nn. 心爱的人"
+	},
+	{
+		"word" : "entertain",
+		"phonetic" : ".entә'tein",
+		"definition" : "vt. 娱乐, 招待, 怀抱nvi. 款待"
+	},
+	{
+		"word" : "website",
+		"phonetic" : "",
+		"definition" : "n. 网站（全球资讯网的主机站）"
+	},
+	{
+		"word" : "chopped",
+		"phonetic" : "tʃɔpt",
+		"definition" : "v. 砍；斩碎；大量削减（chop的过去分词）"
+	},
+	{
+		"word" : "retrieve",
+		"phonetic" : "ri'tri:v",
+		"definition" : "vt. 取回, 挽回, 弥补, 恢复, 补偿, 回忆, 检索nvi. 找回猎物nn. 取回, 恢复, 救险球n[计] 检索"
+	},
+	{
+		"word" : "tribute",
+		"phonetic" : "'tribju:t",
+		"definition" : "n. 贡物, 礼物, 颂辞"
+	},
+	{
+		"word" : "bomber",
+		"phonetic" : "'bɒmә",
+		"definition" : "n. 轰炸机, 投弹手"
+	},
+	{
+		"word" : "overseas",
+		"phonetic" : "'әuvә'si:z",
+		"definition" : "a. 海外的, 国外的nadv. 在海外, 在国外"
+	},
+	{
+		"word" : "smoking",
+		"phonetic" : "'smәukiŋ",
+		"definition" : "n. 抽烟, 冒烟n[医] 烟熏; 吸烟"
+	},
+	{
+		"word" : "bizarre",
+		"phonetic" : "bi'zɑ:",
+		"definition" : "a. 奇异的"
+	},
+	{
+		"word" : "nominate",
+		"phonetic" : "'nɒmineit",
+		"definition" : "vt. 提名, 任命, 命名n[法] 提名...为候选人, 指定, 推荐"
+	},
+	{
+		"word" : "devise",
+		"phonetic" : "di'vaiz",
+		"definition" : "vt. 设计, 发明, 图谋, 遗赠给nn. 遗赠"
+	},
+	{
+		"word" : "anchor",
+		"phonetic" : "'æŋkә",
+		"definition" : "n. 锚nvt. 抛锚停泊, 使固定n[计] 锚"
+	},
+	{
+		"word" : "bargain",
+		"phonetic" : "'bɑ:gin",
+		"definition" : "n. 交易, 买卖协定, 特价商品nv. 讲价, 交易"
+	},
+	{
+		"word" : "skeptical",
+		"phonetic" : "'skeptikәl",
+		"definition" : "a. 怀疑论的, 怀疑的, 不可知论的n[法] 怀疑的, 不信的, 怀疑论者的"
+	},
+	{
+		"word" : "scrutiny",
+		"phonetic" : "'skru:tini",
+		"definition" : "n. 细看, 仔细检查, 监视, 选票检查n[经] 复查, 评核, 仔细检查"
+	},
+	{
+		"word" : "suppress",
+		"phonetic" : "sә'pres",
+		"definition" : "vt. 镇压, 使止住, 禁止, 抑制, 查禁n[法] 镇压, 平定, 禁止出版"
+	},
+	{
+		"word" : "considering",
+		"phonetic" : "kәn'sidәriŋ",
+		"definition" : "prep. 就...而论nconj. 考虑到"
+	},
+	{
+		"word" : "brass",
+		"phonetic" : "bræs.brɑ:s",
+		"definition" : "n. 黄铜, 黄铜制品na. 黄铜的, 铜管乐器的nv. 镀以黄铜, 支付"
+	},
+	{
+		"word" : "unfortunate",
+		"phonetic" : ".ʌn'fɒ:tʃәnit",
+		"definition" : "a. 不幸的, 不合适的, 不吉利的"
+	},
+	{
+		"word" : "extract",
+		"phonetic" : "ik'strækt",
+		"definition" : "n. 榨出物, 精汁, 摘录, 选段nvt. (费力地)取出, 采掘, 榨取, 摘录, 吸取n[计] 提取"
+	},
+	{
+		"word" : "intensive",
+		"phonetic" : "in'tensiv",
+		"definition" : "a. 加强的, 内涵的, 集中的nn. 加强器"
+	},
+	{
+		"word" : "tech",
+		"phonetic" : "tek",
+		"definition" : "n. 技术学院或学校"
+	},
+	{
+		"word" : "betray",
+		"phonetic" : "bi'trei",
+		"definition" : "vt. 出卖, 背叛, 辜负, 暴露n[法] 出卖, 背叛, 泄漏"
+	},
+	{
+		"word" : "consistency",
+		"phonetic" : "kәn'sistәnsi",
+		"definition" : "n. 坚硬性, 黏稠度, 一致性n[化] 稠度; 一致性"
+	},
+	{
+		"word" : "bureaucracy",
+		"phonetic" : "bjuә'rɒkrәsi",
+		"definition" : "n. 官僚, 官吏n[法] 官僚主义, 官僚政治, 官僚机构"
+	},
+	{
+		"word" : "interactive",
+		"phonetic" : ",intәr'æktiv",
+		"definition" : "a. 相互作用的, 相互影响的n[计] 交互, 人机对话的"
+	},
+	{
+		"word" : "clever",
+		"phonetic" : "'klevә",
+		"definition" : "a. 聪明的, 精明的"
+	},
+	{
+		"word" : "developed",
+		"phonetic" : "di'velәpid",
+		"definition" : "a. 发达的（国家或地区）；成熟的"
+	},
+	{
+		"word" : "loser",
+		"phonetic" : "'lu:zә",
+		"definition" : "n. 失败者, 遗失者n[法] 失败者, 失物者, 遗失者"
+	},
+	{
+		"word" : "challenging",
+		"phonetic" : "'tʃælindʒiŋ",
+		"definition" : "a. 挑战的, 引起争论的"
+	},
+	{
+		"word" : "critique",
+		"phonetic" : "kri'ti:k",
+		"definition" : "n. 评论文章, 评论"
+	},
+	{
+		"word" : "skiing",
+		"phonetic" : "'ski:iŋ",
+		"definition" : "n. 滑雪运动, 滑雪术"
+	},
+	{
+		"word" : "aboard",
+		"phonetic" : "ә'bɒ:d",
+		"definition" : "adv. 在船上, 在火车上, 在飞机上nprep. 在...之上"
+	},
+	{
+		"word" : "delicious",
+		"phonetic" : "di'liʃәs",
+		"definition" : "a. 美味的"
+	},
+	{
+		"word" : "compassion",
+		"phonetic" : "kәm'pæʃәn",
+		"definition" : "n. 同情, 怜悯"
+	},
+	{
+		"word" : "reproduce",
+		"phonetic" : ".ri:prә'dju:s",
+		"definition" : "v. 繁殖, 再生, 复制, 生殖n[计] 复制"
+	},
+	{
+		"word" : "congregation",
+		"phonetic" : ".kɒŋgri'geiʃәn",
+		"definition" : "n. 集合, 聚集n[法] 集会, 人一, 红衣主教会议"
+	},
+	{
+		"word" : "beneficial",
+		"phonetic" : ".beni'fiʃәl",
+		"definition" : "a. 有益的, 受益的n[经] 有使用权的, 可享利益的"
+	},
+	{
+		"word" : "awkward",
+		"phonetic" : "'ɒ:kwәd",
+		"definition" : "a. 笨拙的, 棘手的"
+	},
+	{
+		"word" : "worm",
+		"phonetic" : "wә:m",
+		"definition" : "n. 虫, 蠕虫, 小人物, 螺纹, 蜗杆nvi. 蠕行, 慢慢前进nvt. 使蠕行, 慢慢地走, 除虫n[计] 蠕虫病毒"
+	},
+	{
+		"word" : "Iranian",
+		"phonetic" : "i'reiniәn",
+		"definition" : "a. 伊朗的, 伊朗语系的nn. 伊朗人, 伊朗语"
+	},
+	{
+		"word" : "complication",
+		"phonetic" : ".kɒmpli'keiʃәn",
+		"definition" : "n. 复杂化, 复杂情况n[医] 并发症, 并发病"
+	},
+	{
+		"word" : "marijuana",
+		"phonetic" : ".mæriju'ɑ:nә",
+		"definition" : "n. 大麻n[医] 大麻"
+	},
+	{
+		"word" : "legendary",
+		"phonetic" : "'ledʒәndәri",
+		"definition" : "a. 传说的, 传奇中说的, 传奇般的, 传说中的, 著名的"
+	},
+	{
+		"word" : "militia",
+		"phonetic" : "mi'liʃә",
+		"definition" : "n. 义勇军, 民兵组织, 国民军"
+	},
+	{
+		"word" : "composer",
+		"phonetic" : "kәm'pәuzә",
+		"definition" : "n. 作曲家, 作家, 调停者"
+	},
+	{
+		"word" : "authentic",
+		"phonetic" : "ɒ:'θentik",
+		"definition" : "a. 可靠的, 可信的, 真正的n[法] 被认证的, 确认的, 可信的"
+	}
+]
