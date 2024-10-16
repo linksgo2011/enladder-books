@@ -9,5 +9,16 @@
     "description": "The Life and Adventures of Robinson Crusoe is the story of the title character, Robinson Crusoe, an Englishman who goes on a long sea voyage to the Caribbean and then to the South Pacific. He is shipwrecked on a deserted island and survives there for many years, until he is rescued by a passing ship.",
     "epubUrl": "./books/The Life and Adventures of Robinson Crusoe by Daniel Defoe/hints.epub",
     "wordsUrl": "./books/The Life and Adventures of Robinson Crusoe by Daniel Defoe/hard-words.json"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174001",
+    "title": "Pride and Prejudice by Jane Austen",
+    "cnTitle": "傲慢和偏见",
+    "author": "Jane Austen",
+    "cover": "./books/Pride and Prejudice by Jane Austen/cover.jpg",
+    "difficulty": "Intermediate",
+    "description": "Pride and Prejudice by Jane Austen is a classic novel written in the early 19th century. The story delves into themes of love, social class, and individual agency, largely revolving around the life of Elizabeth Bennet, one of five sisters from a modest but genteel family navigating the complex social landscape of Regency England. The opening of the novel introduces the seemingly universal truth that a single man of wealth is a target for matchmaking mothers in the neighborhood. Mrs. Bennet is eager to marry off her daughters and is excited to hear about the arrival of Mr. Bingley, a wealthy young man who has taken up residence at Netherfield Park. Mr. Bennet's teasing yet indifferent nature contrasts sharply with Mrs. Bennet's anxious and businesslike demeanor as she plans to visit Mr. Bingley to create an opportunity for her daughters. Their witty exchanges set the tone for the story's exploration of family dynamics and social expectations, while also hinting at deeper character developments and the challenges Elizabeth will face regarding love and prejudice in her interactions with Mr. Darcy and the Bingley family. ",
+    "epubUrl": "./books/Pride and Prejudice by Jane Austen/hints.epub",
+    "wordsUrl": "./books/Pride and Prejudice by Jane Austen/hard-words.json"
   }
 ]
