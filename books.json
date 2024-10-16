@@ -20,5 +20,16 @@
     "description": "Pride and Prejudice by Jane Austen is a classic novel written in the early 19th century. The story delves into themes of love, social class, and individual agency, largely revolving around the life of Elizabeth Bennet, one of five sisters from a modest but genteel family navigating the complex social landscape of Regency England. The opening of the novel introduces the seemingly universal truth that a single man of wealth is a target for matchmaking mothers in the neighborhood. Mrs. Bennet is eager to marry off her daughters and is excited to hear about the arrival of Mr. Bingley, a wealthy young man who has taken up residence at Netherfield Park. Mr. Bennet's teasing yet indifferent nature contrasts sharply with Mrs. Bennet's anxious and businesslike demeanor as she plans to visit Mr. Bingley to create an opportunity for her daughters. Their witty exchanges set the tone for the story's exploration of family dynamics and social expectations, while also hinting at deeper character developments and the challenges Elizabeth will face regarding love and prejudice in her interactions with Mr. Darcy and the Bingley family. ",
     "epubUrl": "./books/Pride and Prejudice by Jane Austen/hints.epub",
     "wordsUrl": "./books/Pride and Prejudice by Jane Austen/hard-words.json"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174002",
+    "title": "The Time Machine by H. G. Wells",
+    "cnTitle": "时间旅行",
+    "author": "H. G. Wells",
+    "cover": "./books/The Time Machine by H. G. Wells/cover.jpg",
+    "difficulty": "Easy",
+    "description": "The Time Machine by H. G. Wells is a science fiction novel written in the late 19th century. The story introduces a brilliant Time Traveller who presents his revolutionary ideas about time and space to a group of skeptical friends, discussing the concept of a fourth dimension that intertwines with our understanding of time. The opening portion reveals the Time Traveller engaging his guests in a lively conversation about his theories of time travel, demonstrating his intellect and confidence. He showcases a small model of the time machine he has created, which he explains will allow him to journey through time. His companions express disbelief and skepticism regarding his claims, leading to a tense yet intriguing atmosphere. As the narrative progresses, the Time Traveller prepares for an actual demonstration of his invention, setting the stage for his soon-to-be incredible journey into both the past and the future. ",
+    "epubUrl": "./books/The Time Machine by H. G. Wells/hints.epub",
+    "wordsUrl": "./books/The Time Machine by H. G. Wells/hard-words.json"
   }
 ]
