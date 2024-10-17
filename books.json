@@ -42,16 +42,5 @@
     "description": "A Journey to the Centre of the Earth by Jules Verne is a science fiction novel written in the mid-19th century. The story follows the protagonist, Professor Otto Lidenbrock, and his nephew, Axel, as they embark on an extraordinary expedition to explore the depths of the Earth, spurred by an ancient manuscript that hints at the path to the planet's core. The novel combines adventure with scientific exploration, drawing upon the geological knowledge of its time. The opening of the book introduces us to the eccentric Professor Lidenbrock, who is consumed by a recent discovery of a Runic manuscript he believes contains secrets to the Earth's interior. The story begins in Germany, where he summons his nephew, Axel, to help decipher the text, leading to a mix of excitement and dread as the young man grapples with the implications of their potential journey. As the chapters progress, Lidenbrock's fervor and determination become apparent, setting the stage for their thrilling and perilous adventure below ground. The narrative introduces key characters, references to Iceland's geological wonders, and hints at the challenges they will face as they prepare for their ambitious descent.  ",
     "epubUrl": "./books/A Journey to the Centre of the Earth by Jules Verne/hints.epub",
     "wordsUrl": "./books/A Journey to the Centre of the Earth by Jules Verne/hard-words.json"
-  },
-  {
-    "id": "123e4567-e89b-12d3-a456-426614174001",
-    "title": "Pride and Prejudice by Jane Austen",
-    "cnTitle": "傲慢和偏见",
-    "author": "Jane Austen",
-    "cover": "./books/Pride and Prejudice by Jane Austen/cover.jpg",
-    "difficulty": "Intermediate",
-    "description": "Pride and Prejudice by Jane Austen is a classic novel written in the early 19th century. The story delves into themes of love, social class, and individual agency, largely revolving around the life of Elizabeth Bennet, one of five sisters from a modest but genteel family navigating the complex social landscape of Regency England. The opening of the novel introduces the seemingly universal truth that a single man of wealth is a target for matchmaking mothers in the neighborhood. Mrs. Bennet is eager to marry off her daughters and is excited to hear about the arrival of Mr. Bingley, a wealthy young man who has taken up residence at Netherfield Park. Mr. Bennet's teasing yet indifferent nature contrasts sharply with Mrs. Bennet's anxious and businesslike demeanor as she plans to visit Mr. Bingley to create an opportunity for her daughters. Their witty exchanges set the tone for the story's exploration of family dynamics and social expectations, while also hinting at deeper character developments and the challenges Elizabeth will face regarding love and prejudice in her interactions with Mr. Darcy and the Bingley family. ",
-    "epubUrl": "./books/Pride and Prejudice by Jane Austen/hints.epub",
-    "wordsUrl": "./books/Pride and Prejudice by Jane Austen/hard-words.json"
   }
 ]
