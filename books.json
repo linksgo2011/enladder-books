@@ -42,5 +42,16 @@
     "description": "A Journey to the Centre of the Earth by Jules Verne is a science fiction novel written in the mid-19th century. The story follows the protagonist, Professor Otto Lidenbrock, and his nephew, Axel, as they embark on an extraordinary expedition to explore the depths of the Earth, spurred by an ancient manuscript that hints at the path to the planet's core. The novel combines adventure with scientific exploration, drawing upon the geological knowledge of its time. The opening of the book introduces us to the eccentric Professor Lidenbrock, who is consumed by a recent discovery of a Runic manuscript he believes contains secrets to the Earth's interior. The story begins in Germany, where he summons his nephew, Axel, to help decipher the text, leading to a mix of excitement and dread as the young man grapples with the implications of their potential journey. As the chapters progress, Lidenbrock's fervor and determination become apparent, setting the stage for their thrilling and perilous adventure below ground. The narrative introduces key characters, references to Iceland's geological wonders, and hints at the challenges they will face as they prepare for their ambitious descent.  ",
     "epubUrl": "./books/A Journey to the Centre of the Earth by Jules Verne/hints.epub",
     "wordsUrl": "./books/A Journey to the Centre of the Earth by Jules Verne/hard-words.json"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174005",
+    "title": "The Great Gatsby by F. Scott Fitzgerald",
+    "cnTitle": "了不起的盖茨比",
+    "author": "Scott Fitzgerald",
+    "cover": "./books/The Great Gatsby by F. Scott Fitzgerald/cover.jpg",
+    "difficulty": "Easy",
+    "description": "The Great Gatsby by F. Scott Fitzgerald is a novel written in the early 20th century. The story is mainly narrated by Nick Carraway, who reflects on the life of his enigmatic neighbor, Jay Gatsby, and the extravagant world of wealth and excess he inhabits. The novel explores themes of the American Dream, love, and social class. At the start of the novel, Nick Carraway reflects on advice from his father about withholding judgment of others, which sets the stage for the unfolding narrative. We learn about Nick's background, his move to West Egg, and his connection to wealthy acquaintances like Tom and Daisy Buchanan. Nick's first glimpse of Gatsby is during a moment of solitude when he sees Gatsby reaching out toward a distant green light, symbolizing his unattainable dreams. This opening portion lays the groundwork for the intricate relationships and social dynamics in the world of 1920s America, hinting at the luxurious yet hollow lives that many characters lead. ",
+    "epubUrl": "./books/The Great Gatsby by F. Scott Fitzgerald/hints.epub",
+    "wordsUrl": "./books/The Great Gatsby by F. Scott Fitzgerald/hard-words.json"
   }
 ]
