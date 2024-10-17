@@ -29,8 +29,19 @@
     "cover": "./books/Alice's Adventures in Wonderland by Lewis Carroll/cover.jpg",
     "difficulty": "Easy",
     "description": "Alice's Adventures in Wonderland by Lewis Carroll is a classic children's novel written in the mid-19th century. The story follows a young girl named Alice who, feeling bored and sleepy while sitting by a riverbank, encounters a White Rabbit and follows it down a rabbit hole, plunging into a fantastical world filled with curious creatures and whimsical adventures. The opening of the book introduces Alice as she daydreams about her surroundings before spotting the White Rabbit, who is both flustered and animated. Curious, Alice pursues the Rabbit and finds herself tumbling down a deep rabbit hole, leading to a curious hall filled with doors, all locked. After experiencing a series of bizarre changes in size from eating and drinking mysterious substances, she begins exploring this new world, initially frustrated by her newfound challenges as she navigates her size and the peculiar inhabitants she meets. The narrative sets the tone for Alice's whimsical and often nonsensical adventures that characterize the entire tale. ",
-    "epubUrl": "./books/Alice's Adventures in Wonderland by Lewis Carroll/origin.epub",
+    "epubUrl": "./books/Alice's Adventures in Wonderland by Lewis Carroll/hints.epub",
     "wordsUrl": "./books/Alice's Adventures in Wonderland by Lewis Carroll/hard-words.json"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174004",
+    "title": "A Journey to the Centre of the Earth by Jules Verne",
+    "cnTitle": "地心游记",
+    "author": "Jules Verne",
+    "cover": "./books/A Journey to the Centre of the Earth by Jules Verne/cover.jpg",
+    "difficulty": "Easy",
+    "description": "A Journey to the Centre of the Earth by Jules Verne is a science fiction novel written in the mid-19th century. The story follows the protagonist, Professor Otto Lidenbrock, and his nephew, Axel, as they embark on an extraordinary expedition to explore the depths of the Earth, spurred by an ancient manuscript that hints at the path to the planet's core. The novel combines adventure with scientific exploration, drawing upon the geological knowledge of its time. The opening of the book introduces us to the eccentric Professor Lidenbrock, who is consumed by a recent discovery of a Runic manuscript he believes contains secrets to the Earth's interior. The story begins in Germany, where he summons his nephew, Axel, to help decipher the text, leading to a mix of excitement and dread as the young man grapples with the implications of their potential journey. As the chapters progress, Lidenbrock's fervor and determination become apparent, setting the stage for their thrilling and perilous adventure below ground. The narrative introduces key characters, references to Iceland's geological wonders, and hints at the challenges they will face as they prepare for their ambitious descent.  ",
+    "epubUrl": "./books/A Journey to the Centre of the Earth by Jules Verne/hints.epub",
+    "wordsUrl": "./books/A Journey to the Centre of the Earth by Jules Verne/hard-words.json"
   },
   {
     "id": "123e4567-e89b-12d3-a456-426614174001",
