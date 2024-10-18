@@ -75,5 +75,16 @@
     "description": "The Moon and Sixpence is a novel by W. Somerset Maugham, inspired by the life of the painter Paul Gauguin. The story follows Charles Strickland, a middle-aged stockbroker in London, who abandons his family and career to pursue(追求) his passion for painting. Strickland's obsession(痴迷) with art leads him to Tahiti, where he seeks to create a new life and express his artistic vision. The novel explores themes of individuality(个性), the conflict(冲突) between societal expectations and personal desires, and the nature of artistic genius. Strickland's journey is marked by his relentless(无情的) pursuit of beauty and truth, often at the expense of his relationships and moral obligations. Maugham's narrative raises questions about the sacrifices(牺牲) artists make for their craft and the price of true creativity(创造力). Ultimately, The Moon and Sixpence is a profound(深刻的) exploration of the complexities of the human spirit and the pursuit of one's dreams, regardless of the consequences(后果).",
     "epubUrl": "./books/The Moon and Sixpence by W. Somerset Maugham/hints.epub",
     "wordsUrl": "./books/The Moon and Sixpence by W. Somerset Maugham/hard-words.json"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174008",
+    "title": "The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie",
+    "cnTitle": "公开演讲的艺术",
+    "author": "W. Somerset Maugham",
+    "cover": "./books/The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie/cover.jpg",
+    "difficulty": "Intermediate",
+    "description": "The Art of Public Speaking is a comprehensive(全面的) guide that explores the essential skills and techniques required for effective public speaking. The book emphasizes(强调) the importance of preparation, organization(组织), and delivery in crafting a compelling(引人注目的) speech. It covers various aspects such as understanding the audience, selecting appropriate topics, and utilizing(利用) visual aids to enhance the presentation. The author also discusses the significance(重要性) of body language, vocal variety, and the use of storytelling to engage listeners. Additionally, the book provides practical tips for overcoming(克服) anxiety and building confidence(信心). Overall, it serves as a valuable resource for anyone looking to improve their public speaking abilities and communicate more effectively in various settings.",
+    "epubUrl": "./books/The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie/hints.epub",
+    "wordsUrl": "./books/The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie/hard-words.json"
   }
 ]
