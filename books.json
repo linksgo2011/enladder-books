@@ -64,5 +64,16 @@
     "description": "The Lost World by Sir Arthur Conan Doyle is a novel written in the early 20th century. The story revolves around the ambitious Edward Malone, who seeks to prove himself worthy of love from Gladys, a woman who craves a partner capable of grand adventures. His quest for heroism leads him to an encounter with Professor Challenger, who claims to have discovered a prehistoric land filled with extraordinary creatures. The opening of the book introduces Edward Malone as he navigates a frustrating conversation with Gladys' father, Mr. Hungerton, and builds suspense as he prepares to propose to her. However, Gladys reveals her desire for a more adventurous man, which motivates Malone to seek out opportunities for heroism. This decision propels him into the world of Professor Challenger, who has returned from a mysterious expedition to South America filled with intriguing claims of dinosaurs and lost civilizations. The early chapters highlight Malone’s character, his interactions with Gladys, and set the stage for his subsequent adventures alongside Challenger and a team of explorers.",
     "epubUrl": "./books/The Lost World by Arthur Conan Doyle/hints.epub",
     "wordsUrl": "./books/The Lost World by Arthur Conan Doyle/hard-words.json"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174007",
+    "title": "The Moon and Sixpence by W. Somerset Maugham",
+    "cnTitle": "月亮与六便士",
+    "author": "Somerset Maugham",
+    "cover": "./books/The Moon and Sixpence by W. Somerset Maugham/cover.jpg",
+    "difficulty": "Easy",
+    "description": "The Moon and Sixpence is a novel by W. Somerset Maugham, inspired by the life of the painter Paul Gauguin. The story follows Charles Strickland, a middle-aged stockbroker in London, who abandons his family and career to pursue(追求) his passion for painting. Strickland's obsession(痴迷) with art leads him to Tahiti, where he seeks to create a new life and express his artistic vision. The novel explores themes of individuality(个性), the conflict(冲突) between societal expectations and personal desires, and the nature of artistic genius. Strickland's journey is marked by his relentless(无情的) pursuit of beauty and truth, often at the expense of his relationships and moral obligations. Maugham's narrative raises questions about the sacrifices(牺牲) artists make for their craft and the price of true creativity(创造力). Ultimately, The Moon and Sixpence is a profound(深刻的) exploration of the complexities of the human spirit and the pursuit of one's dreams, regardless of the consequences(后果).",
+    "epubUrl": "./books/The Moon and Sixpence by W. Somerset Maugham/hints.epub",
+    "wordsUrl": "./books/The Moon and Sixpence by W. Somerset Maugham/hard-words.json"
   }
 ]
