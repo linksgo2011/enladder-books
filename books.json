@@ -88,14 +88,25 @@
     "wordsUrl": "./books/The Moon and Sixpence by W. Somerset Maugham/hard-words.json"
   },
   {
-    "id": "123e4567-e89b-12d3-a456-426614174008",
-    "title": "The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie",
-    "cnTitle": "公开演讲的艺术",
-    "author": "W. Somerset Maugham",
-    "cover": "./books/The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie/cover.jpg",
-    "difficulty": "Intermediate",
-    "description": "The Art of Public Speaking is a comprehensive(全面的) guide that explores the essential skills and techniques required for effective public speaking. The book emphasizes(强调) the importance of preparation, organization(组织), and delivery in crafting a compelling(引人注目的) speech. It covers various aspects such as understanding the audience, selecting appropriate topics, and utilizing(利用) visual aids to enhance the presentation. The author also discusses the significance(重要性) of body language, vocal variety, and the use of storytelling to engage listeners. Additionally, the book provides practical tips for overcoming(克服) anxiety and building confidence(信心). Overall, it serves as a valuable resource for anyone looking to improve their public speaking abilities and communicate more effectively in various settings.",
-    "epubUrl": "./books/The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie/hints.epub",
-    "wordsUrl": "./books/The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie/hard-words.json"
+    "id": "123e4567-e89b-12d3-a456-426614174009",
+    "title": "A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind",
+    "cnTitle": "论人类不平等的起源和基础",
+    "author": "Rousseau, Jean-Jacques",
+    "cover": "./books/A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind/cover.jpg",
+    "difficulty": "Hard",
+    "description": "In 'Discourse on the Origin and Basis of Inequality Among Men', Jean-Jacques Rousseau explores the concept of inequality(不平等), distinguishing(区分) between natural and moral inequality(不平等). He argues that natural inequality(不平等), which is based on physical differences, is established by nature, while moral inequality(不平等) is a product of social conventions(惯例) and institutions. Rousseau critiques the social contract, suggesting that the formation of societies has led to the corruption(腐败) of human nature and the rise of inequality(不平等). He believes that in the state of nature, humans were equal and lived in harmony, but the development of property and social hierarchies(等级制度) has created divisions. Rousseau calls for a return to a more egalitarian(平等主义的) society, emphasizing(强调) the importance of community and collective(集体的) well-being over individual wealth. His work challenges the prevailing(流行的) notions of his time and remains influential in discussions about social justice and equality.",
+    "epubUrl": "./books/A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind/hints.epub",
+    "wordsUrl": "./books/A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind/hard-words.json"
+  },
+    {
+    "id": "123e4567-e89b-12d3-a456-426614174010",
+    "title": "The Analects of Confucius (from the Chinese Classics) by Confucius",
+    "cnTitle": "论语英文版",
+    "author": "Confucius",
+    "cover": "./books/The Analects of Confucius (from the Chinese Classics) by Confucius/cover.jpg",
+    "difficulty": "Hard",
+    "description": "The Analects of Confucius, also known as Lunyu, is a collection of sayings and ideas attributed to the Chinese philosopher Confucius and his disciples. Compiled during the Warring States period, it serves as a foundational text for Confucianism. The work emphasizes moral integrity(正直), the importance of education, and the cultivation(修养) of virtue(美德). Key themes include the concept of 'ren' (benevolence(仁爱)), 'li' (ritual propriety(礼仪)), and the significance of filial(孝顺的) piety. Confucius advocates for a government led by virtuous rulers and the necessity of self-cultivation(修养) for individuals. The text is structured as dialogues, often featuring Confucius's responses to questions posed by his students. Through these discussions, Confucius imparts wisdom(智慧) on ethics(伦理), governance(治理), and personal conduct, encouraging individuals to strive for moral excellence and social harmony. The Analects remains influential in shaping Chinese culture and philosophy, promoting values that resonate across generations.",
+    "epubUrl": "./books/The Analects of Confucius (from the Chinese Classics) by Confucius/hints.epub",
+    "wordsUrl": "./books/The Analects of Confucius (from the Chinese Classics) by Confucius/hard-words.json"
   }
 ]

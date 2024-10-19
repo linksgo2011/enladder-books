@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EPUB Book Downloads</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      background: #fff;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    img {
+      width: 100px;
+      height: auto;
+      margin-right: 15px;
+    }
+    .book-item {
+      display: flex;
+      align-items: center;
+    }
+    .book-info {
+      flex-grow: 1;
+    }
+    a {
+      text-decoration: none;
+      color: #007BFF;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Available EPUB Books</h1>
+  <ul id="book-list"></ul>
+
+  <script>
+    // 读取 books.json 文件并生成书籍列表
+    async function loadBooks() {
+      try {
+        const response = await fetch('./books.json');
+        const books = await response.json();
+        const bookList = document.getElementById('book-list');
+
+        books.forEach(book => {
+          const listItem = document.createElement('li');
+          listItem.innerHTML = `
+            <div class="book-item">
+              <img src="../${book.cover}" alt="${book.title} Cover" />
+              <div class="book-info">
+                <h3>${book.cnTitle} / ${book.title}</h3>
+                <p><strong>Author:</strong> ${book.author}</p>
+                <p><strong>Difficulty:</strong> ${book.difficulty}</p>
+                <p>${book.description}</p>
+                <a href="../${book.epubUrl}" download>Download EPUB</a>
+              </div>
+            </div>
+          `;
+          bookList.appendChild(listItem);
+        });
+      } catch (error) {
+        console.error('Failed to load books:', error);
+      }
+    }
+
+    // 调用函数加载书籍
+    loadBooks();
+  </script>
+</body>
+</html>

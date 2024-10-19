@@ -1,0 +1,5018 @@
+{
+  "digitizer": {
+    "word": "digitizer",
+    "definition": "数字化设备",
+    "phonetic": "/'dɪdʒɪtaɪzə/",
+    "mnemonic": "digit(数字)+izer(化者)"
+  },
+  "digitized": {
+    "word": "digitized",
+    "definition": "数字化的",
+    "phonetic": "/ˈdɪdʒɪˌtaɪzd/",
+    "mnemonic": "digit(数字)+ized(化)"
+  },
+  "ing": {
+    "word": "ing",
+    "definition": "正在进行的",
+    "phonetic": "/ɪŋ/",
+    "mnemonic": "动词后缀，表示进行"
+  },
+  "exegetical": {
+    "word": "exegetical",
+    "definition": "解释的，阐释的",
+    "phonetic": "/ˌɛɡzɪˈdʒɛtɪkəl/",
+    "mnemonic": "ex（外）+eget（引导）+ical（形容词后缀）"
+  },
+  "prolegomena": {
+    "word": "prolegomena",
+    "definition": "序论，前言",
+    "phonetic": "/ˌproʊlɪˈɡoʊmə nə/",
+    "mnemonic": "pro（前）+leg（说）+omena（现象）"
+  },
+  "copious": {
+    "word": "copious",
+    "definition": "丰富的，大量的",
+    "phonetic": "/ˈkoʊpiəs/",
+    "mnemonic": "co（共同）+pi（多）+ous（形容词后缀）"
+  },
+  "philosopher": {
+    "word": "philosopher",
+    "definition": "哲学家",
+    "phonetic": "/fɪˈlɒsəfə/",
+    "mnemonic": "philo（爱）+sopher（智慧）= 爱智慧的人"
+  },
+  "fond": {
+    "word": "fond",
+    "definition": "喜爱的",
+    "phonetic": "/fɒnd/",
+    "mnemonic": "fond（爱）= 让人感到温暖的"
+  },
+  "offending": {
+    "word": "offending",
+    "definition": "冒犯的",
+    "phonetic": "/əˈfɛndɪŋ/",
+    "mnemonic": "offend（冒犯）+ing（正在）= 正在冒犯"
+  },
+  "offend": {
+    "word": "offend",
+    "definition": "冒犯",
+    "phonetic": "/əˈfɛnd/",
+    "mnemonic": "off（离开）+end（结束）= 让人不快的结束"
+  },
+  "non": {
+    "word": "non",
+    "definition": "非，否定",
+    "phonetic": "/nɒn/",
+    "mnemonic": "non（不）= 否定的前缀"
+  },
+  "filial": {
+    "word": "filial",
+    "definition": "子女对父母的孝顺",
+    "phonetic": "/ˈfɪliəl/",
+    "mnemonic": "fil + ial（像...的）"
+  },
+  "piety": {
+    "word": "piety",
+    "definition": "虔诚，孝顺",
+    "phonetic": "/ˈpaɪəti/",
+    "mnemonic": "pie（派） + ty（体）"
+  },
+  "obedient": {
+    "word": "obedient",
+    "definition": "服从的，听话的",
+    "phonetic": "/əˈbiːdiənt/",
+    "mnemonic": "obey（服从） + dient（的）"
+  },
+  "transgressing": {
+    "word": "transgressing",
+    "definition": "违反，越界",
+    "phonetic": "/trænzˈɡrɛsɪŋ/",
+    "mnemonic": "trans（穿越） + gress（走）"
+  },
+  "disobedient": {
+    "word": "disobedient",
+    "definition": "不服从的，不听话的",
+    "phonetic": "/ˌdɪsəˈbiːdiənt/",
+    "mnemonic": "dis（不） + obedient（服从的）"
+  },
+  "fraternal": {
+    "word": "fraternal",
+    "definition": "兄弟般的",
+    "phonetic": "/frəˈtɜrnəl/",
+    "mnemonic": "frater(兄弟) + nal(的) -> 兄弟的"
+  },
+  "insinuating": {
+    "word": "insinuating",
+    "definition": "暗示的",
+    "phonetic": "/ɪnˈsɪn.ju.eɪ.tɪŋ/",
+    "mnemonic": "insinuate(暗示) + ing(的) -> 暗示的"
+  },
+  "transacting": {
+    "word": "transacting",
+    "definition": "交易",
+    "phonetic": "/trænˈzæktɪŋ/",
+    "mnemonic": "transact(交易) + ing(进行) -> 进行交易"
+  },
+  "intercourse": {
+    "word": "intercourse",
+    "definition": "交往",
+    "phonetic": "/ˈɪntərˌkɔrs/",
+    "mnemonic": "inter(相互) + course(过程) -> 相互交往的过程"
+  },
+  "practised": {
+    "word": "practised",
+    "definition": "熟练的",
+    "phonetic": "/ˈpræktɪst/",
+    "mnemonic": "practice(练习) + d(的) -> 练习过的"
+  },
+  "submission": {
+    "word": "submission",
+    "definition": "服从",
+    "phonetic": "/səbˈmɪʃən/",
+    "mnemonic": "sub(下) + mission(使命) → 服从使命"
+  },
+  "faithful": {
+    "word": "faithful",
+    "definition": "忠诚的",
+    "phonetic": "/ˈfeɪθfəl/",
+    "mnemonic": "faith(信仰) + ful(充满) → 充满信仰，忠诚"
+  },
+  "upright": {
+    "word": "upright",
+    "definition": "正直的",
+    "phonetic": "/ˈʌpraɪt/",
+    "mnemonic": "up(向上) + right(正确) → 向上正确，正直"
+  },
+  "reverence": {
+    "word": "reverence",
+    "definition": "尊敬",
+    "phonetic": "/ˈrɛvərəns/",
+    "mnemonic": "re(再) + ver(看) + ence(状态) → 再次看，表示尊敬"
+  },
+  "crooked": {
+    "word": "crooked",
+    "definition": "弯曲的",
+    "phonetic": "/ˈkrʊkɪd/",
+    "mnemonic": "crook(弯曲) + ed(形容词后缀) → 弯曲的"
+  },
+  "preside": {
+    "word": "preside",
+    "definition": "主持",
+    "phonetic": "/prɪˈzaɪd/",
+    "mnemonic": "pre(前) + side(旁边) → 在前面旁边主持"
+  },
+  "incompetent": {
+    "word": "incompetent",
+    "definition": "无能的",
+    "phonetic": "/ɪnˈkɒmpɪtənt/",
+    "mnemonic": "in(不) + competent(有能力的) → 不有能力，无能"
+  },
+  "eagerly": {
+    "word": "eagerly",
+    "definition": "热切地",
+    "phonetic": "/ˈiːɡərli/",
+    "mnemonic": "eager(渴望的) + ly(副词后缀) → 渴望地，热切地"
+  },
+  "benevolent": {
+    "word": "benevolent",
+    "definition": "仁慈的",
+    "phonetic": "/bəˈnɛvələnt/",
+    "mnemonic": "bene(好)+volent(愿意)→愿意做好事"
+  },
+  "tranquil": {
+    "word": "tranquil",
+    "definition": "宁静的",
+    "phonetic": "/ˈtræŋkwɪl/",
+    "mnemonic": "tran(安静)+quil(安静)→安静的"
+  },
+  "joyful": {
+    "word": "joyful",
+    "definition": "快乐的",
+    "phonetic": "/ˈdʒɔɪfəl/",
+    "mnemonic": "joy(快乐)+ful(充满)→充满快乐的"
+  },
+  "predominated": {
+    "word": "predominated",
+    "definition": "占主导地位",
+    "phonetic": "/prɪˈdɒmɪneɪtɪd/",
+    "mnemonic": "pre(前)+domin(主导)+ate(动词后缀)→主导的"
+  },
+  "sincere": {
+    "word": "sincere",
+    "definition": "真诚的",
+    "phonetic": "/sɪnˈsɪr/",
+    "mnemonic": "心里真诚"
+  },
+  "chariots": {
+    "word": "chariots",
+    "definition": "战车",
+    "phonetic": "/ˈtʃɛriəts/",
+    "mnemonic": "车里有战斗"
+  },
+  "vinegar": {
+    "word": "vinegar",
+    "definition": "醋",
+    "phonetic": "/ˈvɪnɪɡər/",
+    "mnemonic": "酸的液体"
+  },
+  "resentment": {
+    "word": "resentment",
+    "definition": "怨恨",
+    "phonetic": "/rɪˈzɛntmənt/",
+    "mnemonic": "心里不满"
+  },
+  "spoil": {
+    "word": "spoil",
+    "definition": "损坏",
+    "phonetic": "/spɔɪl/",
+    "mnemonic": "坏掉的东西"
+  },
+  "displeased": {
+    "word": "displeased",
+    "definition": "不满的",
+    "phonetic": "/dɪsˈplizd/",
+    "mnemonic": "心里不快"
+  },
+  "meritorious": {
+    "word": "meritorious",
+    "definition": "有功绩的",
+    "phonetic": "/ˌmɛrɪˈtɔriəs/",
+    "mnemonic": "值得称赞的"
+  },
+  "deeds": {
+    "word": "deeds",
+    "definition": "行为",
+    "phonetic": "/diːdz/",
+    "mnemonic": "做的事情"
+  },
+  "tenderly": {
+    "word": "tenderly",
+    "definition": "温柔地",
+    "phonetic": "/ˈtɛndərli/",
+    "mnemonic": "心里柔软"
+  },
+  "inwardly": {
+    "word": "inwardly",
+    "definition": "内心地",
+    "phonetic": "/ˈɪnwərdli/",
+    "mnemonic": "向内的心"
+  },
+  "hamlet": {
+    "word": "hamlet",
+    "definition": "小村庄",
+    "phonetic": "/ˈhæmlɪt/",
+    "mnemonic": "小地方"
+  },
+  "honourable": {
+    "word": "honourable",
+    "definition": "可尊敬的",
+    "phonetic": "/ˈɒnərəbl/",
+    "mnemonic": "有荣誉的人"
+  },
+  "reverent": {
+    "word": "reverent",
+    "definition": "恭敬的",
+    "phonetic": "/ˈrɛvərənt/",
+    "mnemonic": "re（再）+ ver（看）+ ent（人）= 再看人，恭敬"
+  },
+  "respectful": {
+    "word": "respectful",
+    "definition": "尊重的",
+    "phonetic": "/rɪˈspɛktfəl/",
+    "mnemonic": "respect（尊重）+ ful（充满）= 充满尊重"
+  },
+  "earnest": {
+    "word": "earnest",
+    "definition": "认真",
+    "phonetic": "/ˈɜrnɪst/",
+    "mnemonic": "earn（挣）+ est（最）= 最认真地挣"
+  },
+  "overflow": {
+    "word": "overflow",
+    "definition": "溢出",
+    "phonetic": "/ˌoʊvərˈfloʊ/",
+    "mnemonic": "over（超过）+ flow（流动）= 超过流动，溢出"
+  },
+  "cultivate": {
+    "word": "cultivate",
+    "definition": "培养",
+    "phonetic": "/ˈkʌltɪˌveɪt/",
+    "mnemonic": "cult（耕种）+ ivate（使）= 使耕种，培养"
+  },
+  "sincerely": {
+    "word": "sincerely",
+    "definition": "真诚地",
+    "phonetic": "/sɪnˈsɪrli/",
+    "mnemonic": "sincere（真诚）+ ly（地）= 真诚地"
+  },
+  "exert": {
+    "word": "exert",
+    "definition": "施加",
+    "phonetic": "/ɪɡˈzɜrt/",
+    "mnemonic": "ex（出）+ ert（力量）= 施加力量"
+  },
+  "utmost": {
+    "word": "utmost",
+    "definition": "最大限度的",
+    "phonetic": "/ˈʌtmoʊst/",
+    "mnemonic": "ut（外）+ most（最多）= 外面最多，最大限度"
+  },
+  "hsi": {
+    "word": "hsi",
+    "definition": "习",
+    "phonetic": "/ʃi/",
+    "mnemonic": "h（汉）+ si（思）= 汉思，习"
+  },
+  "sincerity": {
+    "word": "sincerity",
+    "definition": "真诚",
+    "phonetic": "/sɪnˈsɪr.ɪ.ti/",
+    "mnemonic": "真心诚意的‘心’"
+  },
+  "veneration": {
+    "word": "veneration",
+    "definition": "尊敬",
+    "phonetic": "/ˌven.əˈreɪ.ʃən/",
+    "mnemonic": "‘尊’重‘敬’意"
+  },
+  "faithfulness": {
+    "word": "faithfulness",
+    "definition": "忠诚",
+    "phonetic": "/ˈfeɪθ.fəl.nəs/",
+    "mnemonic": "‘信’守‘忠’诚"
+  },
+  "rites": {
+    "word": "rites",
+    "definition": "仪式",
+    "phonetic": "/raɪts/",
+    "mnemonic": "‘仪’式‘礼’节"
+  },
+  "expenditure": {
+    "word": "expenditure",
+    "definition": "支出",
+    "phonetic": "/ɪkˈspɛndɪtʃər/",
+    "mnemonic": "ex（外）+pend（花费）=外花费"
+  },
+  "tiger": {
+    "word": "tiger",
+    "definition": "老虎",
+    "phonetic": "/ˈtaɪɡər/",
+    "mnemonic": "t（特）+iger（猛兽）=特猛兽"
+  },
+  "inquired": {
+    "word": "inquired",
+    "definition": "询问",
+    "phonetic": "/ɪnˈkwaɪərd/",
+    "mnemonic": "in（里面）+quire（询问）=里面询问"
+  },
+  "overtake": {
+    "word": "overtake",
+    "definition": "追上",
+    "phonetic": "/ˌoʊvərˈteɪk/",
+    "mnemonic": "over（超过）+take（拿）=超过拿"
+  },
+  "leopard": {
+    "word": "leopard",
+    "definition": "豹子",
+    "phonetic": "/ˈlɛpərd/",
+    "mnemonic": "leap（跳跃）+ard（动物）=跳跃动物"
+  },
+  "tithe": {
+    "word": "tithe",
+    "definition": "十分之一",
+    "phonetic": "/taɪð/",
+    "mnemonic": "t（十）+ithe（分之一）=十分之一"
+  },
+  "tenths": {
+    "word": "tenths",
+    "definition": "十分之一",
+    "phonetic": "/tɛnθs/",
+    "mnemonic": "ten（十）+ths（分之一）=十的分之一"
+  },
+  "truthful": {
+    "word": "truthful",
+    "definition": "诚实的，真实的",
+    "phonetic": "/ˈtruːθfəl/",
+    "mnemonic": "truth（真理）+ ful（充满）= 充满真理的"
+  },
+  "sash": {
+    "word": "sash",
+    "definition": "腰带，绶带",
+    "phonetic": "/sæʃ/",
+    "mnemonic": "s（丝）+ ash（灰）= 丝带像灰色的带子"
+  },
+  "historiographer": {
+    "word": "historiographer",
+    "definition": "历史学家，编史者",
+    "phonetic": "/hɪˌstɔːriˈɒɡrəfə/",
+    "mnemonic": "history（历史）+ grapher（记录者）= 记录历史的人"
+  },
+  "polite": {
+    "word": "polite",
+    "definition": "有礼貌的",
+    "phonetic": "/pəˈlaɪt/",
+    "mnemonic": "po(朋友)+lite(轻松)→朋友之间轻松有礼"
+  },
+  "enjoyment": {
+    "word": "enjoyment",
+    "definition": "享受",
+    "phonetic": "/ɪnˈdʒɔɪmənt/",
+    "mnemonic": "en(进入)+joy(快乐)→进入快乐状态"
+  },
+  "unoccupied": {
+    "word": "unoccupied",
+    "definition": "空闲的",
+    "phonetic": "/ʌnˈɒkjʊpaɪd/",
+    "mnemonic": "un(不)+occupied(占用)→不被占用"
+  },
+  "decay": {
+    "word": "decay",
+    "definition": "衰退",
+    "phonetic": "/dɪˈkeɪ/",
+    "mnemonic": "de(去掉)+cay(掉)→掉落衰退"
+  },
+  "wont": {
+    "word": "wont",
+    "definition": "习惯",
+    "phonetic": "/wəʊnt/",
+    "mnemonic": "won(赢)+t(的)→赢得的习惯"
+  },
+  "attainment": {
+    "word": "attainment",
+    "definition": "成就",
+    "phonetic": "/əˈteɪnmənt/",
+    "mnemonic": "attain(获得)+ment(名词后缀)→获得的成就"
+  },
+  "relaxation": {
+    "word": "relaxation",
+    "definition": "放松",
+    "phonetic": "/ˌriːlækˈseɪʃən/",
+    "mnemonic": "re(再)+lax(放松)→再一次放松"
+  },
+  "virtuous": {
+    "word": "virtuous",
+    "definition": "有德行的",
+    "phonetic": "/ˈvɜːrtʃuəs/",
+    "mnemonic": "vir（真）+tuous（有德行的）"
+  },
+  "excellence": {
+    "word": "excellence",
+    "definition": "卓越",
+    "phonetic": "/ˈɛksələns/",
+    "mnemonic": "ex（超出）+cell（细胞）+ence（状态）"
+  },
+  "abide": {
+    "word": "abide",
+    "definition": "忍受",
+    "phonetic": "/əˈbaɪd/",
+    "mnemonic": "a（一个）+bide（待）"
+  },
+  "hardship": {
+    "word": "hardship",
+    "definition": "困苦",
+    "phonetic": "/ˈhɑːrdʃɪp/",
+    "mnemonic": "hard（艰难）+ship（状态）"
+  },
+  "kung": {
+    "word": "kung",
+    "definition": "孔子弟子",
+    "phonetic": "/kʌŋ/",
+    "mnemonic": "音似'孔'，是孔子的弟子"
+  },
+  "benign": {
+    "word": "benign",
+    "definition": "和善的",
+    "phonetic": "/bɪˈnaɪn/",
+    "mnemonic": "be + nice，和善的人"
+  },
+  "courteous": {
+    "word": "courteous",
+    "definition": "礼貌的",
+    "phonetic": "/ˈkɜːrtiəs/",
+    "mnemonic": "court + eous，像在法庭上要礼貌"
+  },
+  "temperate": {
+    "word": "temperate",
+    "definition": "温和的",
+    "phonetic": "/ˈtɛmpərət/",
+    "mnemonic": "温度（temperature）适中，温和"
+  },
+  "complaisant": {
+    "word": "complaisant",
+    "definition": "顺从的",
+    "phonetic": "/kəmˈpleɪzənt/",
+    "mnemonic": "com + please，愿意取悦他人"
+  },
+  "ung": {
+    "word": "ung",
+    "definition": "无意义词",
+    "phonetic": "/ʌŋ/",
+    "mnemonic": "无实际意义，记忆时可忽略"
+  },
+  "yea": {
+    "word": "yea",
+    "definition": "是的",
+    "phonetic": "/jeɪ/",
+    "mnemonic": "发音像'耶'，表示肯定"
+  },
+  "practising": {
+    "word": "practising",
+    "definition": "练习",
+    "phonetic": "/ˈpræktɪsɪŋ/",
+    "mnemonic": "practice(练习)+ing(进行中)"
+  },
+  "prescribed": {
+    "word": "prescribed",
+    "definition": "规定的",
+    "phonetic": "/prɪˈskraɪbd/",
+    "mnemonic": "pre(预先)+scribe(写)=预先写好的规定"
+  },
+  "manifests": {
+    "word": "manifests",
+    "definition": "表现",
+    "phonetic": "/ˈmænɪfɛsts/",
+    "mnemonic": "manifest(显现)+s(复数)=显现出来的多种表现"
+  },
+  "gratify": {
+    "word": "gratify",
+    "definition": "满足",
+    "phonetic": "/ˈɡrætɪfaɪ/",
+    "mnemonic": "grat(愉快)+ify(使)=使人愉快，满足"
+  },
+  "appetite": {
+    "word": "appetite",
+    "definition": "食欲",
+    "phonetic": "/ˈæpɪtaɪt/",
+    "mnemonic": "app(应用)+etite(小)+=小应用，指小食欲"
+  },
+  "propriety": {
+    "word": "propriety",
+    "definition": "礼仪，得体",
+    "phonetic": "/prəˈpraɪəti/",
+    "mnemonic": "pro(专业)+pri(私)+ety(状态)→专业的私事状态→得体"
+  },
+  "inauguration": {
+    "word": "inauguration",
+    "definition": "就职，开幕",
+    "phonetic": "/ɪˌnɔːɡjʊˈreɪʃən/",
+    "mnemonic": "in(进入)+aug(增加)+uration(过程)→进入增加的过程→就职"
+  },
+  "observance": {
+    "word": "observance",
+    "definition": "遵守，仪式",
+    "phonetic": "/əbˈzɜːrvəns/",
+    "mnemonic": "observe(观察)+ance(状态)→观察的状态→遵守"
+  },
+  "expressive": {
+    "word": "expressive",
+    "definition": "表达的，表现的",
+    "phonetic": "/ɪkˈsprɛsɪv/",
+    "mnemonic": "express(表达)+ive(形容词后缀)→能表达的→表现的"
+  },
+  "licentious": {
+    "word": "licentious",
+    "definition": "放荡的，淫乱的",
+    "phonetic": "/laɪˈsɛnʃəs/",
+    "mnemonic": "license(许可证)+tious(形容词后缀)→有许可证的放荡→放荡的"
+  },
+  "hurtfully": {
+    "word": "hurtfully",
+    "definition": "伤害地，痛苦地",
+    "phonetic": "/ˈhɜːrtfəlɪ/",
+    "mnemonic": "hurt(伤害)+fully(副词后缀)→伤害的方式→伤害地"
+  },
+  "disgrace": {
+    "word": "disgrace",
+    "definition": "使丢脸",
+    "phonetic": "/dɪsˈɡreɪs/",
+    "mnemonic": "dis（不）+ grace（优雅）= 不优雅，丢脸"
+  },
+  "yao": {
+    "word": "yao",
+    "definition": "要",
+    "phonetic": "/jɑː/",
+    "mnemonic": "音似'要'，表示需求"
+  },
+  "devoid": {
+    "word": "devoid",
+    "definition": "缺乏",
+    "phonetic": "/dɪˈvɔɪd/",
+    "mnemonic": "de（去掉）+ void（空的）= 去掉空的，缺乏"
+  },
+  "admonish": {
+    "word": "admonish",
+    "definition": "告诫",
+    "phonetic": "/ədˈmɒnɪʃ/",
+    "mnemonic": "ad（向前）+ monish（警告）= 向前警告，告诫"
+  },
+  "skillfully": {
+    "word": "skillfully",
+    "definition": "熟练地",
+    "phonetic": "/ˈskɪl.fəl.i/",
+    "mnemonic": "skill（技能）+ fully（完全地）= 完全有技能，熟练"
+  },
+  "dwelling": {
+    "word": "dwelling",
+    "definition": "居住地",
+    "phonetic": "/ˈdwɛlɪŋ/",
+    "mnemonic": "住(dwell)的地方(ing)"
+  },
+  "appliances": {
+    "word": "appliances",
+    "definition": "设备",
+    "phonetic": "/əˈplaɪənsɪz/",
+    "mnemonic": "用来(应用)的东西(ances)"
+  },
+  "rectified": {
+    "word": "rectified",
+    "definition": "纠正",
+    "phonetic": "/ˈrɛktɪfaɪd/",
+    "mnemonic": "重新(rect)修正(fied)"
+  },
+  "cheerful": {
+    "word": "cheerful",
+    "definition": "愉快的",
+    "phonetic": "/ˈtʃɪrfl/",
+    "mnemonic": "心情好(cheer)的(full)"
+  },
+  "apprehend": {
+    "word": "apprehend",
+    "definition": "理解",
+    "phonetic": "/ˌæprɪˈhɛnd/",
+    "mnemonic": "抓住(app)理解(hend)"
+  },
+  "pronounce": {
+    "word": "pronounce",
+    "definition": "发音",
+    "phonetic": "/prəˈnaʊns/",
+    "mnemonic": "发音像'普诺斯'，想象普诺斯在说话"
+  },
+  "sedately": {
+    "word": "sedately",
+    "definition": "稳重地",
+    "phonetic": "/sɪˈdeɪtli/",
+    "mnemonic": "分开记：'se'（自己）+'date'（约会），约会要稳重"
+  },
+  "reverently": {
+    "word": "reverently",
+    "definition": "恭敬地",
+    "phonetic": "/ˈrɛvərəntli/",
+    "mnemonic": "联想'rever'（尊敬）+ently，表示尊敬的态度"
+  },
+  "neighbours": {
+    "word": "neighbours",
+    "definition": "邻居",
+    "phonetic": "/ˈneɪbərz/",
+    "mnemonic": "想象'邻'（邻居）+ '居'（居住），邻居就是住在旁边的人"
+  },
+  "obstinate": {
+    "word": "obstinate",
+    "definition": "固执的",
+    "phonetic": "/ˈɒbstɪnət/",
+    "mnemonic": "拆分为'ob'（反对）+'stinate'（坚持），反对改变的坚持"
+  },
+  "odes": {
+    "word": "odes",
+    "definition": "诗歌",
+    "phonetic": "/oʊdz/",
+    "mnemonic": "o（哦）+ des（得斯）= 诗歌"
+  },
+  "contentions": {
+    "word": "contentions",
+    "definition": "争论",
+    "phonetic": "/kənˈtɛnʃənz/",
+    "mnemonic": "con（共同）+ tent（帐篷）+ ions（离子）= 争论"
+  },
+  "complaisantly": {
+    "word": "complaisantly",
+    "definition": "顺从地",
+    "phonetic": "/kəmˈpleɪsəntli/",
+    "mnemonic": "com（共同）+ plais（愉快）+ ant（蚂蚁）= 顺从地"
+  },
+  "ascends": {
+    "word": "ascends",
+    "definition": "上升",
+    "phonetic": "/əˈsɛndz/",
+    "mnemonic": "as（作为）+ cend（升起）= 上升"
+  },
+  "forfeit": {
+    "word": "forfeit",
+    "definition": "罚金",
+    "phonetic": "/ˈfɔrˌfɪt/",
+    "mnemonic": "for（为了）+ feit（失去）= 罚金"
+  },
+  "contention": {
+    "word": "contention",
+    "definition": "争执",
+    "phonetic": "/kənˈtɛnʃən/",
+    "mnemonic": "con（共同）+ tent（帐篷）+ ion（离子）= 争执"
+  },
+  "dimples": {
+    "word": "dimples",
+    "definition": "酒窝",
+    "phonetic": "/ˈdɪmpəlz/",
+    "mnemonic": "dim（暗淡）+ ples（地方）= 酒窝"
+  },
+  "artful": {
+    "word": "artful",
+    "definition": "巧妙的",
+    "phonetic": "/ˈɑrtfəl/",
+    "mnemonic": "art（艺术）+ ful（充满）= 巧妙的"
+  },
+  "afflicted": {
+    "word": "afflicted",
+    "definition": "受苦的，痛苦的",
+    "phonetic": "/əˈflɪktɪd/",
+    "mnemonic": "分开记：afflict（折磨）+ ed（过去分词）"
+  },
+  "ode": {
+    "word": "ode",
+    "definition": "颂歌，歌颂诗",
+    "phonetic": "/oʊd/",
+    "mnemonic": "音似‘欧德’，想象为赞美的歌曲"
+  },
+  "polar": {
+    "word": "polar",
+    "definition": "北极的",
+    "phonetic": "/ˈpoʊlər/",
+    "mnemonic": "北极星，极地的"
+  },
+  "depraved": {
+    "word": "depraved",
+    "definition": "堕落的",
+    "phonetic": "/dɪˈpreɪvd/",
+    "mnemonic": "de（不）+praved（正直）"
+  },
+  "uniformity": {
+    "word": "uniformity",
+    "definition": "一致性",
+    "phonetic": "/ˌjunɪˈfɔːrmɪti/",
+    "mnemonic": "uni（统一）+form（形状）"
+  },
+  "decrees": {
+    "word": "decrees",
+    "definition": "法令",
+    "phonetic": "/dɪˈkriːz/",
+    "mnemonic": "de（下）+cree（命令）"
+  },
+  "lest": {
+    "word": "lest",
+    "definition": "以免",
+    "phonetic": "/lɛst/",
+    "mnemonic": "lest = less + t，少了(t)就以免了"
+  },
+  "troublesome": {
+    "word": "troublesome",
+    "definition": "麻烦的",
+    "phonetic": "/ˈtrʌb.əl.səm/",
+    "mnemonic": "trouble + some，麻烦的事儿"
+  },
+  "toil": {
+    "word": "toil",
+    "definition": "辛苦工作",
+    "phonetic": "/tɔɪl/",
+    "mnemonic": "toil = toil(辛苦) + l(劳动)，辛苦劳动"
+  },
+  "nan": {
+    "word": "nan",
+    "definition": "奶奶",
+    "phonetic": "/næn/",
+    "mnemonic": "nan = 奶奶的发音，简单易记"
+  },
+  "countenance": {
+    "word": "countenance",
+    "definition": "面容，表情",
+    "phonetic": "/ˈkaʊntənəns/",
+    "mnemonic": "count(计算) + enance(增强) → 计算面容"
+  },
+  "mournful": {
+    "word": "mournful",
+    "definition": "悲伤的，哀悼的",
+    "phonetic": "/ˈmɔːrnfl/",
+    "mnemonic": "mourn(哀悼) + ful(充满) → 充满哀悼"
+  },
+  "specially": {
+    "word": "specially",
+    "definition": "特别地，专门地",
+    "phonetic": "/ˈspeʃəli/",
+    "mnemonic": "special(特别的) + ly(地) → 特别地"
+  },
+  "heedlessness": {
+    "word": "heedlessness",
+    "definition": "不注意，粗心大意",
+    "phonetic": "/ˈhiːdləsnəs/",
+    "mnemonic": "heed(注意) + less(没有) → 没有注意"
+  },
+  "lowness": {
+    "word": "lowness",
+    "definition": "低下，卑微",
+    "phonetic": "/ˈloʊnəs/",
+    "mnemonic": "low(低) + ness(状态) → 低的状态"
+  },
+  "impropriety": {
+    "word": "impropriety",
+    "definition": "不当，失礼",
+    "phonetic": "/ˌɪmprəˈpraɪəti/",
+    "mnemonic": "im(不) + propriety(适当) → 不适当"
+  },
+  "conceal": {
+    "word": "conceal",
+    "definition": "隐藏",
+    "phonetic": "/kənˈsiːl/",
+    "mnemonic": "con(一起)+ceal(封闭)→一起封闭→隐藏"
+  },
+  "cherishing": {
+    "word": "cherishing",
+    "definition": "珍惜",
+    "phonetic": "/ˈtʃerɪʃɪŋ/",
+    "mnemonic": "cher(亲爱的)+ish(像)→像亲爱的那样珍惜"
+  },
+  "continually": {
+    "word": "continually",
+    "definition": "不断地",
+    "phonetic": "/kənˈtɪn.ju.ə.li/",
+    "mnemonic": "con(一起)+tin(罐子)+u(你)+ally(总是)→总是一起在罐子里→不断地"
+  },
+  "ching": {
+    "word": "ching",
+    "definition": "叮当声",
+    "phonetic": "/tʃɪŋ/",
+    "mnemonic": "ch(发音像) + ing(进行)→发出叮当声的进行"
+  },
+  "utensil": {
+    "word": "utensil",
+    "definition": "器具",
+    "phonetic": "/juːˈtɛnsl/",
+    "mnemonic": "用(用)具(具)"
+  },
+  "gemmed": {
+    "word": "gemmed",
+    "definition": "镶嵌宝石的",
+    "phonetic": "/dʒɛm/",
+    "mnemonic": "宝石(gem)装饰"
+  },
+  "afterwards": {
+    "word": "afterwards",
+    "definition": "之后",
+    "phonetic": "ˈɑːftərwərdz",
+    "mnemonic": "after（之后）+ wards（方向）"
+  },
+  "partisan": {
+    "word": "partisan",
+    "definition": "党派的",
+    "phonetic": "ˈpɑːrtɪzən",
+    "mnemonic": "part（部分）+ isan（像）"
+  },
+  "perilous": {
+    "word": "perilous",
+    "definition": "危险的",
+    "phonetic": "ˈpɛrɪləs",
+    "mnemonic": "peril（危险）+ ous（多的）"
+  },
+  "injurious": {
+    "word": "injurious",
+    "definition": "有害的",
+    "phonetic": "/ɪnˈdʒʊəriəs/",
+    "mnemonic": "in(不)+jure(伤害)=不伤害的"
+  },
+  "glib": {
+    "word": "glib",
+    "definition": "流利的",
+    "phonetic": "/ɡlɪb/",
+    "mnemonic": "glib(流利)+tongue(舌头)=舌头灵活"
+  },
+  "ducal": {
+    "word": "ducal",
+    "definition": "公爵的",
+    "phonetic": "/ˈdjuːkəl/",
+    "mnemonic": "duke(公爵)+al(的)=公爵的"
+  },
+  "descendants": {
+    "word": "descendants",
+    "definition": "后代",
+    "phonetic": "/dɪˈsɛndənts/",
+    "mnemonic": "de(向下)+scend(攀登)=向下攀登的后代"
+  },
+  "advantageous": {
+    "word": "advantageous",
+    "definition": "有利的",
+    "phonetic": "/ədˈvæn.tɪ.dʒəs/",
+    "mnemonic": "advantage(优势)+ous(的)=有优势的"
+  },
+  "insinuatingly": {
+    "word": "insinuatingly",
+    "definition": "暗示地",
+    "phonetic": "/ɪnˈsɪn.ju.eɪ.tɪŋ.li/",
+    "mnemonic": "insinuate(暗示)+ingly(地)=暗示地"
+  },
+  "discriminating": {
+    "word": "discriminating",
+    "definition": "有辨别力的",
+    "phonetic": "/dɪsˈkrɪm.ɪ.neɪ.tɪŋ/",
+    "mnemonic": "dis(分开)+crimin(判断)+ating(的)=分开判断的"
+  },
+  "chang": {
+    "word": "chang",
+    "definition": "改变",
+    "phonetic": "/tʃeɪndʒ/",
+    "mnemonic": "拆解为‘长’和‘变’"
+  },
+  "daytime": {
+    "word": "daytime",
+    "definition": "白天",
+    "phonetic": "/ˈdeɪtaɪm/",
+    "mnemonic": "拆解为‘日’和‘时’"
+  },
+  "trowel": {
+    "word": "trowel",
+    "definition": "小铲",
+    "phonetic": "/ˈtraʊəl/",
+    "mnemonic": "拆解为‘铲’和‘工具’"
+  },
+  "reproving": {
+    "word": "reproving",
+    "definition": "责备",
+    "phonetic": "/rɪˈpruːvɪŋ/",
+    "mnemonic": "拆解为‘再’和‘证明’"
+  },
+  "emolument": {
+    "word": "emolument",
+    "definition": "报酬，薪水",
+    "phonetic": "/ɪˈmɒljʊmənt/",
+    "mnemonic": "em+ol+u+ment（发音像‘额外的收入’）"
+  },
+  "plowing": {
+    "word": "plowing",
+    "definition": "耕作，犁地",
+    "phonetic": "/ˈplaʊɪŋ/",
+    "mnemonic": "plow（犁）+ing（进行中）"
+  },
+  "cautiously": {
+    "word": "cautiously",
+    "definition": "小心地",
+    "phonetic": "/ˈkɔːʃəsli/",
+    "mnemonic": "cautious（小心的）+ly（副词后缀）"
+  },
+  "cautious": {
+    "word": "cautious",
+    "definition": "小心的",
+    "phonetic": "/ˈkɔːʃəs/",
+    "mnemonic": "caut（小心）+ious（形容词后缀）"
+  },
+  "repentance": {
+    "word": "repentance",
+    "definition": "悔恨",
+    "phonetic": "/rɪˈpɛntəns/",
+    "mnemonic": "re（再）+pent（后悔）+ance（名词后缀）"
+  },
+  "ang": {
+    "word": "ang",
+    "definition": "怒气，愤怒",
+    "phonetic": "/æŋ/",
+    "mnemonic": "拆解为'安'和'怒'，联想为安静时的怒气"
+  },
+  "hwa": {
+    "word": "hwa",
+    "definition": "花，开花",
+    "phonetic": "/hwɑː/",
+    "mnemonic": "拆解为'华'和'花'，联想为华丽的花朵"
+  },
+  "ping": {
+    "word": "ping",
+    "definition": "平，平坦",
+    "phonetic": "/pɪŋ/",
+    "mnemonic": "拆解为'平'和'静'，联想为平静的状态"
+  },
+  "ruler": {
+    "word": "ruler",
+    "definition": "统治者",
+    "phonetic": "/ˈruːlər/",
+    "mnemonic": "ru(如) + ler(勒) → 如勒统治者"
+  },
+  "accordingly": {
+    "word": "accordingly",
+    "definition": "因此",
+    "phonetic": "/əˈkɔːrdɪŋli/",
+    "mnemonic": "accord(一致) + ing(进行) → 一致进行，因此"
+  },
+  "worthies": {
+    "word": "worthies",
+    "definition": "杰出人物",
+    "phonetic": "/ˈwɜːrðiz/",
+    "mnemonic": "worth(价值) + ies(复数) → 有价值的人们"
+  },
+  "virtuously": {
+    "word": "virtuously",
+    "definition": "有道德地",
+    "phonetic": "/ˈvɜːrtʃuəsli/",
+    "mnemonic": "virtue(美德) + ously(地) → 美德地"
+  },
+  "repine": {
+    "word": "repine",
+    "definition": "抱怨",
+    "phonetic": "/rɪˈpaɪn/",
+    "mnemonic": "re(再) + pine(松树) → 再次像松树一样抱怨"
+  },
+  "repining": {
+    "word": "repining",
+    "definition": "抱怨的",
+    "phonetic": "/rɪˈpaɪnɪŋ/",
+    "mnemonic": "re(再) + pine(松树) + ing(进行) → 再次抱怨的状态"
+  },
+  "discharge": {
+    "word": "discharge",
+    "definition": "履行，解除",
+    "phonetic": "/dɪsˈtʃɑːrdʒ/",
+    "mnemonic": "dis（不）+charge（收费）=不收费，解除责任"
+  },
+  "brotherly": {
+    "word": "brotherly",
+    "definition": "兄弟般的",
+    "phonetic": "/ˈbrʌðərli/",
+    "mnemonic": "brother（兄弟）+ly（形容词后缀）=兄弟般的"
+  },
+  "truthfulness": {
+    "word": "truthfulness",
+    "definition": "诚实",
+    "phonetic": "/ˈtruːθfəl.nəs/",
+    "mnemonic": "truth（真理）+ful（充满）+ness（名词后缀）=充满真理的状态"
+  },
+  "carriage": {
+    "word": "carriage",
+    "definition": "马车，运输",
+    "phonetic": "/ˈkærɪdʒ/",
+    "mnemonic": "carry（运输）+age（名词后缀）=运输工具"
+  },
+  "yoking": {
+    "word": "yoking",
+    "definition": "套住，连接",
+    "phonetic": "/joʊkɪŋ/",
+    "mnemonic": "yoke（连接）+ing（动名词后缀）=连接的动作"
+  },
+  "oxen": {
+    "word": "oxen",
+    "definition": "公牛",
+    "phonetic": "/ˈɑːksən/",
+    "mnemonic": "ox（牛）+en（复数后缀）=多头牛"
+  },
+  "dynasty": {
+    "word": "dynasty",
+    "definition": "王朝",
+    "phonetic": "/ˈdaɪnəsti/",
+    "mnemonic": "dyn（力量）+asty（状态）=有力量的家族"
+  },
+  "wherein": {
+    "word": "wherein",
+    "definition": "在其中",
+    "phonetic": "/ˈwɛrɪn/",
+    "mnemonic": "where（哪里）+in（在）=在某个地方"
+  },
+  "flattery": {
+    "word": "flattery",
+    "definition": "奉承",
+    "phonetic": "/ˈflætəri/",
+    "mnemonic": "flatter（奉承）+ y（形容词后缀）"
+  },
+  "wan": {
+    "word": "wan",
+    "definition": "苍白的",
+    "phonetic": "/wɒn/",
+    "mnemonic": "wan（听起来像‘完’）+ 苍白的状态"
+  },
+  "pantomimes": {
+    "word": "pantomimes",
+    "definition": "哑剧",
+    "phonetic": "/ˈpæn.tə.maɪm/",
+    "mnemonic": "拆解为‘泛’+‘图’+‘买’+‘姆’——泛图买姆，像哑剧一样表演"
+  },
+  "festive": {
+    "word": "festive",
+    "definition": "节日的，庆祝的",
+    "phonetic": "/ˈfɛstɪv/",
+    "mnemonic": "fest(节日)+ive(形容词后缀)"
+  },
+  "extravagant": {
+    "word": "extravagant",
+    "definition": "奢侈的",
+    "phonetic": "/ɪkˈstrævəɡənt/",
+    "mnemonic": "ex（外）+travag（旅行）+ant（蚂蚁）=外面旅行的蚂蚁很奢侈"
+  },
+  "idleness": {
+    "word": "idleness",
+    "definition": "闲散",
+    "phonetic": "/ˈaɪdlnəs/",
+    "mnemonic": "idle（无所事事）+ness（状态）=无所事事的状态"
+  },
+  "sauntering": {
+    "word": "sauntering",
+    "definition": "漫步",
+    "phonetic": "/ˈsɔːntərɪŋ/",
+    "mnemonic": "saunter（闲逛）+ing（进行时）=正在闲逛"
+  },
+  "feasting": {
+    "word": "feasting",
+    "definition": "盛宴",
+    "phonetic": "/ˈfiːstɪŋ/",
+    "mnemonic": "feast（宴会）+ing（进行时）=正在举行的宴会"
+  },
+  "liable": {
+    "word": "liable",
+    "definition": "易受影响的",
+    "phonetic": "/ˈlaɪəbl/",
+    "mnemonic": "li（容易）+able（能够）=容易受到影响的"
+  },
+  "rashness": {
+    "word": "rashness",
+    "definition": "鲁莽",
+    "phonetic": "/ˈræʃnəs/",
+    "mnemonic": "rash（鲁莽的）+ness（状态）=鲁莽的状态"
+  },
+  "blindness": {
+    "word": "blindness",
+    "definition": "盲目",
+    "phonetic": "/ˈblaɪndnəs/",
+    "mnemonic": "blind（盲的）+ness（状态）=盲目的状态"
+  },
+  "mourning": {
+    "word": "mourning",
+    "definition": "哀悼，悲伤",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "mnemonic": "mour（哀）+ning（宁静）"
+  },
+  "garments": {
+    "word": "garments",
+    "definition": "衣服，服装",
+    "phonetic": "/ˈɡɑːrmənts/",
+    "mnemonic": "gar（盖）+ments（物品）"
+  },
+  "sorrow": {
+    "word": "sorrow",
+    "definition": "悲伤",
+    "phonetic": "/ˈsɔːroʊ/",
+    "mnemonic": "sor（痛苦）+ row（排）= 排队痛苦"
+  },
+  "ceremonial": {
+    "word": "ceremonial",
+    "definition": "仪式的",
+    "phonetic": "/ˌsɛrəˈmoʊniəl/",
+    "mnemonic": "ceremony（仪式）+ al（的）= 仪式的"
+  },
+  "talkers": {
+    "word": "talkers",
+    "definition": "说话者",
+    "phonetic": "/ˈtɔːkərz/",
+    "mnemonic": "talk（说话）+ ers（者）= 说话者"
+  },
+  "observances": {
+    "word": "observances",
+    "definition": "礼仪",
+    "phonetic": "/əˈzɜːrvənsɪz/",
+    "mnemonic": "observe(观察) + ances(状态) = 观察的状态"
+  },
+  "bearer": {
+    "word": "bearer",
+    "definition": "携带者",
+    "phonetic": "/ˈbɛrər/",
+    "mnemonic": "bear(承载) + er(人) = 承载的人"
+  },
+  "abstains": {
+    "word": "abstains",
+    "definition": "戒除",
+    "phonetic": "/əbˈsteɪnz/",
+    "mnemonic": "abs(不) + tain(保持) = 不保持"
+  },
+  "ruined": {
+    "word": "ruined",
+    "definition": "毁坏的",
+    "phonetic": "/ˈruːɪnd/",
+    "mnemonic": "ruin(毁灭) + ed(过去分词) = 被毁灭的"
+  },
+  "procuring": {
+    "word": "procuring",
+    "definition": "获取",
+    "phonetic": "/prəˈkjʊərɪŋ/",
+    "mnemonic": "pro(向前) + cure(治疗) = 向前获取"
+  },
+  "friction": {
+    "word": "friction",
+    "definition": "摩擦",
+    "phonetic": "/ˈfrɪkʃən/",
+    "mnemonic": "frict(摩擦) + ion(状态) = 摩擦的状态"
+  },
+  "embroidered": {
+    "word": "embroidered",
+    "definition": "刺绣的",
+    "phonetic": "/ɪmˈbrɔɪdərd/",
+    "mnemonic": "embroider(刺绣) + ed(过去分词) = 被刺绣的"
+  },
+  "rude": {
+    "word": "rude",
+    "definition": "粗鲁的",
+    "phonetic": "/ruːd/",
+    "mnemonic": "rude = 如此粗"
+  },
+  "discerning": {
+    "word": "discerning",
+    "definition": "有洞察力的",
+    "phonetic": "/dɪˈsɜːrnɪŋ/",
+    "mnemonic": "discerning = 识别能力强"
+  },
+  "archery": {
+    "word": "archery",
+    "definition": "射箭",
+    "phonetic": "/ˈɑːr.tʃər.i/",
+    "mnemonic": "arch(拱形)+ery(领域)→拱形的领域→射箭"
+  },
+  "sufficiently": {
+    "word": "sufficiently",
+    "definition": "足够地",
+    "phonetic": "[səˈfɪʃəntli]",
+    "mnemonic": "suffi(足够)+cient(科学的)→足够科学的"
+  },
+  "attest": {
+    "word": "attest",
+    "definition": "证明",
+    "phonetic": "[əˈtɛst]",
+    "mnemonic": "at(在)+test(测试)→在测试中证明"
+  },
+  "insufficiency": {
+    "word": "insufficiency",
+    "definition": "不足",
+    "phonetic": "[ˌɪnsəˈfɪʃənsi]",
+    "mnemonic": "in(不)+suffi(足够)+ciency(状态)→不足的状态"
+  },
+  "adduce": {
+    "word": "adduce",
+    "definition": "引证",
+    "phonetic": "[əˈdjuːs]",
+    "mnemonic": "ad(向)+duce(引导)→引导出证据"
+  },
+  "libation": {
+    "word": "libation",
+    "definition": "祭酒",
+    "phonetic": "[laɪˈbeɪʃən]",
+    "mnemonic": "lib(自由)+ation(行为)→自由的祭酒行为"
+  },
+  "furnace": {
+    "word": "furnace",
+    "definition": "熔炉",
+    "phonetic": "/ˈfɜrnɪs/",
+    "mnemonic": "fu(福) + rn(人) + ace(脸) -> 福人脸上有个熔炉"
+  },
+  "offends": {
+    "word": "offends",
+    "definition": "冒犯",
+    "phonetic": "/əˈfɛndz/",
+    "mnemonic": "o(哦) + f(发) + f(发) + ends(结束) -> 冒犯后结束"
+  },
+  "dynasties": {
+    "word": "dynasties",
+    "definition": "王朝",
+    "phonetic": "/ˈdaɪnəstiz/",
+    "mnemonic": "代(代) + 纳(纳) + 斯(斯) = 王朝"
+  },
+  "corresponded": {
+    "word": "corresponded",
+    "definition": "相应",
+    "phonetic": "/ˌkɔːrəˈspɒndɪd/",
+    "mnemonic": "对应(对) + 反应(应) = 相应"
+  },
+  "glorious": {
+    "word": "glorious",
+    "definition": "辉煌的",
+    "phonetic": "/ˈɡlɔːriəs/",
+    "mnemonic": "光(光) + 荣(荣) + 之(之) = 辉煌的"
+  },
+  "abundant": {
+    "word": "abundant",
+    "definition": "丰富的",
+    "phonetic": "/əˈbʌndənt/",
+    "mnemonic": "阿(阿) + 本(本) + 但(但) = 丰富的"
+  },
+  "altars": {
+    "word": "altars",
+    "definition": "祭坛",
+    "phonetic": "/ˈɔːltərz/",
+    "mnemonic": "altar（祭坛）+s（复数）"
+  },
+  "sovereign": {
+    "word": "sovereign",
+    "definition": "君主",
+    "phonetic": "/ˈsɒv.ər.ɪn/",
+    "mnemonic": "so（如此）+vere（真）+ign（统治）"
+  },
+  "chestnut": {
+    "word": "chestnut",
+    "definition": "栗子",
+    "phonetic": "/ˈtʃes.nʌt/",
+    "mnemonic": "chest（胸）+nut（坚果）"
+  },
+  "needless": {
+    "word": "needless",
+    "definition": "不必要的",
+    "phonetic": "/ˈniːd.ləs/",
+    "mnemonic": "need（需要）+less（没有）"
+  },
+  "remonstrate": {
+    "word": "remonstrate",
+    "definition": "抗议",
+    "phonetic": "/rɪˈmɒn.streɪt/",
+    "mnemonic": "re（再）+mon（警告）+strate（策略）"
+  },
+  "parsimonious": {
+    "word": "parsimonious",
+    "definition": "吝啬的",
+    "phonetic": "/ˌpɑː.sɪˈməʊ.ni.əs/",
+    "mnemonic": "par（平等）+sim（简单）+onious（多余）"
+  },
+  "cypress": {
+    "word": "cypress",
+    "definition": "柏树",
+    "phonetic": "/ˈsaɪprəs/",
+    "mnemonic": "cyp-像‘赛跑’的‘赛’，ress-像‘休息’的‘瑞’"
+  },
+  "tattered": {
+    "word": "tattered",
+    "definition": "破烂的",
+    "phonetic": "/ˈtætərd/",
+    "mnemonic": "tatt-像‘打’的‘塔’，ered-像‘耳朵’的‘耳’"
+  },
+  "quilted": {
+    "word": "quilted",
+    "definition": "缝制的",
+    "phonetic": "/ˈkwɪltɪd/",
+    "mnemonic": "quilt-像‘被子’的‘被’，ed-像‘的’的‘的’"
+  },
+  "hemp": {
+    "word": "hemp",
+    "definition": "麻",
+    "phonetic": "/hɛmp/",
+    "mnemonic": "hemp-像‘汉堡’的‘汉’，麻的‘麻’"
+  },
+  "dislikes": {
+    "word": "dislikes",
+    "definition": "不喜欢",
+    "phonetic": "/dɪsˈlaɪks/",
+    "mnemonic": "dis-像‘不’的‘不’，likes-像‘喜欢’的‘喜’"
+  },
+  "covets": {
+    "word": "covets",
+    "definition": "渴望",
+    "phonetic": "/ˈkʌvɪts/",
+    "mnemonic": "covet-像‘渴望’的‘渴’，s-像‘是’的‘是’"
+  },
+  "awe": {
+    "word": "awe",
+    "definition": "敬畏",
+    "phonetic": "/ɔː/",
+    "mnemonic": "奥威(敬畏)的感觉"
+  },
+  "lust": {
+    "word": "lust",
+    "definition": "欲望",
+    "phonetic": "/lʌst/",
+    "mnemonic": "乐死(欲望)的感觉"
+  },
+  "quarrelsomeness": {
+    "word": "quarrelsomeness",
+    "definition": "好争吵",
+    "phonetic": "/ˈkwɔːrəlˌsʌm.nəs/",
+    "mnemonic": "争吵(好争吵)的性格"
+  },
+  "decayed": {
+    "word": "decayed",
+    "definition": "腐烂的",
+    "phonetic": "/dɪˈkeɪd/",
+    "mnemonic": "地壳(腐烂)的状态"
+  },
+  "ordinances": {
+    "word": "ordinances",
+    "definition": "法令",
+    "phonetic": "/ˈɔːrdɪnənsɪz/",
+    "mnemonic": "奥丁(法令)的命令"
+  },
+  "sages": {
+    "word": "sages",
+    "definition": "智者",
+    "phonetic": "/seɪdʒɪz/",
+    "mnemonic": "赛季(智者)的智慧"
+  },
+  "intercepting": {
+    "word": "intercepting",
+    "definition": "拦截",
+    "phonetic": "[ˌɪntərˈsɛptɪŋ]",
+    "mnemonic": "inter(在...之间)+cept(抓住)=在之间抓住"
+  },
+  "inverted": {
+    "word": "inverted",
+    "definition": "倒置的",
+    "phonetic": "[ɪnˈvɜːrtɪd]",
+    "mnemonic": "in(里面)+vert(转)=转到里面=倒置"
+  },
+  "commencement": {
+    "word": "commencement",
+    "definition": "开始",
+    "phonetic": "[kəˈmɛnsmənt]",
+    "mnemonic": "come(来)+mence(开始)=开始来临"
+  },
+  "severally": {
+    "word": "severally",
+    "definition": "各自地",
+    "phonetic": "[ˈsɛvərəli]",
+    "mnemonic": "sever(分开)+ally(地)=分开地"
+  },
+  "warden": {
+    "word": "warden",
+    "definition": "边境守卫",
+    "phonetic": "/ˈwɔːrdən/",
+    "mnemonic": "守卫(watch)边界(ward)"
+  },
+  "followers": {
+    "word": "followers",
+    "definition": "追随者",
+    "phonetic": "/ˈfɒloʊərz/",
+    "mnemonic": "跟随(follow)的人"
+  },
+  "sage": {
+    "word": "sage",
+    "definition": "智者",
+    "phonetic": "/seɪdʒ/",
+    "mnemonic": "智慧(sage)的老人"
+  },
+  "indulgent": {
+    "word": "indulgent",
+    "definition": "宽容的",
+    "phonetic": "/ɪnˈdʌldʒənt/",
+    "mnemonic": "放纵(indulge)的态度"
+  },
+  "wherewith": {
+    "word": "wherewith",
+    "definition": "用什么",
+    "phonetic": "/ˈwɛrˌwɪð/",
+    "mnemonic": "哪里(where)用什么(with)"
+  },
+  "distressed": {
+    "word": "distressed",
+    "definition": "痛苦的，忧虑的",
+    "phonetic": "/dɪˈstrɛst/",
+    "mnemonic": "dis（不）+ tress（压力）= 不受压力"
+  },
+  "reverentially": {
+    "word": "reverentially",
+    "definition": "恭敬地，尊敬地",
+    "phonetic": "/ˌrɛv.əˈrɛn.ʃəl.i/",
+    "mnemonic": "rever（尊敬）+ ential（性质）= 尊敬的性质"
+  },
+  "observant": {
+    "word": "observant",
+    "definition": "观察力强的，注意的",
+    "phonetic": "/əbˈzɜːrvənt/",
+    "mnemonic": "observe（观察）+ ant（形容词后缀）= 观察的"
+  },
+  "slander": {
+    "word": "slander",
+    "definition": "诽谤，中伤",
+    "phonetic": "/ˈslændər/",
+    "mnemonic": "sland（污蔑）+ er（人）= 诽谤者"
+  },
+  "startle": {
+    "word": "startle",
+    "definition": "使惊吓，惊吓",
+    "phonetic": "/ˈstɑːrtl/",
+    "mnemonic": "start（开始）+ le（小）= 突然开始的小惊吓"
+  },
+  "startling": {
+    "word": "startling",
+    "definition": "令人惊讶的，惊人的",
+    "phonetic": "/ˈstɑːrtlɪŋ/",
+    "mnemonic": "startle（惊吓）+ ing（形容词后缀）= 令人惊吓的"
+  },
+  "farseeing": {
+    "word": "farseeing",
+    "definition": "有远见的，深思熟虑的",
+    "phonetic": "/fɑːrˈsiːɪŋ/",
+    "mnemonic": "far（远）+ seeing（看见）= 远见"
+  },
+  "generosity": {
+    "word": "generosity",
+    "definition": "慷慨大方",
+    "phonetic": "/ˌdʒɛnəˈrɑsɪti/",
+    "mnemonic": "拆解为'基因'+'大'，意为基因中有慷慨的特质"
+  },
+  "wickedness": {
+    "word": "wickedness",
+    "definition": "邪恶",
+    "phonetic": "/ˈwɪkɪdnəs/",
+    "mnemonic": "wick(蜡烛) + ed(过去式) + ness(状态) -> 过去的蜡烛状态是邪恶的"
+  },
+  "rambling": {
+    "word": "rambling",
+    "definition": "闲聊",
+    "phonetic": "/ˈræmbəlɪŋ/",
+    "mnemonic": "ram(乱) + bling(闪烁) -> 乱说话像闪烁"
+  },
+  "disregard": {
+    "word": "disregard",
+    "definition": "忽视",
+    "phonetic": "/ˌdɪs.rɪˈɡɑːrd/",
+    "mnemonic": "dis(不) + regard(看) -> 不看即忽视"
+  },
+  "benevolence": {
+    "word": "benevolence",
+    "definition": "仁慈",
+    "phonetic": "/bəˈnevələns/",
+    "mnemonic": "bene(好) + vol(意愿) + ence(状态) -> 好的意愿状态是仁慈"
+  },
+  "honours": {
+    "word": "honours",
+    "definition": "荣誉",
+    "phonetic": "/ˈɒnərz/",
+    "mnemonic": "honor（荣誉）+s（复数）"
+  },
+  "meanness": {
+    "word": "meanness",
+    "definition": "卑鄙",
+    "phonetic": "/ˈmiːn.nəs/",
+    "mnemonic": "mean（卑鄙的）+ness（状态）"
+  },
+  "fulfil": {
+    "word": "fulfil",
+    "definition": "实现",
+    "phonetic": "/fʊlˈfɪl/",
+    "mnemonic": "full（充满）+fill（填充）"
+  },
+  "contrary": {
+    "word": "contrary",
+    "definition": "相反",
+    "phonetic": "/ˈkɒntrəri/",
+    "mnemonic": "contra（反对）+ry（状态）"
+  },
+  "haste": {
+    "word": "haste",
+    "definition": "匆忙",
+    "phonetic": "/heɪst/",
+    "mnemonic": "hurry（匆忙）+aste（类似）"
+  },
+  "cleaves": {
+    "word": "cleaves",
+    "definition": "坚持",
+    "phonetic": "/kliːvz/",
+    "mnemonic": "cleave（劈开）+s（复数）"
+  },
+  "dislike": {
+    "word": "dislike",
+    "definition": "不喜欢",
+    "phonetic": "/dɪsˈlaɪk/",
+    "mnemonic": "拆解为 '不' + '喜欢'"
+  },
+  "dissatisfied": {
+    "word": "dissatisfied",
+    "definition": "不满意",
+    "phonetic": "/dɪsˈsætɪsfaɪd/",
+    "mnemonic": "拆解为 '不' + '满意'"
+  },
+  "esteem": {
+    "word": "esteem",
+    "definition": "尊重，重视",
+    "phonetic": "/ɪˈstiːm/",
+    "mnemonic": "以'尊'为首，'重'视他人"
+  },
+  "practise": {
+    "word": "practise",
+    "definition": "练习，实践",
+    "phonetic": "/ˈpræktɪs/",
+    "mnemonic": "拆解为'实践'，强调'练习'"
+  },
+  "insufficient": {
+    "word": "insufficient",
+    "definition": "力量不足",
+    "phonetic": "/ɪnˈsʌfɪʃənt/",
+    "mnemonic": "in(不)+sufficient(足够的)=不够的"
+  },
+  "niu": {
+    "word": "niu",
+    "definition": "牛",
+    "phonetic": "/njuː/",
+    "mnemonic": "niu(牛)=牛的发音"
+  },
+  "alas": {
+    "word": "alas",
+    "definition": "唉",
+    "phonetic": "/əˈlæs/",
+    "mnemonic": "a(一)+las(拉)=唉，真可惜"
+  },
+  "sickness": {
+    "word": "sickness",
+    "definition": "疾病",
+    "phonetic": "/ˈsɪk.nəs/",
+    "mnemonic": "sick(生病)+ness(状态)=生病的状态"
+  },
+  "bamboo": {
+    "word": "bamboo",
+    "definition": "竹子",
+    "phonetic": "/bæmˈbuː/",
+    "mnemonic": "bamb(竹)+oo(双)=竹子"
+  },
+  "gourd": {
+    "word": "gourd",
+    "definition": "葫芦",
+    "phonetic": "/ɡʊrd/",
+    "mnemonic": "g(葫)+ourd(圆)=葫芦的形状"
+  },
+  "ashamed": {
+    "word": "ashamed",
+    "definition": "感到羞愧",
+    "phonetic": "/əˈʃeɪmd/",
+    "mnemonic": "拆分为a（一个）+ shame（羞愧）"
+  },
+  "murmured": {
+    "word": "murmured",
+    "definition": "低声抱怨",
+    "phonetic": "/ˈmɜːrmərd/",
+    "mnemonic": "mur（低声）+ mur（抱怨）"
+  },
+  "complaisance": {
+    "word": "complaisance",
+    "definition": "顺从，殷勤",
+    "phonetic": "/kəmˈpleɪzəns/",
+    "mnemonic": "com（共同）+ plais（愉快）+ ance（状态）"
+  },
+  "worthy": {
+    "word": "worthy",
+    "definition": "值得的",
+    "phonetic": "/ˈwɜːrði/",
+    "mnemonic": "worth（价值）+ y（形容词后缀）"
+  },
+  "pervading": {
+    "word": "pervading",
+    "definition": "弥漫的",
+    "phonetic": "/pərˈveɪdɪŋ/",
+    "mnemonic": "per（完全）+ vade（走）"
+  },
+  "disciple": {
+    "word": "disciple",
+    "definition": "弟子",
+    "phonetic": "/dɪˈsaɪpl/",
+    "mnemonic": "dis（分开）+ ciple（跟随）"
+  },
+  "disciples": {
+    "word": "disciples",
+    "definition": "弟子们",
+    "phonetic": "/dɪˈsaɪplz/",
+    "mnemonic": "disciple（弟子）+ s（复数）"
+  },
+  "conversant": {
+    "word": "conversant",
+    "definition": "熟悉的",
+    "phonetic": "/kənˈvɜːrsənt/",
+    "mnemonic": "con（共同）+ vers（转）+ ant（人）= 共同转向的人，熟悉"
+  },
+  "inwards": {
+    "word": "inwards",
+    "definition": "向内",
+    "phonetic": "/ˈɪnwərdz/",
+    "mnemonic": "in（内）+ wards（方向）= 向内的方向"
+  },
+  "incline": {
+    "word": "incline",
+    "definition": "倾向",
+    "phonetic": "/ɪnˈklaɪn/",
+    "mnemonic": "in（在）+ cline（倾斜）= 在倾斜的状态，倾向"
+  },
+  "righteousness": {
+    "word": "righteousness",
+    "definition": "正义，公正",
+    "phonetic": "/ˈraɪtʃəsnəs/",
+    "mnemonic": "right(正确的)+eous(形容词后缀)"
+  },
+  "transmitter": {
+    "word": "transmitter",
+    "definition": "传播者，传输者",
+    "phonetic": "/trænzˈmɪtər/",
+    "mnemonic": "trans(传递)+mitter(发送者)"
+  },
+  "satiety": {
+    "word": "satiety",
+    "definition": "满足，饱足",
+    "phonetic": "/səˈtaɪəti/",
+    "mnemonic": "sati(满足)+ety(状态)"
+  },
+  "wearied": {
+    "word": "wearied",
+    "definition": "疲惫的，厌倦的",
+    "phonetic": "/ˈwɪərid/",
+    "mnemonic": "weary(疲惫)+ed(形容词后缀)"
+  },
+  "solicitude": {
+    "word": "solicitude",
+    "definition": "关心，挂念",
+    "phonetic": "/səˈlɪsɪtud/",
+    "mnemonic": "solicit(请求)+ude(状态)"
+  },
+  "murmur": {
+    "word": "murmur",
+    "definition": "低声抱怨",
+    "phonetic": "/ˈmɜːrmər/",
+    "mnemonic": "mur(墙) + mur(低声)"
+  },
+  "recompensed": {
+    "word": "recompensed",
+    "definition": "报答",
+    "phonetic": "/ˌrɛkəmˈpɛnst/",
+    "mnemonic": "re(再) + com(共同) + pense(花费)"
+  },
+  "kindness": {
+    "word": "kindness",
+    "definition": "善良",
+    "phonetic": "/ˈkaɪndnəs/",
+    "mnemonic": "kind(善良的) + ness(状态)"
+  },
+  "recompense": {
+    "word": "recompense",
+    "definition": "报酬",
+    "phonetic": "/ˈrɛkəmˌpɛns/",
+    "mnemonic": "re(再) + com(共同) + pense(花费)"
+  },
+  "utterance": {
+    "word": "utterance",
+    "definition": "言辞，发言",
+    "phonetic": "/'ʌtərəns/",
+    "mnemonic": "发音像'阿特人斯'，想象一个人说话"
+  },
+  "err": {
+    "word": "err",
+    "definition": "犯错",
+    "phonetic": "ɜːr",
+    "mnemonic": "e+rr(错误)→犯错"
+  },
+  "extensively": {
+    "word": "extensively",
+    "definition": "广泛地",
+    "phonetic": "ɪkˈstɛnsɪvli",
+    "mnemonic": "ex(外)+tens(拉伸)→向外拉伸→广泛"
+  },
+  "litigations": {
+    "word": "litigations",
+    "definition": "诉讼",
+    "phonetic": "ˌlɪtɪˈɡeɪʃənz",
+    "mnemonic": "lit(法律)+ig(行动)+ation(状态)→法律行动→诉讼"
+  },
+  "undeviating": {
+    "word": "undeviating",
+    "definition": "不偏离的",
+    "phonetic": "ˌʌnˈdiːvieɪtɪŋ",
+    "mnemonic": "un(不)+deviate(偏离)→不偏离"
+  },
+  "practises": {
+    "word": "practises",
+    "definition": "实践，练习",
+    "phonetic": "/ˈpræktɪsɪz/",
+    "mnemonic": "pract-实践，ices-多次"
+  },
+  "remonstrances": {
+    "word": "remonstrances",
+    "definition": "抗议，反对",
+    "phonetic": "/rɪˈmɒnstrənsɪz/",
+    "mnemonic": "remon-反，strance-站立"
+  },
+  "reproofs": {
+    "word": "reproofs",
+    "definition": "指责，批评",
+    "phonetic": "/rɪˈpruːfs/",
+    "mnemonic": "re-再，proof-证明"
+  },
+  "wived": {
+    "word": "wived",
+    "definition": "已婚的",
+    "phonetic": "/waɪvd/",
+    "mnemonic": "wive（妻子）+d（过去式）"
+  },
+  "sacrificial": {
+    "word": "sacrificial",
+    "definition": "祭祀的",
+    "phonetic": "/ˌsækrɪˈfɪʃəl/",
+    "mnemonic": "拆解为sacri(祭祀)+ficial(的)"
+  },
+  "dissatisfaction": {
+    "word": "dissatisfaction",
+    "definition": "不满",
+    "phonetic": "/ˌdɪsætɪsˈfækʃən/",
+    "mnemonic": "dis(不)+satisfy(满足)+ction(状态)"
+  },
+  "unbridled": {
+    "word": "unbridled",
+    "definition": "放纵的",
+    "phonetic": "/ʌnˈbraɪdld/",
+    "mnemonic": "un(不)+bridle(约束)"
+  },
+  "procure": {
+    "word": "procure",
+    "definition": "获得，取得",
+    "phonetic": "/prəˈkjʊr/",
+    "mnemonic": "pro(专业) + cure(治疗) = 专业获得治疗"
+  },
+  "hatred": {
+    "word": "hatred",
+    "definition": "仇恨",
+    "phonetic": "/ˈheɪtrɪd/",
+    "mnemonic": "hate(恨) + red(红色) = 恨得脸红"
+  },
+  "readiness": {
+    "word": "readiness",
+    "definition": "准备好",
+    "phonetic": "/ˈrɛdiness/",
+    "mnemonic": "ready(准备) + ness(状态) = 准备的状态"
+  },
+  "assurance": {
+    "word": "assurance",
+    "definition": "保证，信心",
+    "phonetic": "/əˈʃʊərəns/",
+    "mnemonic": "assure(保证) + ance(名词后缀) = 保证的状态"
+  },
+  "raft": {
+    "word": "raft",
+    "definition": "木筏",
+    "phonetic": "/ræft/",
+    "mnemonic": "raft(筏) = 浮在水面上的木头"
+  },
+  "fonder": {
+    "word": "fonder",
+    "definition": "更喜欢的",
+    "phonetic": "/ˈfɒndər/",
+    "mnemonic": "fond（喜欢）+er（更）"
+  },
+  "levies": {
+    "word": "levies",
+    "definition": "征收",
+    "phonetic": "/ˈlɛviz/",
+    "mnemonic": "levy（征收）+ies（复数）"
+  },
+  "clan": {
+    "word": "clan",
+    "definition": "家族",
+    "phonetic": "/klæn/",
+    "mnemonic": "cl（家）+an（族）"
+  },
+  "girt": {
+    "word": "girt",
+    "definition": "系紧",
+    "phonetic": "/ɡɜrt/",
+    "mnemonic": "girt（系紧）与gird（围绕）相似"
+  },
+  "converse": {
+    "word": "converse",
+    "definition": "交谈",
+    "phonetic": "/kənˈvɜːrs/",
+    "mnemonic": "con(一起)+verse(说)→一起说→交谈"
+  },
+  "hasty": {
+    "word": "hasty",
+    "definition": "匆忙的",
+    "phonetic": "/ˈheɪsti/",
+    "mnemonic": "hast(急速)+y(形容词后缀)→急速的→匆忙的"
+  },
+  "unbending": {
+    "word": "unbending",
+    "definition": "坚定不移的",
+    "phonetic": "/ʌnˈbɛndɪŋ/",
+    "mnemonic": "un(不)+bend(弯曲)→不弯曲→坚定"
+  },
+  "pronounced": {
+    "word": "pronounced",
+    "definition": "明显的",
+    "phonetic": "/prəˈnaʊnst/",
+    "mnemonic": "pro(向前)+nounce(宣布)→向前宣布→明显"
+  },
+  "attained": {
+    "word": "attained",
+    "definition": "达到",
+    "phonetic": "/əˈteɪnd/",
+    "mnemonic": "at(在)+tain(保持)→在保持中达到"
+  },
+  "inferiors": {
+    "word": "inferiors",
+    "definition": "下级，低于他人的人",
+    "phonetic": "/ɪnˈfɪəriərz/",
+    "mnemonic": "in（在）+fer（带来）+iors（人）= 在下面的人"
+  },
+  "nourishing": {
+    "word": "nourishing",
+    "definition": "滋养，养活",
+    "phonetic": "/ˈnɜːrɪʃɪŋ/",
+    "mnemonic": "nourish（滋养）+ing（进行时）= 正在滋养"
+  },
+  "humble": {
+    "word": "humble",
+    "definition": "谦逊的",
+    "phonetic": "/ˈhʌm.bəl/",
+    "mnemonic": "hum（人）+ble（低）=人低调"
+  },
+  "notoriety": {
+    "word": "notoriety",
+    "definition": "恶名",
+    "phonetic": "/ˌnoʊ.təˈraɪ.ə.ti/",
+    "mnemonic": "not（不）+or（或）+iety（状态）=不好的状态"
+  },
+  "countenances": {
+    "word": "countenances",
+    "definition": "面容",
+    "phonetic": "/ˈkaʊn.tən.ənsɪz/",
+    "mnemonic": "count（数）+en（在）+ances（面）=面容在数"
+  },
+  "acquaintance": {
+    "word": "acquaintance",
+    "definition": "相识，熟人",
+    "phonetic": "/əˈkwāntəns/",
+    "mnemonic": "acquaint（熟悉）+ance（状态）"
+  },
+  "pillars": {
+    "word": "pillars",
+    "definition": "柱子，支柱",
+    "phonetic": "/ˈpɪlərz/",
+    "mnemonic": "pill（药丸）+ars（像柱子一样的东西）"
+  },
+  "duckweed": {
+    "word": "duckweed",
+    "definition": "浮萍",
+    "phonetic": "/ˈdʌkwiːd/",
+    "mnemonic": "duck（鸭子）+weed（杂草）"
+  },
+  "rafters": {
+    "word": "rafters",
+    "definition": "屋架，椽子",
+    "phonetic": "/ˈræftərz/",
+    "mnemonic": "raft（筏子）+ers（支撑的东西）"
+  },
+  "thrice": {
+    "word": "thrice",
+    "definition": "三次",
+    "phonetic": "/θraɪs/",
+    "mnemonic": "three（三）+ice（冰）"
+  },
+  "manifested": {
+    "word": "manifested",
+    "definition": "表现，显现",
+    "phonetic": "/ˈmænɪfɛstɪd/",
+    "mnemonic": "manifest（显现）+ed（过去式）"
+  },
+  "displeasure": {
+    "word": "displeasure",
+    "definition": "不快，厌恶",
+    "phonetic": "/dɪsˈplɛʒər/",
+    "mnemonic": "dis（不）+pleasure（快乐）"
+  },
+  "ming": {
+    "word": "ming",
+    "definition": "明，清晰",
+    "phonetic": "/mɪŋ/",
+    "mnemonic": "明（明亮）"
+  },
+  "tortoise": {
+    "word": "tortoise",
+    "definition": "乌龟",
+    "phonetic": "/ˈtɔːr.təs/",
+    "mnemonic": "托（t）+ 龟（guī）= 乌龟"
+  },
+  "hereafter": {
+    "word": "hereafter",
+    "definition": "今后",
+    "phonetic": "/hɪrˈæf.tər/",
+    "mnemonic": "这里（here）+ 之后（after）= 今后"
+  },
+  "scarcity": {
+    "word": "scarcity",
+    "definition": "稀缺",
+    "phonetic": "/ˈskɛr.sɪ.ti/",
+    "mnemonic": "稀（scar）+ 缺（city）= 稀缺"
+  },
+  "commence": {
+    "word": "commence",
+    "definition": "开始",
+    "phonetic": "/kəˈmɛns/",
+    "mnemonic": "开（com）+ 始（mence）= 开始"
+  },
+  "wrongly": {
+    "word": "wrongly",
+    "definition": "错误地",
+    "phonetic": "/ˈrɔːŋ.li/",
+    "mnemonic": "错（wrong）+ 地（ly）= 错误地"
+  },
+  "rhinoceros": {
+    "word": "rhinoceros",
+    "definition": "犀牛",
+    "phonetic": "/raɪˈnɒs.ər.əs/",
+    "mnemonic": "犀（rhi）+ 牛（noceros）= 犀牛"
+  },
+  "jade": {
+    "word": "jade",
+    "definition": "玉",
+    "phonetic": "/dʒeɪd/",
+    "mnemonic": "玉（jade）= 玉"
+  },
+  "repository": {
+    "word": "repository",
+    "definition": "储存处",
+    "phonetic": "/rɪˈpɒz.ɪ.tər.i/",
+    "mnemonic": "储（re）+ 存（pository）= 储存处"
+  },
+  "repose": {
+    "word": "repose",
+    "definition": "休息",
+    "phonetic": "/rɪˈpoʊz/",
+    "mnemonic": "休（re）+ 息（pose）= 休息"
+  },
+  "rebellious": {
+    "word": "rebellious",
+    "definition": "叛逆的",
+    "phonetic": "/rɪˈbɛl.jəs/",
+    "mnemonic": "反（re）+ 叛（bellious）= 叛逆的"
+  },
+  "submissive": {
+    "word": "submissive",
+    "definition": "顺从的",
+    "phonetic": "/səbˈmɪs.ɪv/",
+    "mnemonic": "顺（sub）+ 从（missive）= 顺从的"
+  },
+  "stupidity": {
+    "word": "stupidity",
+    "definition": "愚蠢",
+    "phonetic": "/stjuːˈpɪdəti/",
+    "mnemonic": "stup-（愚蠢）+idity（状态）"
+  },
+  "antiquity": {
+    "word": "antiquity",
+    "definition": "古代",
+    "phonetic": "/ænˈtɪkwɪti/",
+    "mnemonic": "anti-（反）+quity（时代）"
+  },
+  "stern": {
+    "word": "stern",
+    "definition": "严厉的",
+    "phonetic": "/stɜrn/",
+    "mnemonic": "stern（严厉）= sternum（胸骨，坚硬）"
+  },
+  "failings": {
+    "word": "failings",
+    "definition": "缺点",
+    "phonetic": "/ˈfeɪlɪŋz/",
+    "mnemonic": "fail（失败）+ings（状态）"
+  },
+  "mindedness": {
+    "word": "mindedness",
+    "definition": "心态",
+    "phonetic": "/ˈmaɪndɪdnəs/",
+    "mnemonic": "mind（心）+ed（状态）+ness（性质）"
+  },
+  "quarrelsome": {
+    "word": "quarrelsome",
+    "definition": "好争吵的",
+    "phonetic": "/ˈkwɔːrəlˌsʌm/",
+    "mnemonic": "quarrel（争吵）+some（有...倾向的）"
+  },
+  "perverseness": {
+    "word": "perverseness",
+    "definition": "任性",
+    "phonetic": "/pərˈvɜrsnəs/",
+    "mnemonic": "perverse（反常的）+ness（性质）"
+  },
+  "wickednesses": {
+    "word": "wickednesses",
+    "definition": "邪恶行为",
+    "phonetic": "/ˈwɪkɪdnəsɪz/",
+    "mnemonic": "wick（邪恶）+ ed（过去分词）+ ness（状态）"
+  },
+  "resentments": {
+    "word": "resentments",
+    "definition": "怨恨",
+    "phonetic": "/rɪˈzɛntmənts/",
+    "mnemonic": "resent（怨恨）+ ment（名词后缀）"
+  },
+  "shang": {
+    "word": "shang",
+    "definition": "商朝",
+    "phonetic": "/ʃɑːŋ/",
+    "mnemonic": "sh（商）+ ang（音）"
+  },
+  "hen": {
+    "word": "hen",
+    "definition": "母鸡",
+    "phonetic": "/hɛn/",
+    "mnemonic": "hen（母鸡）"
+  },
+  "cherish": {
+    "word": "cherish",
+    "definition": "珍惜，重视",
+    "phonetic": "/ˈtʃɛrɪʃ/",
+    "mnemonic": "cher(珍) + ish(像) → 像珍宝一样珍惜"
+  },
+  "reverential": {
+    "word": "reverential",
+    "definition": "尊敬的，崇敬的",
+    "phonetic": "/ˌrɛvəˈrɛnʃəl/",
+    "mnemonic": "rever(敬畏) + ential(的) → 敬畏的态度"
+  },
+  "hamlets": {
+    "word": "hamlets",
+    "definition": "小村庄",
+    "phonetic": "/ˈhæmlɪt/",
+    "mnemonic": "ham(火腿)+let(小)→小村庄"
+  },
+  "calf": {
+    "word": "calf",
+    "definition": "小牛",
+    "phonetic": "/kæf/",
+    "mnemonic": "cal(卡尔)+f(小)→小牛"
+  },
+  "brindled": {
+    "word": "brindled",
+    "definition": "有斑纹的",
+    "phonetic": "/ˈbrɪndəld/",
+    "mnemonic": "brin(斑)+dled(带)→有斑纹的"
+  },
+  "attain": {
+    "word": "attain",
+    "definition": "达到",
+    "phonetic": "/əˈteɪn/",
+    "mnemonic": "at(在)+tain(获得)→达到"
+  },
+  "politely": {
+    "word": "politely",
+    "definition": "礼貌地",
+    "phonetic": "/pəˈlaɪtli/",
+    "mnemonic": "polite（礼貌的）+ly（副词后缀）"
+  },
+  "obliged": {
+    "word": "obliged",
+    "definition": "感激的，必须的",
+    "phonetic": "/əˈblaɪdʒd/",
+    "mnemonic": "ob（反义词）+lige（联系）+d（过去分词）"
+  },
+  "distress": {
+    "word": "distress",
+    "definition": "痛苦，困扰",
+    "phonetic": "/dɪˈstrɛs/",
+    "mnemonic": "分开记：dis（不）+ stress（压力）"
+  },
+  "presume": {
+    "word": "presume",
+    "definition": "假设，推测",
+    "phonetic": "/prɪˈzum/",
+    "mnemonic": "pre（预先）+ sume（假设）"
+  },
+  "perpetual": {
+    "word": "perpetual",
+    "definition": "永久的，持续的",
+    "phonetic": "/pərˈpɛtʃuəl/",
+    "mnemonic": "per（每）+ pet（追求）+ ual（的）"
+  },
+  "sinner": {
+    "word": "sinner",
+    "definition": "罪人",
+    "phonetic": "/ˈsɪnər/",
+    "mnemonic": "sin（罪）+ ner（人）"
+  },
+  "thy": {
+    "word": "thy",
+    "definition": "你的",
+    "phonetic": "/ðaɪ/",
+    "mnemonic": "th（你的）+ y（你）"
+  },
+  "obscurity": {
+    "word": "obscurity",
+    "definition": "模糊，晦涩",
+    "phonetic": "/əbˈskjʊrɪti/",
+    "mnemonic": "ob（反）+ scur（遮掩）+ ity（状态）"
+  },
+  "offences": {
+    "word": "offences",
+    "definition": "罪行，冒犯",
+    "phonetic": "/əˈfɛnsɪz/",
+    "mnemonic": "off（离开）+ fences（围栏）"
+  },
+  "myriad": {
+    "word": "myriad",
+    "definition": "无数，大量",
+    "phonetic": "/ˈmɪr.i.əd/",
+    "mnemonic": "my（我的）+ riad（数量）"
+  },
+  "specious": {
+    "word": "specious",
+    "definition": "似是而非的",
+    "phonetic": "/ˈspiːʃəs/",
+    "mnemonic": "spec(看作特别) + ious(多) → 特别多的理由，似是而非"
+  },
+  "excess": {
+    "word": "excess",
+    "definition": "过度",
+    "phonetic": "/ɪkˈsɛs/",
+    "mnemonic": "ex(外) + cess(走) → 走得太远，过度"
+  },
+  "rusticity": {
+    "word": "rusticity",
+    "definition": "乡土气息",
+    "phonetic": "/rʌˈstɪsɪti/",
+    "mnemonic": "rust(生锈) + icity(性质) → 生锈的乡村性质，乡土气息"
+  },
+  "uprightness": {
+    "word": "uprightness",
+    "definition": "正直",
+    "phonetic": "/ˈʌpraɪtnəs/",
+    "mnemonic": "up(向上) + right(正确) + ness(状态) → 向上正确的状态，正直"
+  },
+  "mediocrity": {
+    "word": "mediocrity",
+    "definition": "平庸",
+    "phonetic": "/ˌmiːdiˈɒkrɪti/",
+    "mnemonic": "medi（中间）+ocr（选择）+ity（状态）= 中间状态"
+  },
+  "earnestly": {
+    "word": "earnestly",
+    "definition": "认真地",
+    "phonetic": "/ˈɜːrnɪstli/",
+    "mnemonic": "earn（挣得）+estly（方式）= 以认真方式挣得"
+  },
+  "aloof": {
+    "word": "aloof",
+    "definition": "冷漠的",
+    "phonetic": "/əˈluːf/",
+    "mnemonic": "a（不）+loof（亲近）= 不亲近"
+  },
+  "restraint": {
+    "word": "restraint",
+    "definition": "约束，限制",
+    "phonetic": "/rɪˈstreɪnt/",
+    "mnemonic": "re（再）+strain（拉紧）=再拉紧，约束"
+  },
+  "overstep": {
+    "word": "overstep",
+    "definition": "越界，超越",
+    "phonetic": "/ˌoʊvərˈstɛp/",
+    "mnemonic": "over（超过）+step（步伐）=超过步伐，越界"
+  },
+  "improperly": {
+    "word": "improperly",
+    "definition": "不当，不合适",
+    "phonetic": "/ɪmˈprɒpərli/",
+    "mnemonic": "im（不）+properly（适当）=不适当"
+  },
+  "conferring": {
+    "word": "conferring",
+    "definition": "授予，给予",
+    "phonetic": "/kənˈfɜːrɪŋ/",
+    "mnemonic": "con（共同）+fer（带来）=共同带来"
+  },
+  "connexion": {
+    "word": "connexion",
+    "definition": "联系，关联",
+    "phonetic": "/kəˈnɛkʃən/",
+    "mnemonic": "connect（连接）+ion（名词后缀）=连接的状态"
+  },
+  "solicitous": {
+    "word": "solicitous",
+    "definition": "关心的，挂念的",
+    "phonetic": "/səˈlɪsɪtəs/",
+    "mnemonic": "sol（单独）+icit（请求）+ous（形容词后缀）=单独请求关心"
+  },
+  "enlarged": {
+    "word": "enlarged",
+    "definition": "扩大的，增大的",
+    "phonetic": "/ɪnˈlɑːrdʒd/",
+    "mnemonic": "en（使）+large（大）=使变大"
+  },
+  "enlarge": {
+    "word": "enlarge",
+    "definition": "扩大，增大",
+    "phonetic": "/ɪnˈlɑːrdʒ/",
+    "mnemonic": "en（使）+large（大）=使变大"
+  },
+  "nigh": {
+    "word": "nigh",
+    "definition": "接近，临近",
+    "phonetic": "/naɪ/",
+    "mnemonic": "nigh（近）=近的意思"
+  },
+  "cultivation": {
+    "word": "cultivation",
+    "definition": "自我修养",
+    "phonetic": "/ˌkʌltɪˈveɪʃən/",
+    "mnemonic": "cult(耕种)+ivation(过程)→耕种的过程"
+  },
+  "rulers": {
+    "word": "rulers",
+    "definition": "统治者",
+    "phonetic": "/ˈruːlərz/",
+    "mnemonic": "rule(统治)+ers(人)→统治的人"
+  },
+  "cultivates": {
+    "word": "cultivates",
+    "definition": "培养",
+    "phonetic": "/ˈkʌltɪˌveɪts/",
+    "mnemonic": "cult(耕种)+ivates(动词后缀)→耕种的动作"
+  },
+  "squatting": {
+    "word": "squatting",
+    "definition": "蹲坐",
+    "phonetic": "/ˈskwɒtɪŋ/",
+    "mnemonic": "squat(蹲)+ting(进行时)→正在蹲"
+  },
+  "duke": {
+    "word": "duke",
+    "definition": "公爵",
+    "phonetic": "/djuːk/",
+    "mnemonic": "du+ke，du是‘你’的意思，ke是‘可’的意思，‘你可以做公爵’"
+  },
+  "profitably": {
+    "word": "profitably",
+    "definition": "有利地",
+    "phonetic": "/ˈprɒfɪtəbli/",
+    "mnemonic": "profit(利润)+ably(地)，‘以利润的方式’"
+  },
+  "reputably": {
+    "word": "reputably",
+    "definition": "声誉良好地",
+    "phonetic": "/rɪˈpjuːtəbl/",
+    "mnemonic": "repute(声誉)+ably(地)，‘以声誉的方式’"
+  },
+  "lad": {
+    "word": "lad",
+    "definition": "小男孩",
+    "phonetic": "/læd/",
+    "mnemonic": "lad(小男孩)像‘拉’的声音，‘小男孩在拉’"
+  },
+  "purify": {
+    "word": "purify",
+    "definition": "净化",
+    "phonetic": "/ˈpjʊərɪfaɪ/",
+    "mnemonic": "pure(纯净)+ify(使)，‘使变得纯净’"
+  },
+  "purified": {
+    "word": "purified",
+    "definition": "被净化的",
+    "phonetic": "/ˈpjʊərɪfaɪd/",
+    "mnemonic": "purify(净化)+ed(过去分词)，‘已经被净化’"
+  },
+  "bundle": {
+    "word": "bundle",
+    "definition": "一捆",
+    "phonetic": "/ˈbʌndl/",
+    "mnemonic": "捆绑的东西"
+  },
+  "upwards": {
+    "word": "upwards",
+    "definition": "向上",
+    "phonetic": "/ˈʌpwərdz/",
+    "mnemonic": "向上走"
+  },
+  "mourner": {
+    "word": "mourner",
+    "definition": "哀悼者",
+    "phonetic": "/ˈmɔrnər/",
+    "mnemonic": "哀伤的人"
+  },
+  "weeping": {
+    "word": "weeping",
+    "definition": "哭泣",
+    "phonetic": "/ˈwiːpɪŋ/",
+    "mnemonic": "流泪的状态"
+  },
+  "unarmed": {
+    "word": "unarmed",
+    "definition": "未武装的",
+    "phonetic": "/ʌnˈɑrmd/",
+    "mnemonic": "没有武器"
+  },
+  "riches": {
+    "word": "riches",
+    "definition": "财富",
+    "phonetic": "/ˈrɪtʃɪz/",
+    "mnemonic": "丰富的东西"
+  },
+  "groom": {
+    "word": "groom",
+    "definition": "新郎",
+    "phonetic": "/ɡruːm/",
+    "mnemonic": "婚礼上的男士"
+  },
+  "caution": {
+    "word": "caution",
+    "definition": "谨慎",
+    "phonetic": "/ˈkɔːʃən/",
+    "mnemonic": "小心行事"
+  },
+  "coarse": {
+    "word": "coarse",
+    "definition": "粗糙的",
+    "phonetic": "/kɔːrs/",
+    "mnemonic": "coarse = coarse(粗) + rice(米)"
+  },
+  "bended": {
+    "word": "bended",
+    "definition": "弯曲的",
+    "phonetic": "/ˈbɛndɪd/",
+    "mnemonic": "bended = bend(弯曲) + ed(过去式)"
+  },
+  "unrighteousness": {
+    "word": "unrighteousness",
+    "definition": "不义",
+    "phonetic": "/ʌnˈraɪtʃəsnəs/",
+    "mnemonic": "unrighteousness = un(不) + righteous(正义的) + ness(状态)"
+  },
+  "sorrows": {
+    "word": "sorrows",
+    "definition": "悲伤，忧愁",
+    "phonetic": "/ˈsɔːroʊz/",
+    "mnemonic": "sor（悲伤）+ rows（排）= 悲伤的排队"
+  },
+  "feats": {
+    "word": "feats",
+    "definition": "壮举，技艺",
+    "phonetic": "/fiːts/",
+    "mnemonic": "feat（壮举）+ s（复数）= 多个壮举"
+  },
+  "concealments": {
+    "word": "concealments",
+    "definition": "隐瞒",
+    "phonetic": "/kənˈsiːlmənts/",
+    "mnemonic": "con(一起)+ceal(隐藏)+ments(名词后缀)"
+  },
+  "devotion": {
+    "word": "devotion",
+    "definition": "奉献",
+    "phonetic": "/dɪˈvoʊʃən/",
+    "mnemonic": "de(向下)+vot(发誓)+ion(名词后缀)"
+  },
+  "concealment": {
+    "word": "concealment",
+    "definition": "隐蔽",
+    "phonetic": "/kənˈsiːlmənt/",
+    "mnemonic": "con(一起)+ceal(隐藏)+ment(名词后缀)"
+  },
+  "constancy": {
+    "word": "constancy",
+    "definition": "坚定不移",
+    "phonetic": "/ˈkɒnstənsi/",
+    "mnemonic": "常（常）态，表示稳定"
+  },
+  "pecks": {
+    "word": "pecks",
+    "definition": "小量，啄",
+    "phonetic": "/pɛk/",
+    "mnemonic": "啄（peck）食，少量"
+  },
+  "hampers": {
+    "word": "hampers",
+    "definition": "妨碍，阻碍",
+    "phonetic": "/ˈhæmpər/",
+    "mnemonic": "汉堡（hamper）包，妨碍行动"
+  },
+  "ardent": {
+    "word": "ardent",
+    "definition": "热情的，热烈的",
+    "phonetic": "/ˈɑːrdənt/",
+    "mnemonic": "爱（爱）心，热情"
+  },
+  "wizard": {
+    "word": "wizard",
+    "definition": "巫师，高手",
+    "phonetic": "/ˈwɪzərd/",
+    "mnemonic": "巫（wizard）术，神奇"
+  },
+  "straitened": {
+    "word": "straitened",
+    "definition": "困窘的，受限的",
+    "phonetic": "/ˈstreɪtnd/",
+    "mnemonic": "拆解为'直'和'限制'，意为受限"
+  },
+  "perching": {
+    "word": "perching",
+    "definition": "栖息，停留",
+    "phonetic": "/ˈpɜːrtʃɪŋ/",
+    "mnemonic": "联想'鸟'和'停'，鸟在树上停留"
+  },
+  "surname": {
+    "word": "surname",
+    "definition": "姓氏",
+    "phonetic": "/ˈsɜːrneɪm/",
+    "mnemonic": "姓+名=姓氏"
+  },
+  "fortunate": {
+    "word": "fortunate",
+    "definition": "幸运的",
+    "phonetic": "/ˈfɔːrtʃənət/",
+    "mnemonic": "福+运=幸运"
+  },
+  "professes": {
+    "word": "professes",
+    "definition": "宣称",
+    "phonetic": "/prəˈfɛsɪz/",
+    "mnemonic": "宣+称=宣称"
+  },
+  "strive": {
+    "word": "strive",
+    "definition": "努力，奋斗",
+    "phonetic": "/straɪv/",
+    "mnemonic": "斯特（str）+ 赖（ive）= 努力"
+  },
+  "weariness": {
+    "word": "weariness",
+    "definition": "疲惫，厌倦",
+    "phonetic": "/ˈwɪr.i.nəs/",
+    "mnemonic": "疲惫（weary）+ 状态（ness）= 疲惫状态"
+  },
+  "imitate": {
+    "word": "imitate",
+    "definition": "模仿",
+    "phonetic": "/ˈɪm.ɪ.teɪt/",
+    "mnemonic": "爱（i）+ 模仿（mitate）= 模仿"
+  },
+  "thee": {
+    "word": "thee",
+    "definition": "你（古英语）",
+    "phonetic": "/ðiː/",
+    "mnemonic": "古英语（the）+ 你（e）= 你"
+  },
+  "insubordination": {
+    "word": "insubordination",
+    "definition": "不服从",
+    "phonetic": "[ˌɪnsəˌbɔːrdɪˈneɪʃən]",
+    "mnemonic": "in(不)+sub(在下面)+ordination(命令)→不服从命令"
+  },
+  "laborious": {
+    "word": "laborious",
+    "definition": "费力的",
+    "phonetic": "[ləˈbɔːriəs]",
+    "mnemonic": "labor(劳动)+ious(多)→多劳动，费力"
+  },
+  "bustle": {
+    "word": "bustle",
+    "definition": "忙碌",
+    "phonetic": "[ˈbʌsl]",
+    "mnemonic": "bus(公交车)+tle(忙碌)→公交车上忙碌"
+  },
+  "carefulness": {
+    "word": "carefulness",
+    "definition": "小心",
+    "phonetic": "[ˈkɛrfəl(nəs)]",
+    "mnemonic": "care(关心)+fulness(充满)→充满关心，小心"
+  },
+  "timidity": {
+    "word": "timidity",
+    "definition": "胆怯",
+    "phonetic": "[tɪˈmɪdəti]",
+    "mnemonic": "timid(胆小的)+ity(状态)→胆小的状态，胆怯"
+  },
+  "straightforwardness": {
+    "word": "straightforwardness",
+    "definition": "直率",
+    "phonetic": "[ˌstreɪtˈfɔːrwərdnəs]",
+    "mnemonic": "straight(直的)+forward(向前)+ness(状态)→直率的状态"
+  },
+  "rudeness": {
+    "word": "rudeness",
+    "definition": "粗鲁",
+    "phonetic": "[ˈruːdnəs]",
+    "mnemonic": "rude(粗鲁的)+ness(状态)→粗鲁的状态"
+  },
+  "aroused": {
+    "word": "aroused",
+    "definition": "唤醒",
+    "phonetic": "[əˈraʊzd]",
+    "mnemonic": "a(一个)+roused(唤醒)→唤醒一个人"
+  },
+  "neglected": {
+    "word": "neglected",
+    "definition": "被忽视",
+    "phonetic": "[nɪˈɡlɛktɪd]",
+    "mnemonic": "neglect(忽视)+ed(被)→被忽视"
+  },
+  "apprehensive": {
+    "word": "apprehensive",
+    "definition": "忧虑的",
+    "phonetic": "[ˌæprɪˈhɛnsɪv]",
+    "mnemonic": "apprehend(理解)+sive(倾向)→理解后忧虑"
+  },
+  "brink": {
+    "word": "brink",
+    "definition": "边缘",
+    "phonetic": "[brɪŋk]",
+    "mnemonic": "brink(边缘)→边缘"
+  },
+  "gulf": {
+    "word": "gulf",
+    "definition": "深渊",
+    "phonetic": "[ɡʌlf]",
+    "mnemonic": "gulf(海湾)→深渊，海湾"
+  },
+  "treading": {
+    "word": "treading",
+    "definition": "踩踏",
+    "phonetic": "[ˈtrɛdɪŋ]",
+    "mnemonic": "tread(踩)+ing(进行)→正在踩踏"
+  },
+  "parsimony": {
+    "word": "parsimony",
+    "definition": "节俭",
+    "phonetic": "/ˈpɑːrsɪˌmoʊni/",
+    "mnemonic": "拆解为'pars'（部分）+'imony'（节省）"
+  },
+  "insubordinate": {
+    "word": "insubordinate",
+    "definition": "不服从的",
+    "phonetic": "/ˌɪnsəˈbɔːrdɪnət/",
+    "mnemonic": "拆解为'in'（不）+'sub'（下）+'ordinate'（顺从）"
+  },
+  "satisfied": {
+    "word": "satisfied",
+    "definition": "满意的",
+    "phonetic": "/ˈsætɪsfaɪd/",
+    "mnemonic": "拆解为'satis'（足够）+'fied'（使得）"
+  },
+  "dignified": {
+    "word": "dignified",
+    "definition": "庄重的",
+    "phonetic": "/ˈdɪɡnɪfaɪd/",
+    "mnemonic": "dignity(尊严) + fied(使得) = 使得有尊严"
+  },
+  "cruelty": {
+    "word": "cruelty",
+    "definition": "残忍",
+    "phonetic": "/ˈkruːəlti/",
+    "mnemonic": "cruel(残酷的) + ty(状态) = 残酷的状态"
+  },
+  "oppression": {
+    "word": "oppression",
+    "definition": "压迫",
+    "phonetic": "/əˈprɛʃən/",
+    "mnemonic": "op(反对) + press(压) + ion(状态) = 反对压迫的状态"
+  },
+  "urgency": {
+    "word": "urgency",
+    "definition": "紧迫",
+    "phonetic": "/ˈɜːrdʒənsi/",
+    "mnemonic": "urge(催促) + ncy(状态) = 催促的状态"
+  },
+  "severity": {
+    "word": "severity",
+    "definition": "严重",
+    "phonetic": "/səˈvɛrɪti/",
+    "mnemonic": "severe(严厉的) + ity(状态) = 严厉的状态"
+  },
+  "majestic": {
+    "word": "majestic",
+    "definition": "雄伟的",
+    "phonetic": "/məˈdʒɛstɪk/",
+    "mnemonic": "maj(魔鬼)+estic(美丽的)→魔鬼般美丽的"
+  },
+  "magnificent": {
+    "word": "magnificent",
+    "definition": "壮丽的",
+    "phonetic": "/mæɡˈnɪfɪsənt/",
+    "mnemonic": "mag(魔法)+nificent(显赫的)→魔法般显赫的"
+  },
+  "attentive": {
+    "word": "attentive",
+    "definition": "专心的",
+    "phonetic": "/əˈtɛntɪv/",
+    "mnemonic": "attend(出席)+ive(形容词后缀)→出席时专心的"
+  },
+  "ignorance": {
+    "word": "ignorance",
+    "definition": "无知",
+    "phonetic": "/ˈɪɡnərəns/",
+    "mnemonic": "分开记：ig（不）+ nor（知道）+ ance（状态）"
+  },
+  "approbation": {
+    "word": "approbation",
+    "definition": "赞许",
+    "phonetic": "/ˌæprəˈbeɪʃən/",
+    "mnemonic": "分开记：ap（向）+ prob（证明）+ ation（状态）"
+  },
+  "boldness": {
+    "word": "boldness",
+    "definition": "大胆，勇敢",
+    "phonetic": "/ˈboʊldnəs/",
+    "mnemonic": "bold（大胆）+ness（状态）"
+  },
+  "beclouding": {
+    "word": "beclouding",
+    "definition": "模糊，遮蔽",
+    "phonetic": "/bɪˈklaʊdɪŋ/",
+    "mnemonic": "be（使）+cloud（云）+ing（状态）"
+  },
+  "foolish": {
+    "word": "foolish",
+    "definition": "愚蠢的",
+    "phonetic": "/ˈfuːlɪʃ/",
+    "mnemonic": "fool（傻瓜）+ish（像）"
+  },
+  "simplicity": {
+    "word": "simplicity",
+    "definition": "简单，朴素",
+    "phonetic": "/sɪmˈplɪsɪti/",
+    "mnemonic": "simple（简单）+ity（性质）"
+  },
+  "dissipation": {
+    "word": "dissipation",
+    "definition": "消散，浪费",
+    "phonetic": "/ˌdɪsɪˈpeɪʃən/",
+    "mnemonic": "dissipate（消散）+ion（状态）"
+  },
+  "firmness": {
+    "word": "firmness",
+    "definition": "坚定，稳固",
+    "phonetic": "/ˈfɜːrmnəs/",
+    "mnemonic": "firm（坚固）+ness（状态）"
+  },
+  "deportment": {
+    "word": "deportment",
+    "definition": "举止",
+    "phonetic": "/dɪˈpɔːrtmənt/",
+    "mnemonic": "de-（去）+ port（港口）+ ment（名词后缀）"
+  },
+  "girdle": {
+    "word": "girdle",
+    "definition": "腰带",
+    "phonetic": "/ˈɡɜːrdl/",
+    "mnemonic": "gird（束缚）+ le（小）"
+  },
+  "yoked": {
+    "word": "yoked",
+    "definition": "连接",
+    "phonetic": "/joʊkt/",
+    "mnemonic": "yoke（轭）+ d（过去式）"
+  },
+  "ancestral": {
+    "word": "ancestral",
+    "definition": "祖先的",
+    "phonetic": "/ænˈsɛstrəl/",
+    "mnemonic": "ancest（祖先）+ ral（形容词后缀）"
+  },
+  "salute": {
+    "word": "salute",
+    "definition": "致敬",
+    "phonetic": "/səˈluːt/",
+    "mnemonic": "sal（盐）+ ute（用）"
+  },
+  "ceremonious": {
+    "word": "ceremonious",
+    "definition": "正式的",
+    "phonetic": "/ˌsɛrəˈmoʊniəs/",
+    "mnemonic": "ceremony（仪式）+ ous（形容词后缀）"
+  },
+  "crossbar": {
+    "word": "crossbar",
+    "definition": "横杆",
+    "phonetic": "/ˈkrɔːsbɑːr/",
+    "mnemonic": "cross（交叉）+ bar（杆）"
+  },
+  "abundance": {
+    "word": "abundance",
+    "definition": "丰富",
+    "phonetic": "/əˈbʌndəns/",
+    "mnemonic": "a（一个）+ bund（捆）+ ance（名词后缀）"
+  },
+  "clap": {
+    "word": "clap",
+    "definition": "拍手",
+    "phonetic": "/klæp/",
+    "mnemonic": "cl（声）+ ap（动作）"
+  },
+  "thunder": {
+    "word": "thunder",
+    "definition": "雷声",
+    "phonetic": "/ˈθʌndər/",
+    "mnemonic": "thun（轰鸣）+ der（名词后缀）"
+  },
+  "pheasant": {
+    "word": "pheasant",
+    "definition": "野鸡",
+    "phonetic": "/ˈfɛzənt/",
+    "mnemonic": "phe（飞）+ asant（鸟类）"
+  },
+  "yoke": {
+    "word": "yoke",
+    "definition": "轭",
+    "phonetic": "/joʊk/",
+    "mnemonic": "y（连接）+ oke（工具）"
+  },
+  "offended": {
+    "word": "offended",
+    "definition": "感到冒犯的",
+    "phonetic": "/əˈfɛndɪd/",
+    "mnemonic": "off(离开)+end(结束)→离开了结束，感到冒犯"
+  },
+  "altercation": {
+    "word": "altercation",
+    "definition": "争吵",
+    "phonetic": "/ˌɔltərˈkeɪʃən/",
+    "mnemonic": "alter(改变)+cation(情况)→改变了情况，发生争吵"
+  },
+  "entrusted": {
+    "word": "entrusted",
+    "definition": "被委托的",
+    "phonetic": "/ɪnˈtrʌstɪd/",
+    "mnemonic": "en(进入)+trust(信任)→进入信任，被委托"
+  },
+  "orphan": {
+    "word": "orphan",
+    "definition": "孤儿",
+    "phonetic": "/ˈɔrfən/",
+    "mnemonic": "or(或)+phan(父母)→没有父母，孤儿"
+  },
+  "breadth": {
+    "word": "breadth",
+    "definition": "宽度",
+    "phonetic": "/brɛdθ/",
+    "mnemonic": "bread(面包)+th(厚度)→面包的宽度，宽度"
+  },
+  "vigorous": {
+    "word": "vigorous",
+    "definition": "有力的",
+    "phonetic": "/ˈvɪɡərəs/",
+    "mnemonic": "vigor(活力)+ous(形容词后缀)→充满活力的，有力的"
+  },
+  "endurance": {
+    "word": "endurance",
+    "definition": "耐力",
+    "phonetic": "/ɪnˈdjʊərəns/",
+    "mnemonic": "end(结束)+urance(状态)→能坚持到结束，耐力"
+  },
+  "vigor": {
+    "word": "vigor",
+    "definition": "活力",
+    "phonetic": "/ˈvɪɡər/",
+    "mnemonic": "vig(活力)+or(名词后缀)→活力，精力"
+  },
+  "admirable": {
+    "word": "admirable",
+    "definition": "值得赞赏的",
+    "phonetic": "/ˈæd.mɪ.rə.bəl/",
+    "mnemonic": "ad-（加）+mir（看）+able（能）=能让人赞赏的"
+  },
+  "correctness": {
+    "word": "correctness",
+    "definition": "正确性",
+    "phonetic": "/kəˈrɛkt.nəs/",
+    "mnemonic": "correct（正确的）+ness（状态）=正确的状态"
+  },
+  "covetous": {
+    "word": "covetous",
+    "definition": "贪婪的",
+    "phonetic": "/ˈkʌv.ɪ.təs/",
+    "mnemonic": "covet（渴望）+ous（形容词后缀）=渴望得到的"
+  },
+  "unprincipled": {
+    "word": "unprincipled",
+    "definition": "不道德的",
+    "phonetic": "/ʌnˈprɪn.sə.pəld/",
+    "mnemonic": "un-（不）+principled（有原则的）=没有原则的"
+  },
+  "principled": {
+    "word": "principled",
+    "definition": "有原则的",
+    "phonetic": "/ˈprɪn.sə.pəld/",
+    "mnemonic": "principle（原则）+d（形容词后缀）=有原则的"
+  },
+  "evinced": {
+    "word": "evinced",
+    "definition": "表明",
+    "phonetic": "/ɪˈvɪnst/",
+    "mnemonic": "e-（出）+vince（征服）+d=表明（征服内心）"
+  },
+  "niggardly": {
+    "word": "niggardly",
+    "definition": "吝啬的",
+    "phonetic": "/ˈnɪɡərdli/",
+    "mnemonic": "nig(吝啬) + gard(守护) → 守护自己的财富"
+  },
+  "tottering": {
+    "word": "tottering",
+    "definition": "摇摇欲坠的",
+    "phonetic": "/ˈtɒtərɪŋ/",
+    "mnemonic": "tot(摇晃) + ter(地面) → 在地面上摇晃"
+  },
+  "dwell": {
+    "word": "dwell",
+    "definition": "居住",
+    "phonetic": "/dwɛl/",
+    "mnemonic": "d(住) + well(井) → 在井旁居住"
+  },
+  "disorganized": {
+    "word": "disorganized",
+    "definition": "无序的",
+    "phonetic": "/dɪsˈɔːrɡənaɪzd/",
+    "mnemonic": "dis(不) + organized(有序的) → 不有序"
+  },
+  "prostrated": {
+    "word": "prostrated",
+    "definition": "倒下的",
+    "phonetic": "/prɒsˈtreɪtɪd/",
+    "mnemonic": "pro(向前) + strated(躺) → 向前躺下"
+  },
+  "concealed": {
+    "word": "concealed",
+    "definition": "隐藏的",
+    "phonetic": "/kənˈsiːld/",
+    "mnemonic": "con(一起) + cealed(封闭) → 一起封闭起来"
+  },
+  "honour": {
+    "word": "honour",
+    "definition": "荣誉",
+    "phonetic": "/ˈɒnər/",
+    "mnemonic": "hon(尊重) + our(我们的) → 我们的尊重"
+  },
+  "flaw": {
+    "word": "flaw",
+    "definition": "缺陷",
+    "phonetic": "/flɔː/",
+    "mnemonic": "fl-像飞，aw-哇，飞起来有缺陷"
+  },
+  "elegance": {
+    "word": "elegance",
+    "definition": "优雅",
+    "phonetic": "/ˈɛlɪɡəns/",
+    "mnemonic": "e-优，leg-腿，优雅的腿"
+  },
+  "apron": {
+    "word": "apron",
+    "definition": "围裙",
+    "phonetic": "/ˈeɪprən/",
+    "mnemonic": "a-像，pr-准备，像准备食物的围裙"
+  },
+  "expended": {
+    "word": "expended",
+    "definition": "花费",
+    "phonetic": "/ɪkˈspɛndɪd/",
+    "mnemonic": "ex-出去，pend-花费，花出去"
+  },
+  "ditches": {
+    "word": "ditches",
+    "definition": "沟渠",
+    "phonetic": "/dɪtʃɪz/",
+    "mnemonic": "ditch-挖沟，es-复数，挖了很多沟"
+  },
+  "ditch": {
+    "word": "ditch",
+    "definition": "沟",
+    "phonetic": "/dɪtʃ/",
+    "mnemonic": "d-地，itch-痒，地上有沟痒"
+  },
+  "profitableness": {
+    "word": "profitableness",
+    "definition": "有利可图",
+    "phonetic": "/ˈprɒfɪtəblnəs/",
+    "mnemonic": "利（profit）+可（able）+图（ness）"
+  },
+  "linen": {
+    "word": "linen",
+    "definition": "亚麻布",
+    "phonetic": "/ˈlɪnən/",
+    "mnemonic": "lin(林) + en(恩) → 林中有亚麻"
+  },
+  "economical": {
+    "word": "economical",
+    "definition": "经济的",
+    "phonetic": "/ˌiːkəˈnɒmɪkəl/",
+    "mnemonic": "eco(生态) + nom(管理) + ical(的) → 生态管理的"
+  },
+  "prescribe": {
+    "word": "prescribe",
+    "definition": "规定",
+    "phonetic": "/prɪˈskraɪb/",
+    "mnemonic": "pre(预先) + scribe(写) → 预先写下的规定"
+  },
+  "ascending": {
+    "word": "ascending",
+    "definition": "上升的",
+    "phonetic": "/əˈsɛndɪŋ/",
+    "mnemonic": "as(向上) + cend(升) + ing → 向上升的"
+  },
+  "arrogant": {
+    "word": "arrogant",
+    "definition": "傲慢的",
+    "phonetic": "/ˈærəɡənt/",
+    "mnemonic": "arrog(傲慢) + ant(的) → 傲慢的"
+  },
+  "foregone": {
+    "word": "foregone",
+    "definition": "预先的",
+    "phonetic": "/fɔːrˈɡoʊn/",
+    "mnemonic": "fore(前) + gone(去) → 之前就去的"
+  },
+  "arbitrary": {
+    "word": "arbitrary",
+    "definition": "任意的",
+    "phonetic": "/ˈɑːrbɪtrəri/",
+    "mnemonic": "arbit(选择) + rary(的) → 随意选择的"
+  },
+  "egoism": {
+    "word": "egoism",
+    "definition": "自我主义",
+    "phonetic": "/ˈiːɡoʊɪzəm/",
+    "mnemonic": "ego(自我) + ism(主义) → 自我主义"
+  },
+  "wang": {
+    "word": "wang",
+    "definition": "王",
+    "phonetic": "/wɑːŋ/",
+    "mnemonic": "wang(王) → 直接音译"
+  },
+  "lodged": {
+    "word": "lodged",
+    "definition": "寄存",
+    "phonetic": "/lɒdʒd/",
+    "mnemonic": "lodge(寄宿) + d(过去式) → 寄存过的"
+  },
+  "obstinacy": {
+    "word": "obstinacy",
+    "definition": "固执",
+    "phonetic": "/ˈɒb.stɪ.nə.si/",
+    "mnemonic": "ob(反) + stin(站) + acy(状态) → 反着站着的状态"
+  },
+  "contemptible": {
+    "word": "contemptible",
+    "definition": "可鄙的",
+    "phonetic": "/kənˈtɛmptəbl/",
+    "mnemonic": "con(共同) + tempt(诱惑) + ible(能) → 共同诱惑的，值得鄙视"
+  },
+  "ideaed": {
+    "word": "ideaed",
+    "definition": "有想法的",
+    "phonetic": "/aɪˈdiːəd/",
+    "mnemonic": "idea(想法) + ed(过去分词) → 有想法的状态"
+  },
+  "tsung": {
+    "word": "tsung",
+    "definition": "宗",
+    "phonetic": "/tsʊŋ/",
+    "mnemonic": "音似'宗'，表示家族或宗派"
+  },
+  "imperial": {
+    "word": "imperial",
+    "definition": "帝国的",
+    "phonetic": "/ɪmˈpɪəriəl/",
+    "mnemonic": "imper(帝国) + ial(的) → 帝国的"
+  },
+  "perish": {
+    "word": "perish",
+    "definition": "消亡，灭亡",
+    "phonetic": "/ˈpɛrɪʃ/",
+    "mnemonic": "per(每)+ish(消失)→每个都消失→消亡"
+  },
+  "mortal": {
+    "word": "mortal",
+    "definition": "凡人，致命的",
+    "phonetic": "/ˈmɔːrtəl/",
+    "mnemonic": "mort(死亡)+al(的)→死亡的→凡人"
+  },
+  "endowed": {
+    "word": "endowed",
+    "definition": "赋予，天生的",
+    "phonetic": "/ɪnˈdaʊd/",
+    "mnemonic": "en(使)+dowed(给予)→使被给予→赋予"
+  },
+  "unlimitedly": {
+    "word": "unlimitedly",
+    "definition": "无限地",
+    "phonetic": "/ʌnˈlɪmɪtɪdli/",
+    "mnemonic": "un(不)+limited(有限的)→不受限制→无限"
+  },
+  "hastily": {
+    "word": "hastily",
+    "definition": "匆忙地",
+    "phonetic": "/ˈheɪstɪli/",
+    "mnemonic": "哈斯提（hasty）+ ly（副词后缀）"
+  },
+  "famine": {
+    "word": "famine",
+    "definition": "饥荒",
+    "phonetic": "/ˈfæmɪn/",
+    "mnemonic": "发（fa）+ 米（mi）+ 恩（n）= 没米吃"
+  },
+  "recognise": {
+    "word": "recognise",
+    "definition": "认出",
+    "phonetic": "/ˈrɛkəɡnaɪz/",
+    "mnemonic": "再（re）+ 认识（cognize）"
+  },
+  "abound": {
+    "word": "abound",
+    "definition": "大量存在",
+    "phonetic": "/əˈbaʊnd/",
+    "mnemonic": "阿（a）+ 邦（bound）= 很多邦"
+  },
+  "admiration": {
+    "word": "admiration",
+    "definition": "钦佩",
+    "phonetic": "/ˌæd.məˈreɪ.ʃən/",
+    "mnemonic": "爱(d) + 赞美(miration)"
+  },
+  "penetrate": {
+    "word": "penetrate",
+    "definition": "穿透",
+    "phonetic": "/ˈpɛn.ɪ.treɪt/",
+    "mnemonic": "穿(pene) + 透(trate)"
+  },
+  "orderly": {
+    "word": "orderly",
+    "definition": "有序的",
+    "phonetic": "/ˈɔːr.dər.li/",
+    "mnemonic": "有序(order) + 地(ly)"
+  },
+  "skilfully": {
+    "word": "skilfully",
+    "definition": "熟练地",
+    "phonetic": "/ˈskɪl.fəl.i/",
+    "mnemonic": "技能(skill) + 熟练地(fully)"
+  },
+  "restraints": {
+    "word": "restraints",
+    "definition": "约束",
+    "phonetic": "/rɪˈstreɪnts/",
+    "mnemonic": "限制(restrain) + 复数(s)"
+  },
+  "exerted": {
+    "word": "exerted",
+    "definition": "施加",
+    "phonetic": "/ɪɡˈzɜːr.tɪd/",
+    "mnemonic": "用力(exert) + 过去式(ed)"
+  },
+  "remission": {
+    "word": "remission",
+    "definition": "缓解",
+    "phonetic": "/rɪˈmɪʃ.ən/",
+    "mnemonic": "重新(re) + 发送(mission)"
+  },
+  "deceitful": {
+    "word": "deceitful",
+    "definition": "欺骗的",
+    "phonetic": "/dɪˈsiːt.fəl/",
+    "mnemonic": "欺骗(deceit) + 的(ful)"
+  },
+  "deceit": {
+    "word": "deceit",
+    "definition": "欺骗",
+    "phonetic": "/dɪˈsiːt/",
+    "mnemonic": "欺骗(de) + 失败(ceit)"
+  },
+  "burial": {
+    "word": "burial",
+    "definition": "埋葬",
+    "phonetic": "/ˈbɛr.i.əl/",
+    "mnemonic": "bur(埋) + ial(的) → 埋葬的"
+  },
+  "gem": {
+    "word": "gem",
+    "definition": "宝石",
+    "phonetic": "/dʒɛm/",
+    "mnemonic": "g(好) + em(音) → 好音的宝石"
+  },
+  "dwelt": {
+    "word": "dwelt",
+    "definition": "居住",
+    "phonetic": "/dwɛlt/",
+    "mnemonic": "d(在) + welt(世界) → 在世界上居住"
+  },
+  "nobles": {
+    "word": "nobles",
+    "definition": "贵族",
+    "phonetic": "/ˈnoʊbəlz/",
+    "mnemonic": "no(没有)+bles(不平凡的)→没有平凡的人→贵族"
+  },
+  "mound": {
+    "word": "mound",
+    "definition": "土堆",
+    "phonetic": "/maʊnd/",
+    "mnemonic": "m(土)+ound(圆的)→土的圆形堆→土堆"
+  },
+  "basketful": {
+    "word": "basketful",
+    "definition": "一篮的量",
+    "phonetic": "/ˈbæskɪtˌfʊl/",
+    "mnemonic": "篮子(basket)装满(full)"
+  },
+  "subsequently": {
+    "word": "subsequently",
+    "definition": "随后，接着",
+    "phonetic": "/ˈsʌbsɪkwəntli/",
+    "mnemonic": "后面(sub)跟着(sequently)"
+  },
+  "assent": {
+    "word": "assent",
+    "definition": "同意",
+    "phonetic": "/əˈsɛnt/",
+    "mnemonic": "ass(同意) + ent(人)"
+  },
+  "admonition": {
+    "word": "admonition",
+    "definition": "警告，劝告",
+    "phonetic": "/ˌædməˈnɪʃən/",
+    "mnemonic": "ad(向) + mon(警告) + ition(状态)"
+  },
+  "assents": {
+    "word": "assents",
+    "definition": "同意（复数）",
+    "phonetic": "/əˈsɛnts/",
+    "mnemonic": "assent(同意) + s(复数)"
+  },
+  "robe": {
+    "word": "robe",
+    "definition": "长袍",
+    "phonetic": "/roʊb/",
+    "mnemonic": "robe = '柔' + '袍'，想象柔软的长袍"
+  },
+  "inclined": {
+    "word": "inclined",
+    "definition": "倾斜的",
+    "phonetic": "/ɪnˈklaɪnd/",
+    "mnemonic": "inclined = 'in' + '克' + '赖' + '的'，想象向内倾斜"
+  },
+  "evenly": {
+    "word": "evenly",
+    "definition": "均匀地",
+    "phonetic": "/ˈiːvənli/",
+    "mnemonic": "evenly = '一' + '分' + '均'，想象均匀分配"
+  },
+  "hastened": {
+    "word": "hastened",
+    "definition": "加快",
+    "phonetic": "/ˈheɪsənd/",
+    "mnemonic": "hastened = '快' + '速' + '的'，想象快速行动"
+  },
+  "tread": {
+    "word": "tread",
+    "definition": "踩踏",
+    "phonetic": "/trɛd/",
+    "mnemonic": "tread = '踢' + '地'，想象踩在地面上"
+  },
+  "vacant": {
+    "word": "vacant",
+    "definition": "空缺的",
+    "phonetic": "/ˈveɪkənt/",
+    "mnemonic": "vacant = '空' + '位' + '的'，想象空着的地方"
+  },
+  "utter": {
+    "word": "utter",
+    "definition": "说出",
+    "phonetic": "/ˈʌtər/",
+    "mnemonic": "utter = '发' + '声' + '的'，想象说话的动作"
+  },
+  "ascended": {
+    "word": "ascended",
+    "definition": "上升",
+    "phonetic": "/əˈsɛndɪd/",
+    "mnemonic": "ascended = '上' + '升' + '的'，想象向上移动"
+  },
+  "scepter": {
+    "word": "scepter",
+    "definition": "权杖",
+    "phonetic": "/ˈsɛptər/",
+    "mnemonic": "scepter = '权' + '杖'，想象统治者的权杖"
+  },
+  "perplexities": {
+    "word": "perplexities",
+    "definition": "困惑，复杂性",
+    "phonetic": "/pərˈplɛksɪtiz/",
+    "mnemonic": "per（每个）+ plex（复杂）+ ities（状态）"
+  },
+  "threefold": {
+    "word": "threefold",
+    "definition": "三重的，三倍的",
+    "phonetic": "/ˈθriːfoʊld/",
+    "mnemonic": "three（三）+ fold（折叠）"
+  },
+  "aspen": {
+    "word": "aspen",
+    "definition": "白杨树",
+    "phonetic": "/ˈæspən/",
+    "mnemonic": "阿斯(阿斯) 旁(旁边) 有(有) 树(树木)"
+  },
+  "plum": {
+    "word": "plum",
+    "definition": "梅子",
+    "phonetic": "/plʌm/",
+    "mnemonic": "普(普遍) 拉(拉) 梅(梅子) "
+  },
+  "flutter": {
+    "word": "flutter",
+    "definition": "振翅",
+    "phonetic": "/ˈflʌtər/",
+    "mnemonic": "飞(飞翔) 扭(扭动) 特(特别) "
+  },
+  "minutely": {
+    "word": "minutely",
+    "definition": "详细地",
+    "phonetic": "/maɪˈnjuːtli/",
+    "mnemonic": "minute（分钟）+ly（地）"
+  },
+  "spake": {
+    "word": "spake",
+    "definition": "说（过去式）",
+    "phonetic": "/speɪk/",
+    "mnemonic": "speak（说）+过去式"
+  },
+  "blandly": {
+    "word": "blandly",
+    "definition": "温和地",
+    "phonetic": "/ˈblændli/",
+    "mnemonic": "bland（温和的）+ly（地）"
+  },
+  "uneasiness": {
+    "word": "uneasiness",
+    "definition": "不安",
+    "phonetic": "/ʌnˈiːzinəs/",
+    "mnemonic": "un（不）+easy（轻松）"
+  },
+  "straightforward": {
+    "word": "straightforward",
+    "definition": "直接的，坦率的",
+    "phonetic": "/ˈstreɪtˌfɔrwərd/",
+    "mnemonic": "straight(直的) + forward(向前) = 直接的"
+  },
+  "bland": {
+    "word": "bland",
+    "definition": "平淡的，无味的",
+    "phonetic": "/blænd/",
+    "mnemonic": "bl(无) + and(和) = 无味的"
+  },
+  "soldierly": {
+    "word": "soldierly",
+    "definition": "军人的，勇敢的",
+    "phonetic": "/ˈsoʊldʒərli/",
+    "mnemonic": "soldier(士兵) + ly(形容词后缀) = 军人的"
+  },
+  "anew": {
+    "word": "anew",
+    "definition": "重新，再次",
+    "phonetic": "/əˈnu/",
+    "mnemonic": "a(一个) + new(新的) = 重新"
+  },
+  "placid": {
+    "word": "placid",
+    "definition": "平静的",
+    "phonetic": "/ˈplæs.ɪd/",
+    "mnemonic": "平静的像一块石头"
+  },
+  "puce": {
+    "word": "puce",
+    "definition": "紫褐色",
+    "phonetic": "/pjuːs/",
+    "mnemonic": "紫色的褐色"
+  },
+  "ornaments": {
+    "word": "ornaments",
+    "definition": "装饰品",
+    "phonetic": "/ˈɔː.nə.mənts/",
+    "mnemonic": "装饰的物品"
+  },
+  "reddish": {
+    "word": "reddish",
+    "definition": "微红的",
+    "phonetic": "/ˈrɛd.ɪʃ/",
+    "mnemonic": "有点红的"
+  },
+  "garment": {
+    "word": "garment",
+    "definition": "衣服",
+    "phonetic": "/ˈɡɑːr.mənt/",
+    "mnemonic": "穿在身上的物品"
+  },
+  "lamb": {
+    "word": "lamb",
+    "definition": "小羊",
+    "phonetic": "/læm/",
+    "mnemonic": "小羊像个小宝宝"
+  },
+  "fawn": {
+    "word": "fawn",
+    "definition": "小鹿",
+    "phonetic": "/fɔːn/",
+    "mnemonic": "小鹿像个小孩"
+  },
+  "ornament": {
+    "word": "ornament",
+    "definition": "装饰物",
+    "phonetic": "/ˈɔː.nə.mənt/",
+    "mnemonic": "单个装饰品"
+  },
+  "undress": {
+    "word": "undress",
+    "definition": "未穿衣服",
+    "phonetic": "/ʌnˈdrɛs/",
+    "mnemonic": "un(不) + dress(穿衣) = 不穿衣"
+  },
+  "fox": {
+    "word": "fox",
+    "definition": "狐狸",
+    "phonetic": "/fɒks/",
+    "mnemonic": "像‘福克斯’的狐狸"
+  },
+  "badger": {
+    "word": "badger",
+    "definition": "獾",
+    "phonetic": "/ˈbædʒər/",
+    "mnemonic": "bad(坏) + ger(者) = 坏的獾"
+  },
+  "appendages": {
+    "word": "appendages",
+    "definition": "附属物",
+    "phonetic": "/əˈpɛndɪdʒɪz/",
+    "mnemonic": "append(附加) + ages(时代) = 附加的部分"
+  },
+  "condolence": {
+    "word": "condolence",
+    "definition": "慰问",
+    "phonetic": "/kənˈdoʊləns/",
+    "mnemonic": "con(共同) + dolence(痛苦) = 共同的痛苦"
+  },
+  "robes": {
+    "word": "robes",
+    "definition": "长袍",
+    "phonetic": "/roʊbz/",
+    "mnemonic": "robe（长袍）+s（复数）"
+  },
+  "brightly": {
+    "word": "brightly",
+    "definition": "明亮地",
+    "phonetic": "/ˈbraɪtli/",
+    "mnemonic": "bright（明亮的）+ly（副词后缀）"
+  },
+  "finely": {
+    "word": "finely",
+    "definition": "精细地",
+    "phonetic": "/ˈfaɪnli/",
+    "mnemonic": "fine（精细的）+ly（副词后缀）"
+  },
+  "minced": {
+    "word": "minced",
+    "definition": "剁碎的",
+    "phonetic": "/mɪnst/",
+    "mnemonic": "mince（剁碎）+d（过去分词）"
+  },
+  "damp": {
+    "word": "damp",
+    "definition": "潮湿的",
+    "phonetic": "/dæmp/",
+    "mnemonic": "damp（潮湿）和湿气相关"
+  },
+  "sour": {
+    "word": "sour",
+    "definition": "酸的",
+    "phonetic": "/saʊər/",
+    "mnemonic": "sour（酸）和酸味相关"
+  },
+  "discoloured": {
+    "word": "discoloured",
+    "definition": "变色的",
+    "phonetic": "/dɪsˈkʌləd/",
+    "mnemonic": "dis（否定）+colour（颜色）+ed（过去分词）"
+  },
+  "flavour": {
+    "word": "flavour",
+    "definition": "风味",
+    "phonetic": "/ˈfleɪvər/",
+    "mnemonic": "flav（味道）+our（名词后缀）"
+  },
+  "confused": {
+    "word": "confused",
+    "definition": "困惑的",
+    "phonetic": "/kənˈfjuzd/",
+    "mnemonic": "con（共同）+fuse（混合）"
+  },
+  "partake": {
+    "word": "partake",
+    "definition": "参与",
+    "phonetic": "/pɑːrˈteɪk/",
+    "mnemonic": "part（部分）+take（拿）"
+  },
+  "ginger": {
+    "word": "ginger",
+    "definition": "姜",
+    "phonetic": "/ˈdʒɪndʒər/",
+    "mnemonic": "ging（姜）+er（名词后缀）"
+  },
+  "mat": {
+    "word": "mat",
+    "definition": "垫子",
+    "phonetic": "/mæt/",
+    "mnemonic": "mat（垫子）和地面相关"
+  },
+  "villagers": {
+    "word": "villagers",
+    "definition": "村民",
+    "phonetic": "/ˈvɪlɪdʒərz/",
+    "mnemonic": "village（村庄）+ers（人）"
+  },
+  "pestilential": {
+    "word": "pestilential",
+    "definition": "瘟疫的",
+    "phonetic": "/ˌpɛstɪˈlɛnʃəl/",
+    "mnemonic": "pest（害虫）+ilential（形容词后缀）"
+  },
+  "pest": {
+    "word": "pest",
+    "definition": "害虫",
+    "phonetic": "/pɛst/",
+    "mnemonic": "pest（害虫）和害虫相关"
+  },
+  "complimentary": {
+    "word": "complimentary",
+    "definition": "表示赞美的",
+    "phonetic": "/kəmˈplɪməntəri/",
+    "mnemonic": "com（共同）+pliment（赞美）+ary（形容词后缀）"
+  },
+  "escorted": {
+    "word": "escorted",
+    "definition": "护送",
+    "phonetic": "/ɪˈskɔːrtɪd/",
+    "mnemonic": "es（出）+cort（心）+ed（过去分词）"
+  },
+  "physic": {
+    "word": "physic",
+    "definition": "药物",
+    "phonetic": "/ˈfɪzɪk/",
+    "mnemonic": "phy（身体）+sic（药）"
+  },
+  "undressed": {
+    "word": "undressed",
+    "definition": "未加工的",
+    "phonetic": "/ʌnˈdrɛst/",
+    "mnemonic": "un（不）+dressed（穿衣）"
+  },
+  "messenger": {
+    "word": "messenger",
+    "definition": "信使，传递者",
+    "phonetic": "/ˈmɛsɪndʒər/",
+    "mnemonic": "mess(消息)+enger(人)→传递消息的人"
+  },
+  "modesty": {
+    "word": "modesty",
+    "definition": "谦虚，谦逊",
+    "phonetic": "/ˈmɒdəsti/",
+    "mnemonic": "mod(适度)+esty(状态)→适度的状态，谦虚"
+  },
+  "bathed": {
+    "word": "bathed",
+    "definition": "洗澡，沐浴",
+    "phonetic": "/beɪðd/",
+    "mnemonic": "bath(浴)+ed(过去式)→洗澡的过去式"
+  },
+  "slain": {
+    "word": "slain",
+    "definition": "被杀，杀死",
+    "phonetic": "/sleɪn/",
+    "mnemonic": "slay(杀)+in(过去分词)→杀死的状态"
+  },
+  "withstand": {
+    "word": "withstand",
+    "definition": "抵挡，承受",
+    "phonetic": "/wɪðˈstænd/",
+    "mnemonic": "with(与)+stand(站立)→与之站立，抵挡"
+  },
+  "downwards": {
+    "word": "downwards",
+    "definition": "向下，下降",
+    "phonetic": "/ˈdaʊnwərdz/",
+    "mnemonic": "down(下)+wards(方向)→向下的方向"
+  },
+  "corpse": {
+    "word": "corpse",
+    "definition": "尸体",
+    "phonetic": "/kɔːrps/",
+    "mnemonic": "cor(共同)+pse(死去)→共同的死去→尸体"
+  },
+  "grumble": {
+    "word": "grumble",
+    "definition": "抱怨",
+    "phonetic": "/ˈɡrʌmbl/",
+    "mnemonic": "grum(愤怒)+ble(发出声音)→愤怒地发出声音→抱怨"
+  },
+  "penetration": {
+    "word": "penetration",
+    "definition": "渗透",
+    "phonetic": "/ˌpɛnɪˈtreɪʃən/",
+    "mnemonic": "pen(笔)+etr(进入)+ation(动作)→笔进入→渗透"
+  },
+  "slandered": {
+    "word": "slandered",
+    "definition": "诽谤",
+    "phonetic": "/ˈslændərd/",
+    "mnemonic": "sland(污秽)+er(人)+ed(过去式)→污秽的人→诽谤"
+  },
+  "astray": {
+    "word": "astray",
+    "definition": "迷路",
+    "phonetic": "/əˈstreɪ/",
+    "mnemonic": "a(一个)+stray(流浪)→一个流浪的→迷路"
+  },
+  "rustics": {
+    "word": "rustics",
+    "definition": "乡下人，粗俗的人",
+    "phonetic": "/ˈrʌstɪks/",
+    "mnemonic": "rust（生锈）+ics（学科）=生锈的学科，乡下人"
+  },
+  "acquirements": {
+    "word": "acquirements",
+    "definition": "学识，才能",
+    "phonetic": "/əˈkwaɪərmənts/",
+    "mnemonic": "acquire(获得)+ments(名词后缀)"
+  },
+  "coffin": {
+    "word": "coffin",
+    "definition": "棺材",
+    "phonetic": "/ˈkɔːfɪn/",
+    "mnemonic": "可分为'可'和'芬'，想象一个可爱的芬芳的棺材"
+  },
+  "bewailed": {
+    "word": "bewailed",
+    "definition": "悲痛地哀悼",
+    "phonetic": "/bɪˈweɪld/",
+    "mnemonic": "be(被) + wailed(哭泣) = 被哭泣"
+  },
+  "exceedingly": {
+    "word": "exceedingly",
+    "definition": "极其，非常",
+    "phonetic": "/ɪkˈsiːdɪŋli/",
+    "mnemonic": "ex(超出) + ceed(走) + ing(状态) = 超出状态"
+  },
+  "mourn": {
+    "word": "mourn",
+    "definition": "哀悼，悲伤",
+    "phonetic": "/mɔrn/",
+    "mnemonic": "m(我) + ourn(哀伤) = 我哀伤"
+  },
+  "bitterly": {
+    "word": "bitterly",
+    "definition": "痛苦地，悲伤地",
+    "phonetic": "/ˈbɪtərli/",
+    "mnemonic": "bitter(苦) + ly(地) = 苦地"
+  },
+  "lute": {
+    "word": "lute",
+    "definition": "鲁特琴",
+    "phonetic": "/luːt/",
+    "mnemonic": "lute = 鲁特琴，想象鲁特琴的音色"
+  },
+  "superiority": {
+    "word": "superiority",
+    "definition": "优越性",
+    "phonetic": "/suːˌpɪəriˈɔːrɪti/",
+    "mnemonic": "super + ior + ity = 超级的优越性"
+  },
+  "imposts": {
+    "word": "imposts",
+    "definition": "税款",
+    "phonetic": "/ɪmˈpɒsts/",
+    "mnemonic": "im + post = 在邮寄时加税"
+  },
+  "assail": {
+    "word": "assail",
+    "definition": "攻击",
+    "phonetic": "[əˈseɪl]",
+    "mnemonic": "ass(攻击) + ail(痛苦) -> 攻击使人痛苦"
+  },
+  "acquiesce": {
+    "word": "acquiesce",
+    "definition": "默许",
+    "phonetic": "[ˌakwēˈes]",
+    "mnemonic": "ac(接受) + quiesce(安静) -> 默许接受"
+  },
+  "dull": {
+    "word": "dull",
+    "definition": "迟钝的，愚笨的",
+    "phonetic": "/dʌl/",
+    "mnemonic": "dull = dull（钝的）"
+  },
+  "compass": {
+    "word": "compass",
+    "definition": "范围，界限",
+    "phonetic": "/ˈkʌmpəs/",
+    "mnemonic": "com（共同）+pass（通过）= 共同的范围"
+  },
+  "thoughtful": {
+    "word": "thoughtful",
+    "definition": "深思的，考虑周到的",
+    "phonetic": "/ˈθɔːtfl/",
+    "mnemonic": "thought（思考）+ful（充满）= 充满思考的"
+  },
+  "distinctly": {
+    "word": "distinctly",
+    "definition": "清楚地，明显地",
+    "phonetic": "/dɪˈstɪŋktli/",
+    "mnemonic": "distinct（明显的）+ly（方式）= 以明显的方式"
+  },
+  "demeanor": {
+    "word": "demeanor",
+    "definition": "举止，行为",
+    "phonetic": "/dɪˈmiːnər/",
+    "mnemonic": "de（向下）+mean（意思）= 行为的意思"
+  },
+  "thrusting": {
+    "word": "thrusting",
+    "definition": "猛推，刺",
+    "phonetic": "/ˈθrʌstɪŋ/",
+    "mnemonic": "thrust（猛推）+ing（进行时）= 正在猛推"
+  },
+  "footsteps": {
+    "word": "footsteps",
+    "definition": "脚步声",
+    "phonetic": "/ˈfʊtˌstɛps/",
+    "mnemonic": "foot(脚)+steps(步伐)"
+  },
+  "perplexed": {
+    "word": "perplexed",
+    "definition": "困惑的",
+    "phonetic": "/pərˈplɛkst/",
+    "mnemonic": "per(完全)+plex(复杂)→完全复杂→困惑"
+  },
+  "rejoining": {
+    "word": "rejoining",
+    "definition": "重新加入",
+    "phonetic": "/riːˈdʒɔɪnɪŋ/",
+    "mnemonic": "re(再) + join(加入) -> 再次加入"
+  },
+  "zan": {
+    "word": "zan",
+    "definition": "赞美",
+    "phonetic": "/zæn/",
+    "mnemonic": "zan(赞) -> 赞美的意思"
+  },
+  "parricide": {
+    "word": "parricide",
+    "definition": "弑父",
+    "phonetic": "/ˈpærɪsaɪd/",
+    "mnemonic": "par(父)+ricide(杀)"
+  },
+  "regicide": {
+    "word": "regicide",
+    "definition": "弑君",
+    "phonetic": "/ˈrɛdʒɪsaɪd/",
+    "mnemonic": "reg(王)+icide(杀)"
+  },
+  "kao": {
+    "word": "kao",
+    "definition": "曹",
+    "phonetic": "/kaʊ/",
+    "mnemonic": "音似'靠'"
+  },
+  "tongued": {
+    "word": "tongued",
+    "definition": "口才好的",
+    "phonetic": "/tʌŋd/",
+    "mnemonic": "tongue(舌头)+ed(形容词后缀)"
+  },
+  "intrusted": {
+    "word": "intrusted",
+    "definition": "被委托的",
+    "phonetic": "/ɪnˈtrʌstɪd/",
+    "mnemonic": "in（在）+ trusted（被信任的）"
+  },
+  "gardening": {
+    "word": "gardening",
+    "definition": "园艺",
+    "phonetic": "/ˈɡɑːrdənɪŋ/",
+    "mnemonic": "garden（花园）+ ing（进行中）"
+  },
+  "gardener": {
+    "word": "gardener",
+    "definition": "园丁",
+    "phonetic": "/ˈɡɑːrdənər/",
+    "mnemonic": "garden（花园）+ er（人）"
+  },
+  "recite": {
+    "word": "recite",
+    "definition": "背诵",
+    "phonetic": "/rɪˈsaɪt/",
+    "mnemonic": "re（再）+ cite（引用）"
+  },
+  "unassisted": {
+    "word": "unassisted",
+    "definition": "未被帮助的",
+    "phonetic": "/ˌʌnəˈsɪstɪd/",
+    "mnemonic": "un（不）+ assisted（被帮助的）"
+  },
+  "notwithstanding": {
+    "word": "notwithstanding",
+    "definition": "尽管",
+    "phonetic": "/ˌnɑːt.wɪðˈstændɪŋ/",
+    "mnemonic": "not（不）+ withstanding（抵挡）"
+  },
+  "righteous": {
+    "word": "righteous",
+    "definition": "正义的",
+    "phonetic": "/ˈraɪtʃəs/",
+    "mnemonic": "right(正确) + eous(形容词后缀)"
+  },
+  "purity": {
+    "word": "purity",
+    "definition": "纯洁",
+    "phonetic": "/ˈpjʊrɪti/",
+    "mnemonic": "pure(纯) + ity(状态)"
+  },
+  "lien": {
+    "word": "lien",
+    "definition": "留置权",
+    "phonetic": "/liːən/",
+    "mnemonic": "联(lien) + 权(权利)"
+  },
+  "surrender": {
+    "word": "surrender",
+    "definition": "投降",
+    "phonetic": "/səˈrɛndər/",
+    "mnemonic": "surr(放弃) + ender(结束者)"
+  },
+  "taint": {
+    "word": "taint",
+    "definition": "污点",
+    "phonetic": "/teɪnt/",
+    "mnemonic": "ta(污) + int(点)"
+  },
+  "surrendered": {
+    "word": "surrendered",
+    "definition": "已投降的",
+    "phonetic": "/səˈrɛndərd/",
+    "mnemonic": "surrender(投降) + ed(过去分词)"
+  },
+  "twanging": {
+    "word": "twanging",
+    "definition": "拨弦声",
+    "phonetic": "/ˈtwæŋɪŋ/",
+    "mnemonic": "twang（拨弦声）+ ing（正在）"
+  },
+  "cherished": {
+    "word": "cherished",
+    "definition": "珍视的",
+    "phonetic": "/ˈtʃɛrɪʃt/",
+    "mnemonic": "cherish（珍惜）+ ed（过去分词）"
+  },
+  "heaved": {
+    "word": "heaved",
+    "definition": "叹息",
+    "phonetic": "/hiːvd/",
+    "mnemonic": "heave（用力）+ d（过去式）"
+  },
+  "subdue": {
+    "word": "subdue",
+    "definition": "征服，抑制",
+    "phonetic": "/səbˈdjuː/",
+    "mnemonic": "sub(下) + due(到期) = 让自己屈服"
+  },
+  "ascribe": {
+    "word": "ascribe",
+    "definition": "归因于",
+    "phonetic": "/əˈskraɪb/",
+    "mnemonic": "a(一个) + scribe(写) = 写下归因"
+  },
+  "deficient": {
+    "word": "deficient",
+    "definition": "不足的，缺乏的",
+    "phonetic": "/dɪˈfɪʃənt/",
+    "mnemonic": "de(去掉) + ficient(有效的) = 去掉有效的，变得不足"
+  },
+  "vigour": {
+    "word": "vigour",
+    "definition": "活力，精力",
+    "phonetic": "/ˈvɪɡər/",
+    "mnemonic": "vig(活力) + our(我们的) = 我们的活力"
+  },
+  "murmuring": {
+    "word": "murmuring",
+    "definition": "抱怨，低声说",
+    "phonetic": "/ˈmɜːrmərɪŋ/",
+    "mnemonic": "mur（低声）+ muring（发出声音）"
+  },
+  "requisites": {
+    "word": "requisites",
+    "definition": "政府所需条件",
+    "phonetic": "/ˈrɛkwɪzɪts/",
+    "mnemonic": "re(要求)+quisites(条件)→要求的条件"
+  },
+  "sufficiency": {
+    "word": "sufficiency",
+    "definition": "充足性",
+    "phonetic": "/səˈfɪʃənsi/",
+    "mnemonic": "suffi(足够)+ciency(状态)→足够的状态"
+  },
+  "dispensed": {
+    "word": "dispensed",
+    "definition": "分配，施与",
+    "phonetic": "/dɪsˈpɛnst/",
+    "mnemonic": "dis(分开)+pens(花费)→分开花费"
+  },
+  "ornamental": {
+    "word": "ornamental",
+    "definition": "装饰性的",
+    "phonetic": "/ˌɔrnəˈmɛntl/",
+    "mnemonic": "orn(装饰)+amental(性质)→装饰的性质"
+  },
+  "exalted": {
+    "word": "exalted",
+    "definition": "被提升的",
+    "phonetic": "/ɪɡˈzɔːltɪd/",
+    "mnemonic": "ex（向外）+alt（高）+ed（过去分词）"
+  },
+  "delusions": {
+    "word": "delusions",
+    "definition": "错觉",
+    "phonetic": "/dɪˈluːʒənz/",
+    "mnemonic": "de（否定）+lus（光）+ions（状态）"
+  },
+  "exalt": {
+    "word": "exalt",
+    "definition": "提升",
+    "phonetic": "/ɪɡˈzɔːlt/",
+    "mnemonic": "ex（向外）+alt（高）"
+  },
+  "delusion": {
+    "word": "delusion",
+    "definition": "幻觉",
+    "phonetic": "/dɪˈluːʒən/",
+    "mnemonic": "de（否定）+lus（光）+ion（状态）"
+  },
+  "rectify": {
+    "word": "rectify",
+    "definition": "纠正",
+    "phonetic": "/ˈrɛktɪfaɪ/",
+    "mnemonic": "rect(直)+ify(使)...变得直"
+  },
+  "pardon": {
+    "word": "pardon",
+    "definition": "原谅",
+    "phonetic": "/ˈpɑːrdən/",
+    "mnemonic": "pardon(原谅)像是给人一个机会"
+  },
+  "neglect": {
+    "word": "neglect",
+    "definition": "忽视",
+    "phonetic": "/nɪˈɡlɛkt/",
+    "mnemonic": "neg(否定)+lect(选择)不选择即忽视"
+  },
+  "rectification": {
+    "word": "rectification",
+    "definition": "纠正",
+    "phonetic": "/ˌrɛktɪfɪˈkeɪʃən/",
+    "mnemonic": "rectify(纠正)+cation(过程)纠正的过程"
+  },
+  "uncultivated": {
+    "word": "uncultivated",
+    "definition": "未开化的",
+    "phonetic": "/ˌʌnˈkʌltɪˌveɪtɪd/",
+    "mnemonic": "un(不)+cultivated(耕种)不耕种即未开化"
+  },
+  "accordance": {
+    "word": "accordance",
+    "definition": "一致",
+    "phonetic": "/əˈkɔːrdəns/",
+    "mnemonic": "accord(一致)+ance(状态)一致的状态"
+  },
+  "thieves": {
+    "word": "thieves",
+    "definition": "小偷，盗贼",
+    "phonetic": "/θiːvz/",
+    "mnemonic": "thie（偷）+ ves（复数）"
+  },
+  "gems": {
+    "word": "gems",
+    "definition": "宝石，珍宝",
+    "phonetic": "/dʒɛmz/",
+    "mnemonic": "gem（宝石）+ s（复数）"
+  },
+  "thief": {
+    "word": "thief",
+    "definition": "小偷，盗贼",
+    "phonetic": "/θiːf/",
+    "mnemonic": "thie（偷）+ f（单数）"
+  },
+  "impracticable": {
+    "word": "impracticable",
+    "definition": "不可行的",
+    "phonetic": "[ɪmˈpræktɪkəbl]",
+    "mnemonic": "im-不 + practic-实践 + able-能"
+  },
+  "disrespectful": {
+    "word": "disrespectful",
+    "definition": "不尊重的",
+    "phonetic": "[ˌdɪsrɪˈspɛktfəl]",
+    "mnemonic": "dis-不 + respect-尊重 + ful-形容词后缀"
+  },
+  "contradictory": {
+    "word": "contradictory",
+    "definition": "矛盾的",
+    "phonetic": "[ˌkɒntrəˈdɪktəri]",
+    "mnemonic": "contra-反 + dict-说 + ory-形容词后缀"
+  },
+  "gatekeeper": {
+    "word": "gatekeeper",
+    "definition": "守门人",
+    "phonetic": "[ˈɡeɪtˌkiːpər]",
+    "mnemonic": "gate-门 + keeper-守护者"
+  },
+  "disrespect": {
+    "word": "disrespect",
+    "definition": "不尊重",
+    "phonetic": "[ˌdɪsrɪˈspɛkt]",
+    "mnemonic": "dis-不 + respect-尊重"
+  },
+  "weary": {
+    "word": "weary",
+    "definition": "疲惫的",
+    "phonetic": "['wɪəri]",
+    "mnemonic": "拆解为'we'（我们）+'ary'（累的），意为我们累了"
+  },
+  "proprieties": {
+    "word": "proprieties",
+    "definition": "礼仪",
+    "phonetic": "/prəˈpraɪətiz/",
+    "mnemonic": "pro(专业) + priet(礼) + ies(复数)"
+  },
+  "flourish": {
+    "word": "flourish",
+    "definition": "繁荣",
+    "phonetic": "/ˈflʌrɪʃ/",
+    "mnemonic": "flour(花) + ish(变得)"
+  },
+  "appropriately": {
+    "word": "appropriately",
+    "definition": "适当地",
+    "phonetic": "/əˈproʊpriətli/",
+    "mnemonic": "appro(适合) + priate(私人) + ly(地)"
+  },
+  "incorrect": {
+    "word": "incorrect",
+    "definition": "不正确的",
+    "phonetic": "/ˌɪnkəˈrɛkt/",
+    "mnemonic": "in(不) + correct(正确的)"
+  },
+  "husbandry": {
+    "word": "husbandry",
+    "definition": "农业",
+    "phonetic": "/ˈhʌzbəndri/",
+    "mnemonic": "husband(丈夫) + ry(领域)"
+  },
+  "husbandman": {
+    "word": "husbandman",
+    "definition": "农夫",
+    "phonetic": "/ˈhʌzbəndmən/",
+    "mnemonic": "husband(丈夫) + man(人)"
+  },
+  "governmental": {
+    "word": "governmental",
+    "definition": "政府的",
+    "phonetic": "/ˌɡʌvərˈmɛntəl/",
+    "mnemonic": "政府的，政府+al"
+  },
+  "strictness": {
+    "word": "strictness",
+    "definition": "严格",
+    "phonetic": "/ˈstrɪktnəs/",
+    "mnemonic": "严格，strict+ness"
+  },
+  "notifications": {
+    "word": "notifications",
+    "definition": "通知",
+    "phonetic": "/ˌnoʊtɪfɪˈkeɪʃənz/",
+    "mnemonic": "通知，notify+cation"
+  },
+  "shu": {
+    "word": "shu",
+    "definition": "书",
+    "phonetic": "/ʃuː/",
+    "mnemonic": "书，发音像‘书’"
+  },
+  "scion": {
+    "word": "scion",
+    "definition": "后裔，子孙",
+    "phonetic": "/ˈsaɪən/",
+    "mnemonic": "拆解为 'sci'（科学） + 'on'（在上），科学的后代"
+  },
+  "enriched": {
+    "word": "enriched",
+    "definition": "使富裕",
+    "phonetic": "/ɪnˈrɪtʃt/",
+    "mnemonic": "en(进入)+rich(富裕)→进入富裕状态"
+  },
+  "succession": {
+    "word": "succession",
+    "definition": "继承",
+    "phonetic": "/səkˈsɛʃən/",
+    "mnemonic": "suc(下)+cess(走)+ion(名词后缀)→向下走，继承"
+  },
+  "violently": {
+    "word": "violently",
+    "definition": "猛烈地",
+    "phonetic": "/ˈvaɪələntli/",
+    "mnemonic": "viol(暴力)+ently(副词后缀)→用暴力的方式"
+  },
+  "dispense": {
+    "word": "dispense",
+    "definition": "分配",
+    "phonetic": "/dɪsˈpɛns/",
+    "mnemonic": "dis(分开)+pense(花费)→分开花费，分配"
+  },
+  "rectifying": {
+    "word": "rectifying",
+    "definition": "纠正",
+    "phonetic": "/ˈrɛk.tɪ.faɪɪŋ/",
+    "mnemonic": "rect(直)+ify(使)...变得直，意为纠正"
+  },
+  "prosperous": {
+    "word": "prosperous",
+    "definition": "繁荣的",
+    "phonetic": "/ˈprɒs.pər.əs/",
+    "mnemonic": "pros(向前)+per(完全)+ous(形容词后缀)，意为向前完全，繁荣"
+  },
+  "prosperity": {
+    "word": "prosperity",
+    "definition": "繁荣",
+    "phonetic": "/prɒsˈpɛr.ɪ.ti/",
+    "mnemonic": "prosper(繁荣)+ity(名词后缀)，意为繁荣的状态"
+  },
+  "desirous": {
+    "word": "desirous",
+    "definition": "渴望的",
+    "phonetic": "/dɪˈzaɪərəs/",
+    "mnemonic": "de(的)+sir(想要)+ous(的) → 渴望的"
+  },
+  "conceals": {
+    "word": "conceals",
+    "definition": "隐藏",
+    "phonetic": "/kənˈsiːlz/",
+    "mnemonic": "con(一起)+ceal(隐藏) → 一起隐藏"
+  },
+  "misconduct": {
+    "word": "misconduct",
+    "definition": "不当行为",
+    "phonetic": "/ˌmɪsˈkɒndʌkt/",
+    "mnemonic": "mis(错误)+conduct(行为) → 错误的行为"
+  },
+  "prognostication": {
+    "word": "prognostication",
+    "definition": "预言，预测",
+    "phonetic": "/prɒɡˌnɒstɪˈkeɪʃən/",
+    "mnemonic": "pro(专业) + gnost(知识) + ication(过程) → 专业知识的过程"
+  },
+  "affable": {
+    "word": "affable",
+    "definition": "和蔼可亲的",
+    "phonetic": "/ˈæf.ə.bəl/",
+    "mnemonic": "aff(亲近) + able(能够) → 能够亲近的人"
+  },
+  "adulatory": {
+    "word": "adulatory",
+    "definition": "谄媚的，奉承的",
+    "phonetic": "/ˈædʒ.ə.lə.tɔːr.i/",
+    "mnemonic": "ad(向) + ulatory(赞美) → 向人赞美的"
+  },
+  "accordant": {
+    "word": "accordant",
+    "definition": "一致的，和谐的",
+    "phonetic": "/əˈkɔː.dənt/",
+    "mnemonic": "accord(一致) + ant(形容词后缀) → 一致的"
+  },
+  "urgent": {
+    "word": "urgent",
+    "definition": "紧急的",
+    "phonetic": "/ˈɜrdʒənt/",
+    "mnemonic": "急着去做事情"
+  },
+  "uninstructed": {
+    "word": "uninstructed",
+    "definition": "未受教育的",
+    "phonetic": "/ˌʌnɪnˈstrʌktɪd/",
+    "mnemonic": "un(不)+instruct(教导)+ed(的)"
+  },
+  "shameful": {
+    "word": "shameful",
+    "definition": "可耻的",
+    "phonetic": "/ˈʃeɪmfəl/",
+    "mnemonic": "拆解为'sham'（羞愧）和'ful'（充满）"
+  },
+  "covetousness": {
+    "word": "covetousness",
+    "definition": "贪婪",
+    "phonetic": "/ˈkʌvɪtəsnəs/",
+    "mnemonic": "可（可）贪（贪）"
+  },
+  "repressed": {
+    "word": "repressed",
+    "definition": "被压抑的",
+    "phonetic": "/rɪˈprɛst/",
+    "mnemonic": "再（再）压（压）"
+  },
+  "cherishes": {
+    "word": "cherishes",
+    "definition": "珍惜",
+    "phonetic": "/ˈtʃɛrɪʃɪz/",
+    "mnemonic": "车（车）珍（珍）"
+  },
+  "lofty": {
+    "word": "lofty",
+    "definition": "高尚的",
+    "phonetic": "/ˈlɔfti/",
+    "mnemonic": "楼（楼）高（高）"
+  },
+  "skillful": {
+    "word": "skillful",
+    "definition": "熟练的",
+    "phonetic": "/ˈskɪl.fəl/",
+    "mnemonic": "skill(技能)+ful(充满)→充满技能的"
+  },
+  "toils": {
+    "word": "toils",
+    "definition": "辛苦劳作",
+    "phonetic": "/tɔɪlz/",
+    "mnemonic": "toil(辛苦)→辛苦的工作"
+  },
+  "possessors": {
+    "word": "possessors",
+    "definition": "拥有者",
+    "phonetic": "/pəˈzɛs.ərz/",
+    "mnemonic": "possess(拥有)+or(者)→拥有者"
+  },
+  "chung": {
+    "word": "chung",
+    "definition": "中间的",
+    "phonetic": "/tʃʌŋ/",
+    "mnemonic": "中(chung)间的"
+  },
+  "bravery": {
+    "word": "bravery",
+    "definition": "勇敢",
+    "phonetic": "/ˈbreɪvəri/",
+    "mnemonic": "勇敢(brave)的行为"
+  },
+  "reckoned": {
+    "word": "reckoned",
+    "definition": "被认为",
+    "phonetic": "/ˈrɛkənd/",
+    "mnemonic": "被(reck)算入的"
+  },
+  "successor": {
+    "word": "successor",
+    "definition": "继任者",
+    "phonetic": "/səkˈsɛsər/",
+    "mnemonic": "su(苏) + c(西) + cess(塞) + or(者) -> 继任者"
+  },
+  "crafty": {
+    "word": "crafty",
+    "definition": "狡猾的",
+    "phonetic": "/ˈkræfti/",
+    "mnemonic": "craft(工艺) + y(的) -> 工艺精巧，狡猾"
+  },
+  "beneficence": {
+    "word": "beneficence",
+    "definition": "善行，慈善",
+    "phonetic": "/bɪˈnɛfɪsəns/",
+    "mnemonic": "bene(好)+fic(做)+ence(状态)→做好事的状态"
+  },
+  "unbound": {
+    "word": "unbound",
+    "definition": "未束缚的，解开的",
+    "phonetic": "/ʌnˈbaʊnd/",
+    "mnemonic": "un(不)+bound(束缚)→不被束缚"
+  },
+  "lappets": {
+    "word": "lappets",
+    "definition": "衣服的翻边",
+    "phonetic": "/ˈlæpɪts/",
+    "mnemonic": "lap(翻边)+pets(小动物)→翻边像小动物的耳朵"
+  },
+  "fidelity": {
+    "word": "fidelity",
+    "definition": "忠诚，忠实",
+    "phonetic": "/fɪˈdɛlɪti/",
+    "mnemonic": "fid(信任)+elity(状态)→信任的状态"
+  },
+  "conferred": {
+    "word": "conferred",
+    "definition": "授予，赋予",
+    "phonetic": "/kənˈfɜːrd/",
+    "mnemonic": "con（共同）+fer（带来）=共同带来"
+  },
+  "discarded": {
+    "word": "discarded",
+    "definition": "丢弃，抛弃",
+    "phonetic": "/dɪsˈkɑːrdɪd/",
+    "mnemonic": "dis（不）+card（卡片）=不再用的卡片"
+  },
+  "revived": {
+    "word": "revived",
+    "definition": "复兴，恢复",
+    "phonetic": "/rɪˈvaɪvd/",
+    "mnemonic": "re（再）+vive（生活）=再生活"
+  },
+  "extinguished": {
+    "word": "extinguished",
+    "definition": "熄灭，消灭",
+    "phonetic": "/ɪkˈstɪŋɡwɪʃt/",
+    "mnemonic": "ex（外）+tinguish（熄灭）=向外熄灭"
+  },
+  "superintendence": {
+    "word": "superintendence",
+    "definition": "监督，管理",
+    "phonetic": "/ˌsuːpərɪnˈtɛndəns/",
+    "mnemonic": "super（超级）+intend（意图）= 超级意图的管理"
+  },
+  "sui": {
+    "word": "sui",
+    "definition": "自我，自己",
+    "phonetic": "/swiː/",
+    "mnemonic": "sui（随）= 随心所欲，自我"
+  },
+  "leisure": {
+    "word": "leisure",
+    "definition": "闲暇",
+    "phonetic": "/ˈliːʒər/",
+    "mnemonic": "leisure = 里(里) + 休(休) = 有时间休息"
+  },
+  "deceive": {
+    "word": "deceive",
+    "definition": "欺骗",
+    "phonetic": "/dɪˈsiːv/",
+    "mnemonic": "deceive = 迪(迪) + 西(西) + 夫(夫) = 迪西夫在欺骗"
+  },
+  "beforehand": {
+    "word": "beforehand",
+    "definition": "事先",
+    "phonetic": "/bɪˈfɔːrhænd/",
+    "mnemonic": "beforehand = 之前(前) + 手(手) = 之前准备好"
+  },
+  "apprehends": {
+    "word": "apprehends",
+    "definition": "理解",
+    "phonetic": "/ˌæprɪˈhɛndz/",
+    "mnemonic": "apprehends = 抓(抓) + 理(理) + 解(解) = 抓住理解"
+  },
+  "roosting": {
+    "word": "roosting",
+    "definition": "栖息",
+    "phonetic": "/ˈruːstɪŋ/",
+    "mnemonic": "roosting = 鸟(鸟) + 栖(栖) + 住(住) = 鸟栖息"
+  },
+  "talker": {
+    "word": "talker",
+    "definition": "说话者",
+    "phonetic": "/ˈtɔːkər/",
+    "mnemonic": "talker = 说(说) + 人(人) = 说话的人"
+  },
+  "befits": {
+    "word": "befits",
+    "definition": "适合",
+    "phonetic": "/bɪˈfɪts/",
+    "mnemonic": "be + fits（适合）"
+  },
+  "manhood": {
+    "word": "manhood",
+    "definition": "成年",
+    "phonetic": "/ˈmæn.hʊd/",
+    "mnemonic": "man（男人） + hood（状态）"
+  },
+  "shank": {
+    "word": "shank",
+    "definition": "小腿",
+    "phonetic": "/ʃæŋk/",
+    "mnemonic": "sh（小） + ank（腿）"
+  },
+  "efficiently": {
+    "word": "efficiently",
+    "definition": "高效地",
+    "phonetic": "/ɪˈfɪʃəntli/",
+    "mnemonic": "efficient(高效的)+ly(地)"
+  },
+  "exertion": {
+    "word": "exertion",
+    "definition": "努力，尽力",
+    "phonetic": "/ɪɡˈzɜːrʃən/",
+    "mnemonic": "ex(出)+ert(努力)+ion(名词后缀)"
+  },
+  "gravely": {
+    "word": "gravely",
+    "definition": "严肃地",
+    "phonetic": "/ˈɡreɪvli/",
+    "mnemonic": "grave(严肃的)+ly(地)"
+  },
+  "sharpen": {
+    "word": "sharpen",
+    "definition": "磨利",
+    "phonetic": "/ˈʃɑːr.pən/",
+    "mnemonic": "分开为 'shar' 和 'pen'，'shar'像'锐利'，'pen'像'笔'，合起来就是磨笔"
+  },
+  "shrewdness": {
+    "word": "shrewdness",
+    "definition": "精明，机智",
+    "phonetic": "/ʃruːdnəs/",
+    "mnemonic": "shrew（聪明的）+ dness（状态）"
+  },
+  "theirs": {
+    "word": "theirs",
+    "definition": "他们的",
+    "phonetic": "/ðɛrz/",
+    "mnemonic": "the（这个）+ irs（属于他们）"
+  },
+  "humility": {
+    "word": "humility",
+    "definition": "谦逊，谦卑",
+    "phonetic": "/hjuːˈmɪl.ɪ.ti/",
+    "mnemonic": "hum（低下）+ ility（状态）"
+  },
+  "wrangle": {
+    "word": "wrangle",
+    "definition": "争吵，争论",
+    "phonetic": "/ˈræŋɡl/",
+    "mnemonic": "wrang（争吵）+le（小）=小争吵"
+  },
+  "sociable": {
+    "word": "sociable",
+    "definition": "好交际的，社交的",
+    "phonetic": "/ˈsoʊʃəbl/",
+    "mnemonic": "soci（社交）+able（能）=能社交"
+  },
+  "partizan": {
+    "word": "partizan",
+    "definition": "党派支持者，偏见者",
+    "phonetic": "/ˈpɑːrtɪzæn/",
+    "mnemonic": "part（部分）+izan（人）=部分人支持"
+  },
+  "dealings": {
+    "word": "dealings",
+    "definition": "交往，交易",
+    "phonetic": "/ˈdiːlɪŋz/",
+    "mnemonic": "deal(交易) + ings(进行中) = 交往中"
+  },
+  "goodness": {
+    "word": "goodness",
+    "definition": "善良，优良",
+    "phonetic": "/ˈɡʊdnəs/",
+    "mnemonic": "good(好) + ness(状态) = 好的状态"
+  },
+  "confound": {
+    "word": "confound",
+    "definition": "使困惑",
+    "phonetic": "/kənˈfaʊnd/",
+    "mnemonic": "con(一起) + found(找到) = 一起找到，结果却困惑"
+  },
+  "luster": {
+    "word": "luster",
+    "definition": "光泽",
+    "phonetic": "/ˈlʌstər/",
+    "mnemonic": "lust(渴望) + er(者) = 渴望光泽的人"
+  },
+  "vermilion": {
+    "word": "vermilion",
+    "definition": "朱红色",
+    "phonetic": "/vərˈmɪl.jən/",
+    "mnemonic": "ver(真) + mil(米) + ion(离子) = 真米色，朱红色"
+  },
+  "overthrow": {
+    "word": "overthrow",
+    "definition": "推翻",
+    "phonetic": "/ˈoʊvərˌθroʊ/",
+    "mnemonic": "over(超过) + throw(扔) = 超过扔掉，推翻"
+  },
+  "forbearance": {
+    "word": "forbearance",
+    "definition": "宽容，忍耐",
+    "phonetic": "/fɔːrˈbɛərəns/",
+    "mnemonic": "for(为了) + bear(忍受) + ance(状态) = 为了忍受的状态"
+  },
+  "confounds": {
+    "word": "confounds",
+    "definition": "使困惑，混淆",
+    "phonetic": "/kənˈfaʊnd/",
+    "mnemonic": "con(一起) + found(发现) = 一起发现的东西让人困惑"
+  },
+  "multitude": {
+    "word": "multitude",
+    "definition": "大量，众多",
+    "phonetic": "/ˈmʌltɪtjuːd/",
+    "mnemonic": "multi(多) + tude(状态) = 多的状态"
+  },
+  "devolves": {
+    "word": "devolves",
+    "definition": "转移责任",
+    "phonetic": "/dɪˈvɑlvz/",
+    "mnemonic": "de(去) + volve(卷) = 责任转移"
+  },
+  "discharges": {
+    "word": "discharges",
+    "definition": "履行职责",
+    "phonetic": "/dɪsˈtʃɑːrdʒɪz/",
+    "mnemonic": "拆解为‘dis’(不) + ‘charge’(收费)，意为不收费的职责"
+  },
+  "cultivated": {
+    "word": "cultivated",
+    "definition": "培养的",
+    "phonetic": "/ˈkʌltɪveɪtɪd/",
+    "mnemonic": "cult(文化) + ivated(被...的) = 被文化培养的"
+  },
+  "downfalls": {
+    "word": "downfalls",
+    "definition": "崩溃",
+    "phonetic": "/ˈdaʊnˌfɔlz/",
+    "mnemonic": "down(向下) + falls(跌落) = 向下跌落"
+  },
+  "leavings": {
+    "word": "leavings",
+    "definition": "遗留物",
+    "phonetic": "/ˈliːvɪŋz/",
+    "mnemonic": "leave(留下) + ings(复数) = 留下的东西"
+  },
+  "punitive": {
+    "word": "punitive",
+    "definition": "惩罚性的",
+    "phonetic": "/ˈpjuːnɪtɪv/",
+    "mnemonic": "pun(惩罚) + itive(性质) = 惩罚性质的"
+  },
+  "subsidiary": {
+    "word": "subsidiary",
+    "definition": "附属的",
+    "phonetic": "/səbˈsɪdiəri/",
+    "mnemonic": "sub(下) + sid(坐) + iary(性质) = 下属性质的"
+  },
+  "yang": {
+    "word": "yang",
+    "definition": "阳光，阳性",
+    "phonetic": "/jɑːŋ/",
+    "mnemonic": "阳光照耀，阳性积极"
+  },
+  "jewel": {
+    "word": "jewel",
+    "definition": "珍宝，宝石",
+    "phonetic": "/ˈdʒuːəl/",
+    "mnemonic": "珠（j）+ 物（ewel）= 珍宝"
+  },
+  "bosom": {
+    "word": "bosom",
+    "definition": "胸部，怀抱",
+    "phonetic": "/ˈbʊzəm/",
+    "mnemonic": "胸（bo）里（som）抱（m）着"
+  },
+  "stringed": {
+    "word": "stringed",
+    "definition": "弦乐器的",
+    "phonetic": "/strɪŋd/",
+    "mnemonic": "string（弦）+ ed（过去分词）"
+  },
+  "fowl": {
+    "word": "fowl",
+    "definition": "家禽",
+    "phonetic": "/faʊl/",
+    "mnemonic": "f（发）+ owl（猫头鹰）= 发出声音的鸟"
+  },
+  "zao": {
+    "word": "zao",
+    "definition": "早",
+    "phonetic": "/zɑːo/",
+    "mnemonic": "发音像‘早’"
+  },
+  "rebellion": {
+    "word": "rebellion",
+    "definition": "叛乱",
+    "phonetic": "/rɪˈbɛljən/",
+    "mnemonic": "re（反）+ bell（钟）+ ion（状态）= 反抗的状态"
+  },
+  "earnestness": {
+    "word": "earnestness",
+    "definition": "认真，诚恳",
+    "phonetic": "ˈɜrnɪstnəs",
+    "mnemonic": "earn(挣) + est(最) + ness(状态) → 最认真状态"
+  },
+  "inapplicable": {
+    "word": "inapplicable",
+    "definition": "不适用的",
+    "phonetic": "ˌɪnəˈplɪkəbl",
+    "mnemonic": "in(不) + applicable(适用的) → 不适用的"
+  },
+  "recognises": {
+    "word": "recognises",
+    "definition": "认识，承认",
+    "phonetic": "ˈrɛkəɡnaɪz",
+    "mnemonic": "re(再) + cogn(知道) + ises → 再次知道"
+  },
+  "inquiring": {
+    "word": "inquiring",
+    "definition": "询问，探究",
+    "phonetic": "ɪnˈkwaɪərɪŋ",
+    "mnemonic": "in(在) + quire(询问) + ing → 在询问中"
+  },
+  "contemplation": {
+    "word": "contemplation",
+    "definition": "沉思，深思",
+    "phonetic": "/kənˌtɛm.pləˈteɪ.ʃən/",
+    "mnemonic": "con（一起）+ template（模板）= 一起思考"
+  },
+  "sociability": {
+    "word": "sociability",
+    "definition": "社交能力",
+    "phonetic": "/ˌsoʊ.ʃəˈbɪl.ɪ.ti/",
+    "mnemonic": "soci（社交）+ ability（能力）= 社交能力"
+  },
+  "acquainted": {
+    "word": "acquainted",
+    "definition": "熟悉的，了解的",
+    "phonetic": "/əˈkweɪn.tɪd/",
+    "mnemonic": "ac（加强）+ quaint（古怪的）= 熟悉的古怪事物"
+  },
+  "comfortably": {
+    "word": "comfortably",
+    "definition": "舒适地",
+    "phonetic": "/ˈkʌmfərtəbli/",
+    "mnemonic": "comfort(舒适)+ably(地)=舒适地"
+  },
+  "universally": {
+    "word": "universally",
+    "definition": "普遍地",
+    "phonetic": "/ˌjuːnɪˈvɜːrsəli/",
+    "mnemonic": "universe(宇宙)+ally(地)=普遍地"
+  },
+  "gamesters": {
+    "word": "gamesters",
+    "definition": "赌博者",
+    "phonetic": "/ˈɡeɪm.stərz/",
+    "mnemonic": "gam(游戏)+esters(者)→游戏者"
+  },
+  "chess": {
+    "word": "chess",
+    "definition": "国际象棋",
+    "phonetic": "/tʃɛs/",
+    "mnemonic": "ch(棋)+ess(精华)→棋的精华"
+  },
+  "valour": {
+    "word": "valour",
+    "definition": "勇气",
+    "phonetic": "/ˈvæl.ər/",
+    "mnemonic": "val(价值)+our(我们的)→我们的价值在于勇气"
+  },
+  "robbery": {
+    "word": "robbery",
+    "definition": "抢劫",
+    "phonetic": "/ˈrɒb.ər.i/",
+    "mnemonic": "rob(抢)+bery(行为)→抢的行为"
+  },
+  "hatreds": {
+    "word": "hatreds",
+    "definition": "仇恨",
+    "phonetic": "/ˈheɪ.trɪdz/",
+    "mnemonic": "hate(仇恨)+r(复数)→多种仇恨"
+  },
+  "slanders": {
+    "word": "slanders",
+    "definition": "诽谤",
+    "phonetic": "/ˈslændərz/",
+    "mnemonic": "slander（诽谤）+s（复数）"
+  },
+  "unobservant": {
+    "word": "unobservant",
+    "definition": "不注意的",
+    "phonetic": "/ˌʌnəbˈzɜrvənt/",
+    "mnemonic": "un（不）+observe（观察）+ant（形容词后缀）"
+  },
+  "pry": {
+    "word": "pry",
+    "definition": "窥探",
+    "phonetic": "/praɪ/",
+    "mnemonic": "pry（窥探）= pry into（探查）"
+  },
+  "discontented": {
+    "word": "discontented",
+    "definition": "不满的",
+    "phonetic": "/ˌdɪskənˈtɛndɪd/",
+    "mnemonic": "dis（不）+contented（满足的）"
+  },
+  "kan": {
+    "word": "kan",
+    "definition": "劝诫，抗议",
+    "phonetic": "/kæn/",
+    "mnemonic": "看（kan）着不对，劝诫"
+  },
+  "remonstrated": {
+    "word": "remonstrated",
+    "definition": "抗议，反对",
+    "phonetic": "/rɪˈmɒnstreɪtɪd/",
+    "mnemonic": "重新（re）展示（monstrated）反对意见"
+  },
+  "dismissal": {
+    "word": "dismissal",
+    "definition": "解雇，免职",
+    "phonetic": "/dɪsˈmɪsəl/",
+    "mnemonic": "dis(不)+miss(错过)→不再错过，解雇"
+  },
+  "madman": {
+    "word": "madman",
+    "definition": "疯子，狂人",
+    "phonetic": "/ˈmædˌmæn/",
+    "mnemonic": "mad(疯狂)+man(人)→疯狂的人，疯子"
+  },
+  "degenerated": {
+    "word": "degenerated",
+    "definition": "退化",
+    "phonetic": "/dɪˈdʒɛnəreɪtɪd/",
+    "mnemonic": "de-（去掉）+ generate（产生）= 去掉产生的东西，退化"
+  },
+  "reproof": {
+    "word": "reproof",
+    "definition": "指责",
+    "phonetic": "/rɪˈpruːf/",
+    "mnemonic": "re-（再）+ proof（证明）= 再次证明错误，指责"
+  },
+  "useless": {
+    "word": "useless",
+    "definition": "无用的",
+    "phonetic": "/ˈjuːsləs/",
+    "mnemonic": "use（使用）+ less（少）= 使用少了，变得无用"
+  },
+  "vain": {
+    "word": "vain",
+    "definition": "徒劳的",
+    "phonetic": "/veɪn/",
+    "mnemonic": "v（虚）+ ain（无）= 虚无的，徒劳的"
+  },
+  "alighted": {
+    "word": "alighted",
+    "definition": "下车",
+    "phonetic": "/əˈlaɪtɪd/",
+    "mnemonic": "a-（在）+ light（轻）= 在轻松的状态下下车"
+  },
+  "ford": {
+    "word": "ford",
+    "definition": "渡口",
+    "phonetic": "/fɔːrd/",
+    "mnemonic": "ford（福特）= 福特车可以在渡口过河"
+  },
+  "reins": {
+    "word": "reins",
+    "definition": "缰绳",
+    "phonetic": "/reɪnz/",
+    "mnemonic": "re-（再）+ ins（控制）= 再次控制马的缰绳"
+  },
+  "rejoined": {
+    "word": "rejoined",
+    "definition": "重新加入",
+    "phonetic": "/rɪˈdʒɔɪnd/",
+    "mnemonic": "re-（再）+ joined（加入）= 再次加入"
+  },
+  "inquire": {
+    "word": "inquire",
+    "definition": "询问",
+    "phonetic": "ɪnˈkwaɪər",
+    "mnemonic": "in(里面)+quire(要求)"
+  },
+  "mankind": {
+    "word": "mankind",
+    "definition": "人类",
+    "phonetic": "/ˈmæn.kaɪnd/",
+    "mnemonic": "man（人）+kind（种类）"
+  },
+  "unaccustomed": {
+    "word": "unaccustomed",
+    "definition": "不习惯的",
+    "phonetic": "/ʌnəˈkʌstəmd/",
+    "mnemonic": "un(不)+accustomed(习惯的)=不习惯的"
+  },
+  "millet": {
+    "word": "millet",
+    "definition": "小米",
+    "phonetic": "/ˈmɪlɪt/",
+    "mnemonic": "mil(米)+let(小)=小米"
+  },
+  "feasted": {
+    "word": "feasted",
+    "definition": "盛宴",
+    "phonetic": "/fiːstɪd/",
+    "mnemonic": "feast(盛宴)+ed(过去式)=盛宴"
+  },
+  "recluse": {
+    "word": "recluse",
+    "definition": "隐士",
+    "phonetic": "/rɪˈkluːs/",
+    "mnemonic": "re(再)+cluse(关闭)=再关闭=隐士"
+  },
+  "seclusion": {
+    "word": "seclusion",
+    "definition": "隐居，隔离",
+    "phonetic": "/sɪˈkluːʒən/",
+    "mnemonic": "se(分开)+clusion(关闭)→分开关闭在一起"
+  },
+  "exigency": {
+    "word": "exigency",
+    "definition": "紧急情况",
+    "phonetic": "/ˈɛksɪdʒənsi/",
+    "mnemonic": "ex(外)+ig(行动)+ency(状态)→外部行动的状态"
+  },
+  "predetermined": {
+    "word": "predetermined",
+    "definition": "预先决定的",
+    "phonetic": "/ˌpriːdɪˈtɜːrmɪnd/",
+    "mnemonic": "pre(预先)+determine(决定)→预先决定"
+  },
+  "pities": {
+    "word": "pities",
+    "definition": "怜悯",
+    "phonetic": "/ˈpɪtiːz/",
+    "mnemonic": "pity（怜悯）+ es（复数）"
+  },
+  "inferior": {
+    "word": "inferior",
+    "definition": "劣等的",
+    "phonetic": "/ɪnˈfɪəriər/",
+    "mnemonic": "in（不）+ fer（带来）+ ior（比较级）"
+  },
+  "gloss": {
+    "word": "gloss",
+    "definition": "掩饰",
+    "phonetic": "/ɡlɔs/",
+    "mnemonic": "光滑(gloss)的表面掩盖了瑕疵"
+  },
+  "oppressing": {
+    "word": "oppressing",
+    "definition": "压迫",
+    "phonetic": "/əˈprɛsɪŋ/",
+    "mnemonic": "压(压)迫(press)人"
+  },
+  "vilifying": {
+    "word": "vilifying",
+    "definition": "诽谤",
+    "phonetic": "/ˈvɪlɪfaɪɪŋ/",
+    "mnemonic": "恶(恶)意(vile)中伤"
+  },
+  "transgress": {
+    "word": "transgress",
+    "definition": "违反",
+    "phonetic": "/trænzˈɡrɛs/",
+    "mnemonic": "越(跨)过界限(trans)的行为"
+  },
+  "repass": {
+    "word": "repass",
+    "definition": "再次通过",
+    "phonetic": "/ˈriːpæs/",
+    "mnemonic": "再(re)次(pass)经过"
+  },
+  "receding": {
+    "word": "receding",
+    "definition": "后退",
+    "phonetic": "/rɪˈsiːdɪŋ/",
+    "mnemonic": "re（再）+cede（走）=再走回去"
+  },
+  "ignorant": {
+    "word": "ignorant",
+    "definition": "无知的",
+    "phonetic": "/ˈɪɡnərənt/",
+    "mnemonic": "ignore（忽视）+ant（虫）=忽视的虫子=无知"
+  },
+  "idle": {
+    "word": "idle",
+    "definition": "懒惰的",
+    "phonetic": "/ˈaɪdl/",
+    "mnemonic": "i（我）+dle（打发时间）=我在打发时间=懒惰"
+  },
+  "assorted": {
+    "word": "assorted",
+    "definition": "各式各样的",
+    "phonetic": "/əˈsɔːrtɪd/",
+    "mnemonic": "as（作为）+sort（分类）=作为分类的=各式各样的"
+  },
+  "consummation": {
+    "word": "consummation",
+    "definition": "完成",
+    "phonetic": "/ˌkɒnsəˈmeɪʃən/",
+    "mnemonic": "con（共同）+summ（总结）+ation（状态）=共同总结的状态=完成"
+  },
+  "discharged": {
+    "word": "discharged",
+    "definition": "履行完毕",
+    "phonetic": "/dɪsˈtʃɑːrdʒd/",
+    "mnemonic": "dis（不）+ charge（责任）= 不再有责任"
+  },
+  "competent": {
+    "word": "competent",
+    "definition": "有能力的",
+    "phonetic": "/ˈkɒmpɪtənt/",
+    "mnemonic": "能干的（competent）像个能干的（competent）人"
+  },
+  "disorganised": {
+    "word": "disorganised",
+    "definition": "混乱的",
+    "phonetic": "/dɪsˈɔːɡənaɪzd/",
+    "mnemonic": "不组织（dis）导致混乱（organised）"
+  },
+  "grieved": {
+    "word": "grieved",
+    "definition": "悲伤的",
+    "phonetic": "/ɡriːvd/",
+    "mnemonic": "感到悲伤（grieved）像是被伤害（grieve）"
+  },
+  "pity": {
+    "word": "pity",
+    "definition": "怜悯",
+    "phonetic": "/ˈpɪti/",
+    "mnemonic": "可怜（pity）像是心疼（pitiful）"
+  },
+  "eclipses": {
+    "word": "eclipses",
+    "definition": "日月的遮蔽",
+    "phonetic": "/ɪˈklɪpsɪz/",
+    "mnemonic": "eclipse=‘e’(遮) + ‘clip’(夹住) + ‘s’(复数)；想象日月被夹住"
+  },
+  "encompassing": {
+    "word": "encompassing",
+    "definition": "包围的",
+    "phonetic": "ɪnˈkʌmpəsɪŋ",
+    "mnemonic": "en(进入)+compass(罗盘)→进入罗盘的范围→包围的"
+  },
+  "peep": {
+    "word": "peep",
+    "definition": "窥视",
+    "phonetic": "piːp",
+    "mnemonic": "peep(偷偷看)→像小鸟一样偷偷看"
+  },
+  "fathoms": {
+    "word": "fathoms",
+    "definition": "深度单位",
+    "phonetic": "ˈfæðəmz",
+    "mnemonic": "fathom(理解)→理解深度→深度单位"
+  },
+  "revilingly": {
+    "word": "revilingly",
+    "definition": "辱骂地",
+    "phonetic": "/rɪˈvaɪlɪŋli/",
+    "mnemonic": "re（反）+ vile（卑鄙的）+ ly（副词后缀）"
+  },
+  "reviled": {
+    "word": "reviled",
+    "definition": "被辱骂的",
+    "phonetic": "/rɪˈvaɪld/",
+    "mnemonic": "re（反）+ vile（卑鄙的）+ d（过去式）"
+  },
+  "hillocks": {
+    "word": "hillocks",
+    "definition": "小丘",
+    "phonetic": "/ˈhɪlək/",
+    "mnemonic": "hill（山）+ ocks（小的）"
+  },
+  "mounds": {
+    "word": "mounds",
+    "definition": "土堆",
+    "phonetic": "/maʊnd/",
+    "mnemonic": "mound（堆）+ s（复数）"
+  },
+  "verified": {
+    "word": "verified",
+    "definition": "被证实的",
+    "phonetic": "/ˈvɛrɪfaɪd/",
+    "mnemonic": "ver(真)+ified(使...化)=被证实的"
+  },
+  "forthwith": {
+    "word": "forthwith",
+    "definition": "立即",
+    "phonetic": "/ˈfɔrθwɪθ/",
+    "mnemonic": "forth(向前)+with(与)=立即"
+  },
+  "multitudes": {
+    "word": "multitudes",
+    "definition": "大量",
+    "phonetic": "/ˈmʌltɪtjudz/",
+    "mnemonic": "multi(多)+tudes(状态)=大量"
+  },
+  "dominions": {
+    "word": "dominions",
+    "definition": "领土",
+    "phonetic": "/dəˈmɪnjənz/",
+    "mnemonic": "dom(家)+inions(统治)=领土"
+  },
+  "harmonious": {
+    "word": "harmonious",
+    "definition": "和谐的",
+    "phonetic": "/hɑːrˈmoʊniəs/",
+    "mnemonic": "harmon(和谐)+ious(形容词后缀)=和谐的"
+  },
+  "lamented": {
+    "word": "lamented",
+    "definition": "哀悼的",
+    "phonetic": "/ləˈmɛntɪd/",
+    "mnemonic": "lament(哀悼)+ed(过去式)=哀悼的"
+  },
+  "banish": {
+    "word": "banish",
+    "definition": "驱逐，消除",
+    "phonetic": "/ˈbænɪʃ/",
+    "mnemonic": "ban(禁止)+ish(使...状态)→使...被禁止→驱逐"
+  },
+  "beneficent": {
+    "word": "beneficent",
+    "definition": "行善的，有益的",
+    "phonetic": "/bəˈnɛfɪsənt/",
+    "mnemonic": "bene(好)+fic(做)+ent(形容词后缀)→做好事的人→行善的"
+  },
+  "stingy": {
+    "word": "stingy",
+    "definition": "吝啬的",
+    "phonetic": "/ˈstɪn.dʒi/",
+    "mnemonic": "sting（刺）+y（形容词后缀）"
+  },
+  "recognising": {
+    "word": "recognising",
+    "definition": "识别",
+    "phonetic": "/ˈrek.əɡ.naɪzɪŋ/",
+    "mnemonic": "re（再）+cogn（认识）+ising（进行时）"
+  }
+}

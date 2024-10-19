@@ -1,6 +1,32 @@
 # enladder-books
 
-## Book List
+为了解决学英语的难题，之前用 Kindle 的电子书有一个 Word Wise 功能，可以将难词提示出来。不过 Kindle 在中国下线了，于是我自己制作了一些需要的电子书。
+
+现在开源出来。
+
+在 Mac 自带阅读器打开的效果如下，Kindle 和 多看都可以使用：
+
+![](./screen-shot1.png)
+
+## 带中文难词提示的电子书清单(持续更新)
+
+- ✅ 鲁滨逊漂流记 / The Life and Adventures of Robinson Crusoe by Daniel Defoe
+- ✅ 傲慢和偏见 / Pride and Prejudice by Jane Austen
+- ✅ 时间旅行 / The Time Machine by H. G. Wells
+- ✅ 爱丽丝梦游仙境 / Alice's Adventures in Wonderland by Lewis Carroll
+- ✅ 地心游记 / A Journey to the Centre of the Earth by Jules Verne
+- ✅ 了不起的盖茨比 / The Great Gatsby by F. Scott Fitzgerald
+- ✅ 迷失的世界 / The Lost World by Arthur Conan Doyle
+- ✅ 月亮与六便士 / The Moon and Sixpence by W. Somerset Maugham
+- ✅ 论人类不平等的起源和基础 / A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind
+- ✅ 论语英文版 / The Analects of Confucius (from the Chinese Classics) by Confucius
+
+## 制作原理
+
+根据高频词库提取 5000 词以上的单词作为难词，在书籍中做了标注，如果需要背 5000 高频词汇，可以找到 frequency-word 目录，我准备了高频词汇清单文件。
+
+
+## 电子书源文件来源清单
 
 - The Life and Adventures of Robinson Crusoe by Daniel Defoe
 - Pride and Prejudice by Jane Austen
