@@ -45,7 +45,6 @@
 - The Art of War by active 6th century B.C. Sunzi https://www.gutenberg.org/ebooks/132
 - Anna Karenina by graf Leo Tolstoy https://www.gutenberg.org/ebooks/1399
 - The Awakening, and Selected Short Stories by Kate Chopin https://www.gutenberg.org/ebooks/160
-- Tractatus Logico-Philosophicus by Ludwig Wittgenstein https://www.gutenberg.org/ebooks/5740
 - Twenty Thousand Leagues under the Sea by Jules Verne https://www.gutenberg.org/ebooks/164
 - Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant https://www.gutenberg.org/ebooks/3090
 - Aesop's Fables; a new translation by Aesop https://www.gutenberg.org/ebooks/11339

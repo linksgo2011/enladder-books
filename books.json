@@ -108,5 +108,49 @@
     "description": "The Analects of Confucius, also known as Lunyu, is a collection of sayings and ideas attributed to the Chinese philosopher Confucius and his disciples. Compiled during the Warring States period, it serves as a foundational text for Confucianism. The work emphasizes moral integrity(正直), the importance of education, and the cultivation(修养) of virtue(美德). Key themes include the concept of 'ren' (benevolence(仁爱)), 'li' (ritual propriety(礼仪)), and the significance of filial(孝顺的) piety. Confucius advocates for a government led by virtuous rulers and the necessity of self-cultivation(修养) for individuals. The text is structured as dialogues, often featuring Confucius's responses to questions posed by his students. Through these discussions, Confucius imparts wisdom(智慧) on ethics(伦理), governance(治理), and personal conduct, encouraging individuals to strive for moral excellence and social harmony. The Analects remains influential in shaping Chinese culture and philosophy, promoting values that resonate across generations.",
     "epubUrl": "./books/The Analects of Confucius (from the Chinese Classics) by Confucius/hints.epub",
     "wordsUrl": "./books/The Analects of Confucius (from the Chinese Classics) by Confucius/hard-words.json"
+  },
+      {
+    "id": "123e4567-e89b-12d3-a456-426614174011",
+    "title": "A Hundred and Seventy Chinese Poems by Arthur Waley",
+    "cnTitle": "中国古代诗集",
+    "author": "Arthur Waley",
+    "cover": "./books/A Hundred and Seventy Chinese Poems by Arthur Waley/cover.jpg",
+    "difficulty": "Hard",
+    "description": "A Hundred and Seventy Chinese Poems is a collection that showcases the rich tradition of Chinese poetry, spanning various dynasties and styles. The anthology(选集) includes works from renowned(著名的) poets such as Li Bai, Du Fu, and Wang Wei, reflecting the depth of emotion and philosophical(哲学的) thought characteristic of Chinese literature. Each poem is accompanied by translations that aim to preserve the original's beauty and meaning while making it accessible(可接近的) to a broader audience. The themes explored in these poems range from nature and love to the passage of time and the human condition. The collection serves not only as a literary treasure but also as a cultural bridge, allowing readers to appreciate the nuances(细微差别) of Chinese poetic expression. Through vivid imagery(意象) and profound insights, these poems invite readers to contemplate(沉思) their own experiences and emotions, fostering a deeper understanding of both the individual and collective(集体的) human experience. The anthology(选集) is an essential resource for anyone interested in exploring the timeless art of Chinese poetry.",
+    "epubUrl": "./books/A Hundred and Seventy Chinese Poems by Arthur Waley/hints.epub",
+    "wordsUrl": "./books/A Hundred and Seventy Chinese Poems by Arthur Waley/hard-words.json"
+  },
+        {
+    "id": "123e4567-e89b-12d3-a456-426614174012",
+    "title": "Oliver Twist by Charles Dickens",
+    "cnTitle": "雾都孤儿",
+    "author": "Charles Dickens",
+    "cover": "./books/Oliver Twist by Charles Dickens/cover.jpg",
+    "difficulty": "Hard",
+    "description": "Oliver Twist, also known as 'The Adventures of Oliver Twist', is a novel by Charles Dickens published in 1837. The story follows a young orphan(孤儿) named Oliver, who is born in a workhouse and faces a life of hardship(艰难) and cruelty. After escaping from the workhouse, Oliver encounters a group of juvenile(青少年的) delinquents led by the cunning(狡猾的) Fagin, who trains children to become pickpockets. Throughout his journey, Oliver experiences the harsh realities of life in Victorian London, including poverty, crime, and exploitation(剥削). Despite the challenges he faces, Oliver remains innocent and kind-hearted. He eventually finds a loving home with Mr. Brownlow, a benevolent(仁慈的) gentleman who helps him escape the clutches of Fagin and his gang. The novel highlights themes of social injustice, the plight of the poor, and the importance of compassion(同情) and kindness. Dickens uses vivid characters and dramatic situations to illustrate the struggles of the underprivileged, making 'Oliver Twist' a powerful commentary on society's failures and the resilience(韧性) of the human spirit.",
+    "epubUrl": "./books/Oliver Twist by Charles Dickens/hints.epub",
+    "wordsUrl": "./books/Oliver Twist by Charles Dickens/hard-words.json"
+  },
+      {
+    "id": "123e4567-e89b-12d3-a456-426614174013",
+    "title": "Europe_A_History_-_Norman_Davies-1",
+    "cnTitle": "欧洲史",
+    "author": "Norman_Davies",
+    "cover": "./books/Europe_A_History_-_Norman_Davies-1/cover.jpg",
+    "difficulty": "Hard",
+    "description": "No yet",
+    "epubUrl": "./books/Europe_A_History_-_Norman_Davies-1/hints.epub",
+    "wordsUrl": "./books/Europe_A_History_-_Norman_Davies-1/hard-words.json"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174015",
+    "title": "Twenty Thousand Leagues under the Sea by Jules Verne",
+    "cnTitle": "海底两万里",
+    "author": "Jules Verne",
+    "cover": "./books/Twenty Thousand Leagues under the Sea by Jules Verne/cover.jpg",
+    "difficulty": "Hard",
+    "description": "Twenty Thousand Leagues Under the Sea is a classic science fiction novel by Jules Verne, published in 1870. The story follows Professor Pierre Aronnax, his servant Conseil, and Canadian whaler Ned Land, who are captured by Captain Nemo aboard the submarine(潜水艇) Nautilus. The narrative begins when a mysterious(神秘的) sea creature is reported to be sinking ships, prompting a naval expedition(探险) to hunt it down. After encountering the creature, they discover it is not a monster but a remarkable submarine(潜水艇). Throughout their journey, they explore the wonders of the ocean, including underwater(水下的) forests, coral reefs, and various marine(海洋的) life. Captain Nemo, a complex character, reveals his disdain(轻蔑) for society and his desire for freedom beneath the waves. The novel delves into themes of exploration(探索), adventure, and the conflict between humanity and nature……",
+    "epubUrl": "./books/Twenty Thousand Leagues under the Sea by Jules Verne/hints.epub",
+    "wordsUrl": "./books/Twenty Thousand Leagues under the Sea by Jules Verne/hard-words.json"
   }
 ]
